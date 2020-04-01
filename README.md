@@ -33,6 +33,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/publications-data/guidance-wearing-and-removing-personal-protective-equipment-healthcare-settings)
 * [National Institutes of Health (NIH)](https://www.nih.gov/health-information/coronavirus)
 * [U.S. Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/coronavirus-disease-2019-covid-19-frequently-asked-questions)
+* [KCDC COVID-19 Response Guidelines](http://www.cdc.go.kr/) - [COVID Translate Project](https://covidtranslate.org/)
 
 ## Association and Resource
 
