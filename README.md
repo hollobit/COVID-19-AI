@@ -46,6 +46,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus)
 * [COVID-19 fast track](https://app.smartsheet.com/b/form/c4990418a0d44e489ecf216424a2431d?utm_source=whatshappening_ask-image&utm_medium=hp&utm_campaign=ojemb)
 
+### SDOs
+ * [American National Standards Institute](https://www.ansi.org/COVID-19/)
+ 
 ### others 
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
 
