@@ -1,6 +1,6 @@
 # AI for fighting to COVID-19
 
-The purpose of this repository is providing the curated resource list of the state-of-the-art works on the field of AI/DL for fighting to COVID-19.
+The purpose of this repository is providing the curated resource list of the state-of-the-art works on the field of AI(Aritificial Intelligence)/DL(Deep Learning) for fighting to COVID-19.
 
 Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
 
