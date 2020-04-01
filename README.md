@@ -32,7 +32,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Publications](https://pubs.rsna.org/2019-ncov)
 * [Imaging Data Sharing Survey](http://bit.ly/rsna-covid-data)
 ### IEEE
-* [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus\)
+* [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus)
 * [COVID-19 fast track](https://app.smartsheet.com/b/form/c4990418a0d44e489ecf216424a2431d?utm_source=whatshappening_ask-image&utm_medium=hp&utm_campaign=ojemb)
 
 ## International Activity
