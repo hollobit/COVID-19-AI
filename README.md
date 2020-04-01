@@ -107,6 +107,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
 * [RSNA COVID-19](https://pubs.rsna.org/2019-ncov)
+* [medrXiv COVID](https://www.medrxiv.org/search/COVID)
 * [related article archive](https://pages.semanticscholar.org/coronavirus-research)
 
 ## Review Paper and Report
