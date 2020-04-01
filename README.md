@@ -95,11 +95,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ### Github
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
 
+### Lecture and Project 
+* [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
+
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
 * [월간 데이콘 4 코로나 데이터 시각화 경진대회](https://dacon.io/competitions/official/235590/overview/?fbclid=IwAR12vVjbOYFgvUNKk6o-8Scds_whPw2qcla8uaUbpnVlaRF9D6eAwVjHI6c)
 
-## Lecture and Coursework 
 
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
