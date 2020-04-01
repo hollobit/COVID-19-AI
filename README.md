@@ -10,6 +10,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Associations](#associations)
   + [RSNA](#rsna) 
   + [IEEE](#ieee)
+  + [HIMSS](#himss)
+  + [SDOs](#sdos)
+  + [Consortium](#consortium)
 * [International Activity](#international-activity)
   + [EU AI-ROBOTICS](#eu-ai-robotics)
   + [EU Imageing AI COVID-19](#eu-imaging-ai-covid-19)
@@ -20,12 +23,16 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   + [Google Cloud COVID-19 public dataset program](#google-cloud-covid-19-public-dataset-program)
   + [2019 COVID-19 Data Set in Korean](#2019-covid-19-data-set-in-korean)
   + [Open Datasets](#open-datasets)
+  + [APIs](#apis)
+  + [Github](#github)
+  + [Lecture and course](#lecture-and-course)
 * [Challenge](#challenge)
 * [Paper index](#paper-index)
 * [Review Paper and Report](#review-paper-and-report)
 * [News and Resources](#news-and-resource)
 * [Company and Product](#company-and-product)
-
+  + [AI-assisted COVID-19 applications in Korea](#ai-assisted-covid-19-applications-in-korea)
+  + [China](#china)
 ----
 ## Advice and guidance
 * [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
@@ -35,7 +42,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [U.S. Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/coronavirus-disease-2019-covid-19-frequently-asked-questions)
 * [KCDC COVID-19 Response Guidelines](http://www.cdc.go.kr/) - [COVID Translate Project](https://covidtranslate.org/)
 
-## Association and Resource
+## Associations
 
 ### RSNA
 * [Resources](https://www.rsna.org/covid-19)
@@ -46,10 +53,14 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus)
 * [COVID-19 fast track](https://app.smartsheet.com/b/form/c4990418a0d44e489ecf216424a2431d?utm_source=whatshappening_ask-image&utm_medium=hp&utm_campaign=ojemb)
 
+### HIMSS
+* [Coronavirus Updates](https://www.himss.org/news/coronavirus)
+* [COVID-19 Digital Think Tank](https://www.himss.org/news/covid-19-digital-think-tank)
+
 ### SDOs
  * [American National Standards Institute](https://www.ansi.org/COVID-19/)
  
-### others 
+### Consortium
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
 
 ## International Activity
@@ -96,10 +107,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [HIRA COVID-19 opendata](https://covid19data.hira.or.kr)
 * [open source COVID-19 glossary](http://open-source-covid-19.weileizeng.com/world)
 
+### APIs
+* [ProgrammableWeb's Coronavirus category](https://www.programmableweb.com/category/coronavirus)
+
 ### Github
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
 
-### Lecture and Project 
+### Lecture and course 
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
 
 ## Challenge
@@ -140,11 +154,16 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Fighting Covid-19 Using Data Science, AI, and Machine Learning](https://intellipaat.com/blog/fighting-covid-19-using-data-science-ai-and-machine-learning/)
 * [A.I. Versus the Coronavirus](https://www.nytimes.com/2020/03/26/science/ai-versus-the-coronavirus.html)
 * [Hospitals Deploy AI Tools to Detect COVID-19 on Chest Scans](https://spectrum.ieee.org/the-human-os/biomedical/imaging/hospitals-deploy-ai-tools-detect-covid19-chest-scans)
+* [5 Ways Data Scientists Can Help Respond to COVID-19 and 5 Actions to Avoid](https://towardsdatascience.com/5-ways-data-scientists-can-help-respond-to-covid-19-and-5-actions-to-avoid-d2accab283d1)
+* [Dutch companies Offer Free Innovative COVID-19 AI Software](https://www.itnonline.com/content/dutch-companies-offer-free-innovative-covid-19-ai-software)
+* [New York State Announces COVID-19 Technology SWAT Team](https://www.programmableweb.com/news/new-york-state-announces-covid-19-technology-swat-team/brief/2020/03/30)
+* [Daily API RoundUp: COVID-19, TeamWave, DroneDeploy, Canada Post](https://www.programmableweb.com/news/daily-api-roundup-covid-19-teamwave-dronedeploy-canada-post/brief/2020/04/01)
 
 ## Company and Product
 * [H2O.ai](https://www.h2o.ai/covid-19/)
 * [behold.ai](https://www.behold.ai/)
 * [Five Companies Using AI to Fight Coronavirus](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus) by IEEE
+* [thirona](https://thirona.eu/) and [Delft Imaging](https://www.delft.care/) - launched [CAD4COVID](https://www.delft.care/cad4covid/)
 
 ### AI-assisted COVID-19 applications in Korea: 
 * [Vuno](https://covid19.vunomed.com/)
