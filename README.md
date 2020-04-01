@@ -58,6 +58,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ## Open Research and dataset
 
 ### CORD-19 Open Research Dataset
+* [Call to Action to the Tech Community on New Machine Readable COVID-19 Dataset](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 * [CORD-19](https://pages.semanticscholar.org/coronavirus-research)
 
 ### CORD-19 Related dataset
