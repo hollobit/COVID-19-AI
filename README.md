@@ -5,6 +5,29 @@ The purpose of this repository is providing the curated resource list of the sta
 Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
 
 ----
+
+## Contents
+* [Association & Resource](#association-&-Resource)
+  + [RSNA](#rsna) 
+  + [IEEE](#ieee)
+  + [Itonline](#itonline)
+  + [Latest Coronavirus Updates for the Healthcare Community](#latest-coronavirus-updates-for-the-healthcare-community)
+* [International Activity](#international-activity)
+  + [EU AI-ROBOTICS](#eu-ai-robotics)
+  + [EU Imageing AI COVID-19](#eu-imaging-ai-covid-19)
+* [Open Research](#open-research)
+  + [CORD-19 Open Research Dataset](#cord-19-open-research-dataset)
+  + [CORD-19 Related dataset](#cord-19-related-dataset)
+  + [AWS Resources and programs supporting COVID-19 research](#aws-resrouces-and-programs-supporting-covid-19-research)
+  + [Google Cloud COVID-19 public dataset program](#google-cloud-covid-19-public-dataset-program)
+  + [2019 COVID-19 Data Set in Korean](#2019-covid-19-data-set-in-korean)
+* [Challenge](#challenge)
+* [Paper index](#paper-index)
+* [Review Paper & Report](#review-paper-&-report)
+* [News & Resources](#news-&-resource)
+* [Company & Product](#company-&-product)
+
+----
 ## Association & Resource
 ### RSNA
 * [Resources](https://www.rsna.org/covid-19)
@@ -26,7 +49,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 ## Open Research
 
-### Open Research Dataset
+### CORD-19 Open Research Dataset
 * [CORD-19](https://pages.semanticscholar.org/coronavirus-research)
 
 ### CORD-19 Related dataset
@@ -49,8 +72,8 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ### Google Cloud COVID-19 public dataset program
 * [Press release](https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19) - [Get Start](https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19-public-data-program?_ga=2.83757014.-19881939.1585612997)
  
-### 2019 COVID-19 (nCOV-19) - Data Set in Korean 한국어
-* [Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
+### 2019 COVID-19 Data Set in Korean
+* [한국어 Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
  
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
