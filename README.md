@@ -46,6 +46,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus)
 * [COVID-19 fast track](https://app.smartsheet.com/b/form/c4990418a0d44e489ecf216424a2431d?utm_source=whatshappening_ask-image&utm_medium=hp&utm_campaign=ojemb)
 
+### others 
+* [C3.ai Digital Transformation Institute](https://c3dti.ai/)
+
 ## International Activity
 ### EU AI-ROBOTICS
 * [https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance](https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance)
@@ -89,9 +92,14 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [HIRA COVID-19 opendata](https://covid19data.hira.or.kr)
 * [open source COVID-19 glossary](http://open-source-covid-19.weileizeng.com/world)
 
+### Github
+* [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
+
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
 * [월간 데이콘 4 코로나 데이터 시각화 경진대회](https://dacon.io/competitions/official/235590/overview/?fbclid=IwAR12vVjbOYFgvUNKk6o-8Scds_whPw2qcla8uaUbpnVlaRF9D6eAwVjHI6c)
+
+## Lecture and Coursework 
 
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
@@ -121,6 +129,8 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic](https://www.entrepreneur.com/article/348368)
 * [AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic](https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/#4f32d96058f8)
 * [UN, WHO & Mila Map the AI vs COVID-19 Battlefield](https://syncedreview.com/2020/03/27/un-who-mila-map-the-ai-vs-covid-19-battlefield/)
+* [Fighting Covid-19 Using Data Science, AI, and Machine Learning](https://intellipaat.com/blog/fighting-covid-19-using-data-science-ai-and-machine-learning/)
+* [A.I. Versus the Coronavirus](https://www.nytimes.com/2020/03/26/science/ai-versus-the-coronavirus.html)
 
 ## Company and Product
 * [H2O.ai](https://www.h2o.ai/covid-19/)
