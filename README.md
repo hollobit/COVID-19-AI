@@ -142,6 +142,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Five Companies Using AI to Fight Coronavirus](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus) by IEEE
 
 ### AI-assisted COVID-19 applications in Korea: 
+* [Vuno](https://covid19.vunomed.com/)
 * [Lunit](https://lunit.io/ko/covid19)
 * [Medical IP](http://medicalip.com/mobile/shop/covid19.php)
 
