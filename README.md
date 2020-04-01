@@ -7,7 +7,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ----
 
 ## Contents
-* [Association & Resource](#association-&-Resource)
+* [Association and Resource](#association-and-Resource)
   + [RSNA](#rsna) 
   + [IEEE](#ieee)
   + [Itonline](#itonline)
@@ -23,12 +23,12 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   + [2019 COVID-19 Data Set in Korean](#2019-covid-19-data-set-in-korean)
 * [Challenge](#challenge)
 * [Paper index](#paper-index)
-* [Review Paper & Report](#review-paper-&-report)
-* [News & Resources](#news-&-resource)
-* [Company & Product](#company-&-product)
+* [Review Paper and Report](#review-paper-and-report)
+* [News and Resources](#news-and-resource)
+* [Company and Product](#company-and-product)
 
 ----
-## Association & Resource
+## Association and Resource
 ### RSNA
 * [Resources](https://www.rsna.org/covid-19)
 * [Publications](https://pubs.rsna.org/2019-ncov)
@@ -83,7 +83,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
 * [RSNA COVID-19](https://pubs.rsna.org/2019-ncov)
 
-## Review Paper & Report
+## Review Paper and Report
 * [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
 * [Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China under public health interventions](http://jtd.amegroups.com/article/view/36385/pdf)
 * [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
@@ -91,7 +91,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis](https://arxiv.org/abs/2003.05037)
 * [Towards an Artificial Intelligence Framework for Data-Driven Prediction of Coronavirus Clinical Severity](https://www.techscience.com/cmc/v63n1/38464)
 
-## News & Resources
+## News and Resources
 * [Experimental AI tool predicts which COVID-19 patients develop respiratory disease](https://www.sciencedaily.com/releases/2020/03/200330152135.htm)
 * [World Economy Forum - AI can help with the COVID-19 crisis - but the right human input is key](https://www.weforum.org/agenda/2020/03/covid-19-crisis-artificial-intelligence-creativity/)
 * [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
@@ -105,7 +105,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic](https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/#4f32d96058f8)
 * [UN, WHO & Mila Map the AI vs COVID-19 Battlefield](https://syncedreview.com/2020/03/27/un-who-mila-map-the-ai-vs-covid-19-battlefield/)
 
-## Company & Product
+## Company and Product
 * [H2O.ai](https://www.h2o.ai/covid-19/)
 * [behold.ai](https://www.behold.ai/)
 * [Five Companies Using AI to Fight Coronavirus](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus) by IEEE
