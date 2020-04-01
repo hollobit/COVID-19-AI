@@ -139,6 +139,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [UN, WHO & Mila Map the AI vs COVID-19 Battlefield](https://syncedreview.com/2020/03/27/un-who-mila-map-the-ai-vs-covid-19-battlefield/)
 * [Fighting Covid-19 Using Data Science, AI, and Machine Learning](https://intellipaat.com/blog/fighting-covid-19-using-data-science-ai-and-machine-learning/)
 * [A.I. Versus the Coronavirus](https://www.nytimes.com/2020/03/26/science/ai-versus-the-coronavirus.html)
+* [Hospitals Deploy AI Tools to Detect COVID-19 on Chest Scans](https://spectrum.ieee.org/the-human-os/biomedical/imaging/hospitals-deploy-ai-tools-detect-covid19-chest-scans)
 
 ## Company and Product
 * [H2O.ai](https://www.h2o.ai/covid-19/)
