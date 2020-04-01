@@ -5,20 +5,21 @@ The purpose of this repository is providing the curated resource list of the sta
 Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
 
 ----
-
 ## Contents
+* [Advice and guidance](#advice-and-guidance)
 * [Associations](#associations)
   + [RSNA](#rsna) 
   + [IEEE](#ieee)
 * [International Activity](#international-activity)
   + [EU AI-ROBOTICS](#eu-ai-robotics)
   + [EU Imageing AI COVID-19](#eu-imaging-ai-covid-19)
-* [Open Research](#open-research)
+* [Open Research and dataset](#open-research-and-dataset)
   + [CORD-19 Open Research Dataset](#cord-19-open-research-dataset)
   + [CORD-19 Related dataset](#cord-19-related-dataset)
   + [AWS Resources and programs supporting COVID-19 research](#aws-resrouces-and-programs-supporting-covid-19-research)
   + [Google Cloud COVID-19 public dataset program](#google-cloud-covid-19-public-dataset-program)
   + [2019 COVID-19 Data Set in Korean](#2019-covid-19-data-set-in-korean)
+  + [Open Datasets](#open-datasets)
 * [Challenge](#challenge)
 * [Paper index](#paper-index)
 * [Review Paper and Report](#review-paper-and-report)
@@ -26,11 +27,20 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Company and Product](#company-and-product)
 
 ----
+## Advice and guidance
+* [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+* [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-nCoV/)
+* [European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/publications-data/guidance-wearing-and-removing-personal-protective-equipment-healthcare-settings)
+* [National Institutes of Health (NIH)](https://www.nih.gov/health-information/coronavirus)
+* [U.S. Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/coronavirus-disease-2019-covid-19-frequently-asked-questions)
+
 ## Association and Resource
+
 ### RSNA
 * [Resources](https://www.rsna.org/covid-19)
 * [Publications](https://pubs.rsna.org/2019-ncov)
 * [Imaging Data Sharing Survey](http://bit.ly/rsna-covid-data)
+
 ### IEEE
 * [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus)
 * [COVID-19 fast track](https://app.smartsheet.com/b/form/c4990418a0d44e489ecf216424a2431d?utm_source=whatshappening_ask-image&utm_medium=hp&utm_campaign=ojemb)
@@ -41,7 +51,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ### EU Imageing AI COVID-19
 * [https://imagingcovid19ai.eu/](https://imagingcovid19ai.eu/)
 
-## Open Research
+## Open Research and dataset
 
 ### CORD-19 Open Research Dataset
 * [CORD-19](https://pages.semanticscholar.org/coronavirus-research)
@@ -58,6 +68,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [COVID-19 Literature Review Collection](https://www.cochranelibrary.com/covid-19) (hosted by Cochrane Library)
 * [CORD-19 Search Engine](https://cord19.vespa.ai/) (provided by [Verizon Media](https://yahoodevelopers.tumblr.com/post/613846232270553088/search-covid-19-open-research-dataset-cord-19))
 * [Blog Post: Computer Scientists Are Building Algorithms to Tackle COVID-19](https://onezero.medium.com/amp/p/f4ec40acdba0)
+* [CORD-19 FHIR](https://github.com/fhircat/CORD-19-on-FHIR)
 
 ### AWS Resources and programs supporting COVID-19 research:
 * [AWS Diagnostic Development Initiative Web Portal](https://aws.amazon.com/government-education/nonprofits/disaster-response/diagnostic-dev-initiative/)
@@ -68,7 +79,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  
 ### 2019 COVID-19 Data Set in Korean
 * [한국어 Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
- 
+
+### Open Datasets 
+* [Cohen COVID-19 open dataset (X-rays, CTs)](https://github.com/ieee8023/covid-chestxray-dataset)
+* [Cohen COVID-19 crowed-sourcing annotation project](https://towardsdatascience.com/covid-19-imaging-dataset-chest-xray-ct-for-annotation-collaboration-5f6e076f5f22?fbclid=IwAR1U_kov2vIc3C9bjCN6vqqfdR1BIm4HXDIQoZqHLGkGn0DuFnlEFUSbUv0)
+* [UCSD-AI4H COVID-19 open dataset: 275 CT images](https://github.com/UCSD-AI4H/COVID-CT)
+* [100 segmented axial CT slices from ~60 Italian patients](http://medicalsegmentation.com/covid19/)
+* [HIRA COVID-19 opendata](https://covid19data.hira.or.kr)
+* [open source COVID-19 glossary](http://open-source-covid-19.weileizeng.com/world)
+
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
 * [월간 데이콘 4 코로나 데이터 시각화 경진대회](https://dacon.io/competitions/official/235590/overview/?fbclid=IwAR12vVjbOYFgvUNKk6o-8Scds_whPw2qcla8uaUbpnVlaRF9D6eAwVjHI6c)
@@ -76,6 +95,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
 * [RSNA COVID-19](https://pubs.rsna.org/2019-ncov)
+* [related article archive](https://pages.semanticscholar.org/coronavirus-research)
 
 ## Review Paper and Report
 * [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
