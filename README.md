@@ -124,7 +124,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
 * [RSNA COVID-19](https://pubs.rsna.org/2019-ncov)
-* [medrXiv COVID](https://www.medrxiv.org/search/COVID)
+* COVID-19 search results from [medrXiv](https://www.medrxiv.org/search/COVID)
+* COVID-19 SARS-CoV-2 preprints from [arXiv](https://arxiv.org/covid19search)
+* COVID-19 SARS-CoV-2 preprints from [medRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
 * [Google scholar COVID-19](https://scholar.google.com/scholar?q=COVID-19)
 * [related article archive](https://pages.semanticscholar.org/coronavirus-research)
 
