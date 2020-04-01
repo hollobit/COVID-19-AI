@@ -7,11 +7,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ----
 
 ## Contents
-* [Association and Resource](#association-and-Resource)
+* [Associations](#associations)
   + [RSNA](#rsna) 
   + [IEEE](#ieee)
-  + [Itonline](#itonline)
-  + [Latest Coronavirus Updates for the Healthcare Community](#latest-coronavirus-updates-for-the-healthcare-community)
 * [International Activity](#international-activity)
   + [EU AI-ROBOTICS](#eu-ai-robotics)
   + [EU Imageing AI COVID-19](#eu-imaging-ai-covid-19)
@@ -36,10 +34,6 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 ### IEEE
 * [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus\)
 * [COVID-19 fast track](https://app.smartsheet.com/b/form/c4990418a0d44e489ecf216424a2431d?utm_source=whatshappening_ask-image&utm_medium=hp&utm_campaign=ojemb)
-### Itonline
-* [https://www.itnonline.com/channel/coronavirus-covid-19](https://www.itnonline.com/channel/coronavirus-covid-19)
-### Latest Coronavirus Updates for the Healthcare Community
-* [https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-community](https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-communit)
 
 ## International Activity
 ### EU AI-ROBOTICS
@@ -92,6 +86,8 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Towards an Artificial Intelligence Framework for Data-Driven Prediction of Coronavirus Clinical Severity](https://www.techscience.com/cmc/v63n1/38464)
 
 ## News and Resources
+* [Itonline COVID-19 channel](https://www.itnonline.com/channel/coronavirus-covid-19)
+* [Latest Coronavirus Updates for the Healthcare Community](https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-communit)
 * [Experimental AI tool predicts which COVID-19 patients develop respiratory disease](https://www.sciencedaily.com/releases/2020/03/200330152135.htm)
 * [World Economy Forum - AI can help with the COVID-19 crisis - but the right human input is key](https://www.weforum.org/agenda/2020/03/covid-19-crisis-artificial-intelligence-creativity/)
 * [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
