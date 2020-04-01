@@ -160,6 +160,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [Dutch companies Offer Free Innovative COVID-19 AI Software](https://www.itnonline.com/content/dutch-companies-offer-free-innovative-covid-19-ai-software)
 * [New York State Announces COVID-19 Technology SWAT Team](https://www.programmableweb.com/news/new-york-state-announces-covid-19-technology-swat-team/brief/2020/03/30)
 * [Daily API RoundUp: COVID-19, TeamWave, DroneDeploy, Canada Post](https://www.programmableweb.com/news/daily-api-roundup-covid-19-teamwave-dronedeploy-canada-post/brief/2020/04/01)
+* [How AI Is Helping Us With The Coronavirus Pandemic](https://medium.com/reality-engines/how-ai-is-helping-us-with-the-coronavirus-pandemic-d3c555209323)
 
 ## Company and Product
 * [H2O.ai](https://www.h2o.ai/covid-19/)
