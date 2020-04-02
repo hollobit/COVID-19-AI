@@ -57,6 +57,12 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Coronavirus Updates](https://www.himss.org/news/coronavirus)
 * [COVID-19 Digital Think Tank](https://www.himss.org/news/covid-19-digital-think-tank)
 
+### BSTI
+* The British Society of Thoracic Imaging (BSTI) have built a free to use, [anonymised and encrypted online portal](https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/) to upload and refer imaging of patients with either confirmed or suspected COVID-19.
+
+### CIFAR
+* [Action on COVID-19](https://www.cifar.ca/action-on-covid19)
+
 ### SDOs
  * [American National Standards Institute](https://www.ansi.org/COVID-19/)
  
@@ -72,6 +78,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [AI and control of Covid-19 coronavirus](https://www.coe.int/en/web/artificial-intelligence/ai-and-control-of-covid-19-coronavirus)
 ### OECD
 * [AI-powered COVID-19 watch](https://oecd.ai/covid)
+### Canada
+* [AI Against COVID-19 Canada](https://ai-against-covid.ca/)
 
 ## Open Research and dataset
 
@@ -120,6 +128,10 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ### Lecture and course 
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
 
+### Tools
+* [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
+* DeepMind has [released structure predictions](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19) of several under-studied proteins associated with SARS-CoV-2
+
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
 * [월간 데이콘 4 코로나 데이터 시각화 경진대회](https://dacon.io/competitions/official/235590/overview/?fbclid=IwAR12vVjbOYFgvUNKk6o-8Scds_whPw2qcla8uaUbpnVlaRF9D6eAwVjHI6c)
@@ -165,6 +177,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [New York State Announces COVID-19 Technology SWAT Team](https://www.programmableweb.com/news/new-york-state-announces-covid-19-technology-swat-team/brief/2020/03/30)
 * [Daily API RoundUp: COVID-19, TeamWave, DroneDeploy, Canada Post](https://www.programmableweb.com/news/daily-api-roundup-covid-19-teamwave-dronedeploy-canada-post/brief/2020/04/01)
 * [How AI Is Helping Us With The Coronavirus Pandemic](https://medium.com/reality-engines/how-ai-is-helping-us-with-the-coronavirus-pandemic-d3c555209323)
+* [COVID-Net: an open source neural network for COVID-19 detection](https://medium.com/@sheldon.fernandez/covid-net-an-open-source-neural-network-for-covid-19-detection-48b8a55e6d44)
+* [COVID-19 Archive](https://www.covid19-archive.com/) is a collection of selected COVID-19 related news articles, categorized by date.
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
