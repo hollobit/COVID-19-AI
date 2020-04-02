@@ -1,8 +1,8 @@
-# AI for fighting to COVID-19
+# Artificial Intelligence to the fight against COVID-19
 
-The purpose of this repository is providing the curated resource list of the state-of-the-art works on the field of AI(Aritificial Intelligence)/DL(Deep Learning) for fighting to COVID-19.
+The purpose of this repository is providing the curated resource list of the state-of-the-art works on the field of AI(Aritificial Intelligence)/DL(Deep Learning) to the fight against COVID-19.
 
-Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
+Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@gmail.com or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
 
 ----
 ## Contents
@@ -167,6 +167,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [How AI Is Helping Us With The Coronavirus Pandemic](https://medium.com/reality-engines/how-ai-is-helping-us-with-the-coronavirus-pandemic-d3c555209323)
 
 ## Company and Product
+* [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
 * [H2O.ai](https://www.h2o.ai/covid-19/)
 * [behold.ai](https://www.behold.ai/)
 * [Five Companies Using AI to Fight Coronavirus](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus) by IEEE
