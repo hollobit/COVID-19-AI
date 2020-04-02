@@ -68,6 +68,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * [https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance](https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance)
 ### EU Imageing AI COVID-19
 * [https://imagingcovid19ai.eu/](https://imagingcovid19ai.eu/)
+### Council of Europe
+* [AI and control of Covid-19 coronavirus](https://www.coe.int/en/web/artificial-intelligence/ai-and-control-of-covid-19-coronavirus)
+### OECD
+* [AI-powered COVID-19 watch](https://oecd.ai/covid)
 
 ## Open Research and dataset
 
