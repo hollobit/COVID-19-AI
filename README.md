@@ -131,6 +131,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ### Tools
 * [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
 * DeepMind has [released structure predictions](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19) of several under-studied proteins associated with SARS-CoV-2
+* [Neural Covidex](https://covidex.ai/) applies state-of-the-art neural network models and artificial intelligence (AI) techniques to answer questions using the COVID-19 Open Research Dataset (CORD-19) - ([github source](https://github.com/castorini/covidex)
 
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
