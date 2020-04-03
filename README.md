@@ -71,6 +71,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
  
 ### Consortium
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
+* [Defeat Covid19 #defeatcovid19](https://www.defeatcovid19.org/) - [Introduction to the Group on GitHub](https://github.com/defeatcovid19) and first delivered [Pytorch solution for predictions on X-ray images of Covid-19 patients](https://github.com/defeatcovid19/defeatcovid19-net-pytorch).
 
 ## International Activity
 ### EU 
@@ -218,6 +219,17 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 free images](https://www.shutterstock.com/search/covid-19) by shutterstock 
 * [Imaging COVID-19 News](https://healthmanagement.org/c/imaging/covid-19)
 * [COVID-19 Information](https://hub.jhu.edu/novel-coronavirus-information/) by Johns Hopkins 
+* [Using AI responsibly to fight the coronavirus pandemic](https://techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/)
+* [STAT’s guide to how hospitals are using AI to fight Covid-19](https://www.statnews.com/2020/03/31/hospitals-artificial-intelligence-coronavirus/)
+* [UNLOCKING POTENTIALS OF NLP TO FIGHT AGAINST COVID-19 CRISIS](https://www.analyticsinsight.net/unlocking-potentials-nlp-fight-covid-19-crisis/)
+* [COVID-19: Artificial Intelligence joins the fight against Coronavirus](https://www.facebook.com/watch/?v=774609909730484)
+* [How AI could help in the fight against COVID-19](https://www.techrepublic.com/article/how-ai-could-help-in-the-fight-against-covid-19/)
+* [How is AI being used in the fight against COVID19?](https://www.analyticssteps.com/blogs/how-ai-being-used-fight-against-covid19)
+* [11 WAYS AI IS FIGHTING CORONAVIRUS OUTBREAK](https://analyticsindiamag.com/ai-corona-covid19-fight-deepmind-alibaba-baidu-algorithm/)
+* [Initiative Seeks to Leverage Artificial Intelligence to Defeat COVID-19](https://www.computer.org/publications/tech-news/research/initiative-to-defeat-covid-19-thanks-to-artificial-intelligence) by IEEE Computer Society
+* [AI vs COVID-19: Here are the AI tools and services fighting coronavirus](https://artificialintelligence-news.com/2020/03/23/ai-vs-covid-19-here-are-the-ai-tools-and-services-fighting-coronavirus/)
+* [Insights on Artificial intelligence Studies on COVID-19](https://www.techiexpert.com/insights-on-artificial-intelligence-studies-on-covid-19/)
+* [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
