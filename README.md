@@ -14,8 +14,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   + [SDOs](#sdos)
   + [Consortium](#consortium)
 * [International Activity](#international-activity)
-  + [EU AI-ROBOTICS](#eu-ai-robotics)
-  + [EU Imageing AI COVID-19](#eu-imaging-ai-covid-19)
+  + [EU](#eu)
+  + [OECD](#oecd)
+  + [Canada](#canada)
 * [Open Research and dataset](#open-research-and-dataset)
   + [CORD-19 Open Research Dataset](#cord-19-open-research-dataset)
   + [CORD-19 Related dataset](#cord-19-related-dataset)
@@ -26,6 +27,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   + [APIs](#apis)
   + [Github](#github)
   + [Lecture and course](#lecture-and-course)
+  + [Tools](#tools)
 * [Challenge](#challenge)
 * [Paper index](#paper-index)
 * [Review Paper and Report](#review-paper-and-report)
@@ -70,12 +72,10 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
 
 ## International Activity
-### EU AI-ROBOTICS
-* [https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance](https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance)
-### EU Imageing AI COVID-19
-* [https://imagingcovid19ai.eu/](https://imagingcovid19ai.eu/)
-### Council of Europe
-* [AI and control of Covid-19 coronavirus](https://www.coe.int/en/web/artificial-intelligence/ai-and-control-of-covid-19-coronavirus)
+### EU 
+* [AI-ROBOTICS](https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance)
+* [EU Imageing AI COVID-19](https://imagingcovid19ai.eu/)
+* [AI and control of Covid-19 coronavirus](https://www.coe.int/en/web/artificial-intelligence/ai-and-control-of-covid-19-coronavirus) by Council of Europe
 ### OECD
 * [AI-powered COVID-19 watch](https://oecd.ai/covid)
 ### Canada
