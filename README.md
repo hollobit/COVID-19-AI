@@ -80,6 +80,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [AI-powered COVID-19 watch](https://oecd.ai/covid)
 ### Canada
 * [AI Against COVID-19 Canada](https://ai-against-covid.ca/)
+### WHO
+* [Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 
 ## Open Research and dataset
 
@@ -142,7 +144,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [IEEE: COVID-19 Tweets Dataset](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
   * [University of Washington: COVID-19 Projections](https://covid19.healthdata.org/)
   * [Kaiser Family Foundation: Social Distancing Policies](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#socialdistancing)
-
+ * [Coronavirus (COVID-19) Resources](https://data.world/resources/coronavirus/) by data.world
+ 
 ### APIs
 * [ProgrammableWeb's Coronavirus category](https://www.programmableweb.com/category/coronavirus)
 
@@ -172,6 +175,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * COVID-19 SARS-CoV-2 preprints from [medRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
 * [Google scholar COVID-19](https://scholar.google.com/scholar?q=COVID-19)
 * [related article archive](https://pages.semanticscholar.org/coronavirus-research)
+* [Coronavirus (Covid-19)](https://www.nejm.org/coronavirus) by NEJM(New England Journal of Medicine)
 
 ## Review Paper and Report
 * [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
@@ -206,6 +210,10 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [How AI Is Helping Us With The Coronavirus Pandemic](https://medium.com/reality-engines/how-ai-is-helping-us-with-the-coronavirus-pandemic-d3c555209323)
 * [COVID-Net: an open source neural network for COVID-19 detection](https://medium.com/@sheldon.fernandez/covid-net-an-open-source-neural-network-for-covid-19-detection-48b8a55e6d44)
 * [COVID-19 Archive](https://www.covid19-archive.com/) is a collection of selected COVID-19 related news articles, categorized by date.
+* [DarwinAI Open-Sources COVID-Net as Medical Imaging in COVID-19 Diagnosis Debate Continues](https://medium.com/syncedreview/darwinai-open-sources-covid-net-as-medical-imaging-in-covid-19-diagnosis-debate-continues-99d1d5491c13)
+* ACR [COVID-19 Clinical Resources for Radiologists](https://www.acr.org/Clinical-Resources/COVID-19-Radiology-Resources)
+* [COVID-19 Resource Centre](https://www.thelancet.com/coronavirus) - The Lancet 
+* [COVID-19 free images](https://www.shutterstock.com/search/covid-19) by shutterstock 
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
