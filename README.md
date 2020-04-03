@@ -118,6 +118,30 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [100 segmented axial CT slices from ~60 Italian patients](http://medicalsegmentation.com/covid19/)
 * [HIRA COVID-19 opendata](https://covid19data.hira.or.kr)
 * [open source COVID-19 glossary](http://open-source-covid-19.weileizeng.com/world)
+* [C3.ai COVID-19 Data Lake](https://c3.ai/covid/) is a unified, open data image of critical COVID-19 data publicly available at no cost to the global research community beginning on April 13, 2020. C3.ai COVID-19 Data Lake data sets will initially include:
+  * [Johns Hopkins University: COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19)
+  * [The Atlantic: COVID Tracking Project](https://covidtracking.com/)
+  * [The New York Times: COVID-19 Data in the United States](https://github.com/nytimes/covid-19-data)
+  * [nCoV-2019 Data Working Group: Epidemiology Data](https://github.com/beoutbreakprepared/nCoV2019/tree/master/latest_data)
+  * [MOBS Lab: COVID-19 Situation Report](https://www.mobs-lab.org/2019ncov.html)
+  * [World Health Organization: Daily Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
+  * [European Centre for Disease Prevention and Control: Worldwide Situation Updates](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
+  * [University of Montreal: COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset)
+  * [National Center for Biotechnology Information Virus Database](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049)
+  * [COVID-19 Open Research Dataset (CORD-19)](https://registry.opendata.aws/cord-19/)
+* Additional datasets, to be published May 15, 2020, will include:
+  * [Data Science for COVID-19: South Korea Dataset](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
+  * [Indian Ministry of Health & Family Welfare: COVID-19 India](https://www.mohfw.gov.in/)
+  * [Sito del Dipartimento della Protezione Civile – Emergenza Coronavirus](https://github.com/pcm-dpc/COVID-19)
+  * [Data Science for COVID-19 Indonesia Initiative](https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases)
+  * [Kaiser Health: US Hospital ICU Beds](https://khn.org/news/as-coronavirus-spreads-widely-millions-of-older-americans-live-in-counties-with-no-icu-beds/#lookup)
+  * [HealthData.org: US Hospital Capacity](https://covid19.healthdata.org/projections)
+  * [Environment Protection Agency: US Air Quality](https://aqs.epa.gov/aqsweb/documents/data_api.html)
+  * [New York ISO: Electricity Load Data](https://www.nyiso.com/custom-reports)
+  * [US Census Bureau: Population Data](https://data.census.gov/cedsci/)
+  * [IEEE: COVID-19 Tweets Dataset](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
+  * [University of Washington: COVID-19 Projections](https://covid19.healthdata.org/)
+  * [Kaiser Family Foundation: Social Distancing Policies](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#socialdistancing)
 
 ### APIs
 * [ProgrammableWeb's Coronavirus category](https://www.programmableweb.com/category/coronavirus)
@@ -127,6 +151,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ### Lecture and course 
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
+* [Find my virus: Mobilising AI and big data to fight COVID-19](https://www.bruegel.org/events/find-my-virus-ai-can-help-track-corona-but-are-we-giving-up-privacy/)
+* Online Workshop on [Covid19@ELLIS](https://ellis.eu/covid-19) on April 1st 
 
 ### Tools
 * [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
