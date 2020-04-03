@@ -163,6 +163,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
 * DeepMind has [released structure predictions](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19) of several under-studied proteins associated with SARS-CoV-2
 * [Neural Covidex](https://covidex.ai/) applies state-of-the-art neural network models and artificial intelligence (AI) techniques to answer questions using the COVID-19 Open Research Dataset (CORD-19) - ([github source](https://github.com/castorini/covidex))
+* [COVID-19 Tools](http://surf.stanford.edu/covid-19-tools/) by SURF Stanford Medicine
 
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
@@ -232,6 +233,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [AI vs COVID-19: Here are the AI tools and services fighting coronavirus](https://artificialintelligence-news.com/2020/03/23/ai-vs-covid-19-here-are-the-ai-tools-and-services-fighting-coronavirus/)
 * [Insights on Artificial intelligence Studies on COVID-19](https://www.techiexpert.com/insights-on-artificial-intelligence-studies-on-covid-19/)
 * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
+* [Technology key to COVID-19 battle](http://www.chinadailyhk.com/article/126622)
+* [At Stanford’s AI Conference, Harnessing Tech to Fight COVID-19](https://www.extremetech.com/extreme/308714-at-stanfords-ai-conference-harnessing-tech-to-fight-covid-19)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
@@ -255,6 +258,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 </p>
 
 ## Miscellaneous
+* [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov) by nextstrain
 * [Coronavirus: A visual guide to the pandemic](https://www.bbc.com/news/world-51235105) by BBC
 * [COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/) by worldmeter 
 * [COVID-19 map](https://coronavirus.jhu.edu/map.html) by Johns Hopkins 
