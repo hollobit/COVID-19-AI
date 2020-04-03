@@ -259,6 +259,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 Realtime dashboard for Korean](https://coronaboard.kr/) - 코로나 보드
 * [Coronavirus disease (COVID-19) Situation Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 * [COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources)
+  * [Coronavirus (COVID-19) Viz Gallery](https://public.tableau.com/en-us/s/covid-19-viz-gallery)
   * [Coronavirus in the United States](https://public.tableau.com/profile/stanke#!/vizhome/CoronavirusintheUnitedStates_15855297920450/covid-19)
   * [COVID19 | Trend Tracker](https://public.tableau.com/profile/jonas.nart#!/vizhome/COVID19_15844962693420/COVID19-TrendTracker)
 * [COVID-19 Projections](https://covid19.healthdata.org/projections) by IHME
