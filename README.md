@@ -184,6 +184,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Digital technology and COVID-19](https://www.nature.com/articles/s41591-020-0824-5)
 * [Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis](https://arxiv.org/abs/2003.05037)
 * [Towards an Artificial Intelligence Framework for Data-Driven Prediction of Coronavirus Clinical Severity](https://www.techscience.com/cmc/v63n1/38464)
+* RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
 * [Itonline COVID-19 channel](https://www.itnonline.com/channel/coronavirus-covid-19)
@@ -214,6 +215,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * ACR [COVID-19 Clinical Resources for Radiologists](https://www.acr.org/Clinical-Resources/COVID-19-Radiology-Resources)
 * [COVID-19 Resource Centre](https://www.thelancet.com/coronavirus) - The Lancet 
 * [COVID-19 free images](https://www.shutterstock.com/search/covid-19) by shutterstock 
+* [Imaging COVID-19 News](https://healthmanagement.org/c/imaging/covid-19)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
