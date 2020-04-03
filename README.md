@@ -35,6 +35,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Company and Product](#company-and-product)
   + [AI-assisted COVID-19 applications in Korea](#ai-assisted-covid-19-applications-in-korea)
   + [China](#china)
+* [Miscellaneous](#miscellaneous)
 ----
 ## Advice and guidance
 * [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
@@ -101,7 +102,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 Literature Review Collection](https://www.cochranelibrary.com/covid-19) (hosted by Cochrane Library)
 * [CORD-19 Search Engine](https://cord19.vespa.ai/) (provided by [Verizon Media](https://yahoodevelopers.tumblr.com/post/613846232270553088/search-covid-19-open-research-dataset-cord-19))
 * [Blog Post: Computer Scientists Are Building Algorithms to Tackle COVID-19](https://onezero.medium.com/amp/p/f4ec40acdba0)
-* [CORD-19 FHIR](https://github.com/fhircat/CORD-19-on-FHIR)
+* [CORD-19 on FHIR](https://github.com/fhircat/CORD-19-on-FHIR)
 
 ### AWS Resources and programs supporting COVID-19 research:
 * [AWS Diagnostic Development Initiative Web Portal](https://aws.amazon.com/government-education/nonprofits/disaster-response/diagnostic-dev-initiative/)
@@ -160,7 +161,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ### Tools
 * [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
 * DeepMind has [released structure predictions](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19) of several under-studied proteins associated with SARS-CoV-2
-* [Neural Covidex](https://covidex.ai/) applies state-of-the-art neural network models and artificial intelligence (AI) techniques to answer questions using the COVID-19 Open Research Dataset (CORD-19) - ([github source](https://github.com/castorini/covidex)
+* [Neural Covidex](https://covidex.ai/) applies state-of-the-art neural network models and artificial intelligence (AI) techniques to answer questions using the COVID-19 Open Research Dataset (CORD-19) - ([github source](https://github.com/castorini/covidex))
 
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
@@ -216,6 +217,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 Resource Centre](https://www.thelancet.com/coronavirus) - The Lancet 
 * [COVID-19 free images](https://www.shutterstock.com/search/covid-19) by shutterstock 
 * [Imaging COVID-19 News](https://healthmanagement.org/c/imaging/covid-19)
+* [COVID-19 Information](https://hub.jhu.edu/novel-coronavirus-information/) by Johns Hopkins 
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
@@ -237,3 +239,25 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
     <img src="https://www.itnonline.com/sites/itnonline/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19%202.jpg" \>
     <img src="https://www.itnonline.com/sites/itnonline/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19%203.jpg" \>
 </p>
+
+## Miscellaneous
+* [Coronavirus: A visual guide to the pandemic](https://www.bbc.com/news/world-51235105) by BBC
+* [COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/) by worldmeter 
+* [COVID-19 map](https://coronavirus.jhu.edu/map.html) by Johns Hopkins 
+* [COVID-19 Realtime dashboard for Korean](https://coronaboard.kr/) - 코로나 보드
+* [Coronavirus disease (COVID-19) Situation Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+* [COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources)
+  * [Coronavirus in the United States](https://public.tableau.com/profile/stanke#!/vizhome/CoronavirusintheUnitedStates_15855297920450/covid-19)
+  * [COVID19 | Trend Tracker](https://public.tableau.com/profile/jonas.nart#!/vizhome/COVID19_15844962693420/COVID19-TrendTracker)
+* [COVID-19 Projections](https://covid19.healthdata.org/projections) by IHME
+* [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Our World in Data
+  * [Total confirmed cases of COVID-19](https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case)
+  * [COVID-19: Total confirmed cases vs. confirmed deaths](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-confirmed-deaths)
+  * [COVID-19: Daily new confirmed deaths - rolling 3-day average](https://ourworldindata.org/grapher/daily-covid-deaths-3-day-average)
+  * [Data on COVID-19 testing](https://ourworldindata.org/covid-testing)
+* [Free visualization & spatial analysis software to fight COVID-19](https://carto.com/blog/carto-free-for-fight-against-coronavirus/)
+  * [Novel Coronavirus (COVID-19) Infection Map](https://hgis.uw.edu/virus/) by the Humanistic GIS Lab at University of Washington - Seattle
+  * [Coronavirus Tracker](https://visalist.io/emergency/coronavirus) by Hari Krishna
+  * [Confirmed coronavirus cases in Singapore](https://sgwuhan.xose.net/) by @ottokyu
+  * [Risk map for the spread of COVID-19](https://covid-19-risk.github.io/map/) for the spread of COVID-19 in Spain, Portgual and Brazil.
+  * [State-by-State Map of School-Building Closures](https://www.edweek.org/ew/section/multimedia/map-coronavirus-and-school-closures.html) in the US
