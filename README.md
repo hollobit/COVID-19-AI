@@ -162,6 +162,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
 * [Find my virus: Mobilising AI and big data to fight COVID-19](https://www.bruegel.org/events/find-my-virus-ai-can-help-track-corona-but-are-we-giving-up-privacy/)
 * Online Workshop on [Covid19@ELLIS](https://ellis.eu/covid-19) on April 1st 
+* [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) by HAI, April 1, 2020 - [Agenda](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/agenda), [Video Archive](https://youtu.be/z4105Exe23Q) 
 
 ### Tools
 * [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
@@ -248,6 +249,17 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [HELP with COVID](https://helpwithcovid.com/)
 * [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 * [Coronavirus Reveals Limits of AI Health Tools](https://www.wsj.com/articles/coronavirus-reveals-limits-of-ai-health-tools-11582981201)
+* [Artificial Intelligence against COVID-19: An Early Review](https://towardsdatascience.com/artificial-intelligence-against-covid-19-an-early-review-92a8360edaba)
+* [AI technology to screen existing drugs for use against COVID-19](https://www.drugtargetreview.com/news/59188/ai-technology-to-screen-existing-drugs-for-use-against-covid-19/)
+* [AI Update: Using Artificial Intelligence to Combat COVID-19](https://www.covingtondigitalhealth.com/2020/04/ai-update-using-artificial-intelligence-to-combat-covid-19/)
+* [Analysis: Applying AI in the Fight Against The Coronavirus](https://hitconsultant.net/2020/04/01/analysis-applying-ai-in-the-fight-against-the-coronavirus/#.Xofeaogzb-h)
+* [Vuno offers free AI solution for reading COVID-19 lung images](http://www.koreabiomed.com/news/articleView.html?idxno=7919)
+* [Using Artificial Intelligence to detect COVID-19](https://becominghuman.ai/using-artificial-intelligence-to-detect-covid-19-6fcd9857b93f)
+* [How Hospitals Are Using AI to Battle Covid-19](https://hbr.org/2020/04/how-hospitals-are-using-ai-to-battle-covid-19)
+* [Covid-19: Focus on what China did right, not wrong](https://asiatimes.com/2020/04/covid-19-focus-on-what-china-did-right-not-wrong/)
+* [Tech News: Data and Artificial Intelligence in the Covid-19 crisis](https://www.iol.co.za/business-report/tech-news-data-and-artificial-intelligence-in-the-covid-19-crisis-45991847)
+* [Collaboration Aims to Fast-track AI Solution for Rapid COVID-19 Diagnosis Using Chest X-rays](https://thejournalofmhealth.com/collaboration-aims-to-fast-track-ai-solution-for-rapid-covid-19-diagnosis-using-chest-x-rays/)
+* [Big tech’s covid-19 opportunity](https://www.economist.com/leaders/2020/04/03/big-techs-covid-19-opportunity)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
