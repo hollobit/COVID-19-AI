@@ -206,6 +206,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* [Coronavirus: Research, Commentary, and News](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov) by Science
 * [Itonline COVID-19 channel](https://www.itnonline.com/channel/coronavirus-covid-19)
 * [Latest Coronavirus Updates for the Healthcare Community](https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-communit)
 * [Experimental AI tool predicts which COVID-19 patients develop respiratory disease](https://www.sciencedaily.com/releases/2020/03/200330152135.htm)
