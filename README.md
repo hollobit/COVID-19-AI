@@ -277,6 +277,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [behold.ai](https://www.behold.ai/)
 * [Five Companies Using AI to Fight Coronavirus](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus) by IEEE
 * [thirona](https://thirona.eu/) and [Delft Imaging](https://www.delft.care/) - launched [CAD4COVID](https://www.delft.care/cad4covid/)
+* [CoreASSIST](https://www.emids.com/coreassist/?cn-reloaded=1): Your COVID-19 Partner
 
 ### AI-assisted COVID-19 applications in Korea: 
 * [Vuno](https://covid19.vunomed.com/) offer two solutions - [VUNO Med®-LungQuant™](https://covid19ct.vunomed.com/), [VUNO Med®-Chest X-ray™](https://covid19cxr.vunomed.com/)
