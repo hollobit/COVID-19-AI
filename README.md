@@ -134,7 +134,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [National Center for Biotechnology Information Virus Database](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049)
   * [COVID-19 Open Research Dataset (CORD-19)](https://registry.opendata.aws/cord-19/)
 * Additional datasets, to be published May 15, 2020, will include:
-  * [Data Science for COVID-19: South Korea Dataset](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
+  * [Data Science for COVID-19 (DS4C): South Korea Dataset](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
   * [Indian Ministry of Health & Family Welfare: COVID-19 India](https://www.mohfw.gov.in/)
   * [Sito del Dipartimento della Protezione Civile – Emergenza Coronavirus](https://github.com/pcm-dpc/COVID-19)
   * [Data Science for COVID-19 Indonesia Initiative](https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases)
@@ -147,6 +147,10 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [University of Washington: COVID-19 Projections](https://covid19.healthdata.org/)
   * [Kaiser Family Foundation: Social Distancing Policies](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#socialdistancing)
  * [Coronavirus (COVID-19) Resources](https://data.world/resources/coronavirus/) by data.world
+ * [Comprehensive Covid-19 resources from ESRI/GIS](https://coronavirus-resources.esri.com/)
+ * [Covid-19 - fast.ai forum](https://forums.fast.ai/c/covid-19)
+ * [Auto-updated Dashboards](https://covid19dashboards.com/) built using fastpages and updated using github actions, from above JHU data
+ * [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/?utm_source=Nature%20Briefing&utm_campaign=2033dfb840-briefing-dy-20200318&utm_medium=email&utm_term=0_c9dfd39373-2033dfb840-43229289) is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus
  
 ### APIs
 * [ProgrammableWeb's Coronavirus category](https://www.programmableweb.com/category/coronavirus)
@@ -164,6 +168,12 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * DeepMind has [released structure predictions](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19) of several under-studied proteins associated with SARS-CoV-2
 * [Neural Covidex](https://covidex.ai/) applies state-of-the-art neural network models and artificial intelligence (AI) techniques to answer questions using the COVID-19 Open Research Dataset (CORD-19) - ([github source](https://github.com/castorini/covidex))
 * [COVID-19 Tools](http://surf.stanford.edu/covid-19-tools/) by SURF Stanford Medicine
+* [Covid-19 Data Explorer](https://covid19.cwerner.ai/) - Web-app built from Streamlit
+* [Impressive visualizer of country numbers](https://boogheta.github.io/coronavirus-countries/)
+* [Covid19 Tracker - US ONLY!](https://covidtracking.com/)
+* [Microsoft covid19 tracker](https://www.bing.com/covid) - but no raw data
+* [outbreak simulation](https://meltingasphalt.com/interactive/outbreak/)
+* Scale-AI will provide [free data-labeling/annotation service for researchers working](https://scale.com/blog/scale-ai-covid-19-research) with [[covid19]] datasets
 
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
@@ -235,6 +245,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 * [Technology key to COVID-19 battle](http://www.chinadailyhk.com/article/126622)
 * [At Stanford’s AI Conference, Harnessing Tech to Fight COVID-19](https://www.extremetech.com/extreme/308714-at-stanfords-ai-conference-harnessing-tech-to-fight-covid-19)
+* [HELP with COVID](https://helpwithcovid.com/)
+* [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
+* [Coronavirus Reveals Limits of AI Health Tools](https://www.wsj.com/articles/coronavirus-reveals-limits-of-ai-health-tools-11582981201)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
@@ -258,6 +271,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 </p>
 
 ## Miscellaneous
+* [Outbreak Info](https://outbreak.info/)
 * [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov) by nextstrain
 * [Coronavirus: A visual guide to the pandemic](https://www.bbc.com/news/world-51235105) by BBC
 * [COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/) by worldmeter 
@@ -280,3 +294,4 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Confirmed coronavirus cases in Singapore](https://sgwuhan.xose.net/) by @ottokyu
   * [Risk map for the spread of COVID-19](https://covid-19-risk.github.io/map/) for the spread of COVID-19 in Spain, Portgual and Brazil.
   * [State-by-State Map of School-Building Closures](https://www.edweek.org/ew/section/multimedia/map-coronavirus-and-school-closures.html) in the US
+  
