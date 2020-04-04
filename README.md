@@ -193,6 +193,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [related article archive](https://pages.semanticscholar.org/coronavirus-research)
 * [Coronavirus (Covid-19)](https://www.nejm.org/coronavirus) by NEJM(New England Journal of Medicine)
 
+## Call for Papers
+* [Call for Papers - Special Issue on Artificial Intelligence and Information Technologies for COVID-19](http://www.techscience.com/ndetail/covid-19), Computers, Materials & Continua (CMC)
+
 ## Review Paper and Report
 * [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
 * [Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China under public health interventions](http://jtd.amegroups.com/article/view/36385/pdf)
@@ -260,6 +263,10 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Tech News: Data and Artificial Intelligence in the Covid-19 crisis](https://www.iol.co.za/business-report/tech-news-data-and-artificial-intelligence-in-the-covid-19-crisis-45991847)
 * [Collaboration Aims to Fast-track AI Solution for Rapid COVID-19 Diagnosis Using Chest X-rays](https://thejournalofmhealth.com/collaboration-aims-to-fast-track-ai-solution-for-rapid-covid-19-diagnosis-using-chest-x-rays/)
 * [Big tech’s covid-19 opportunity](https://www.economist.com/leaders/2020/04/03/big-techs-covid-19-opportunity)
+* [Lawrence Livermore Lab Uses Artificial Intelligence and Supercomputers in Global Fight Against COVID-19](https://scitechdaily.com/lawrence-livermore-lab-uses-artificial-intelligence-and-supercomputers-in-global-fight-against-covid-19/)
+* [BenevolentAI analyses approved drug as potential Covid-19 treatment](https://www.cambridgeindependent.co.uk/business/benevolentai-analyses-approved-drug-as-potential-covid-19-treatment-9102147/)
+* [AI project aims to diagnose COVID-19 using voice analysis](https://artificialintelligence-news.com/2020/04/01/ai-project-diagnose-covid-19-voice-analysis/)
+* [‘Human experts will make the call’: Stanford launches an accelerated test of AI to help care for Covid-19 patients](https://www.statnews.com/2020/04/01/stanford-artificial-intelligence-coronavirus/)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
