@@ -104,6 +104,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [CORD-19 Search Engine](https://cord19.vespa.ai/) (provided by [Verizon Media](https://yahoodevelopers.tumblr.com/post/613846232270553088/search-covid-19-open-research-dataset-cord-19))
 * [Blog Post: Computer Scientists Are Building Algorithms to Tackle COVID-19](https://onezero.medium.com/amp/p/f4ec40acdba0)
 * [CORD-19 on FHIR](https://github.com/fhircat/CORD-19-on-FHIR)
+* [Covid-19 Semantic Browser](https://github.com/gsarti/covid-papers-browser): Browse Covid-19 & SARS-CoV-2 Scientific Papers with Transformers
 
 ### AWS Resources and programs supporting COVID-19 research:
 * [AWS Diagnostic Development Initiative Web Portal](https://aws.amazon.com/government-education/nonprofits/disaster-response/diagnostic-dev-initiative/)
@@ -151,6 +152,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
  * [Covid-19 - fast.ai forum](https://forums.fast.ai/c/covid-19)
  * [Auto-updated Dashboards](https://covid19dashboards.com/) built using fastpages and updated using github actions, from above JHU data
  * [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/?utm_source=Nature%20Briefing&utm_campaign=2033dfb840-briefing-dy-20200318&utm_medium=email&utm_term=0_c9dfd39373-2033dfb840-43229289) is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus
+ * [100+ million COVID-19 Twitter dataset and pre-processing scripts](https://github.com/thepanacealab/covid19_twitter) @github - [Covid-19 Twitter chatter dataset] for scientific use(http://www.panacealab.org/covid19/)
  
 ### APIs
 * [ProgrammableWeb's Coronavirus category](https://www.programmableweb.com/category/coronavirus)
@@ -175,6 +177,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Microsoft covid19 tracker](https://www.bing.com/covid) - but no raw data
 * [outbreak simulation](https://meltingasphalt.com/interactive/outbreak/)
 * Scale-AI will provide [free data-labeling/annotation service for researchers working](https://scale.com/blog/scale-ai-covid-19-research) with [[covid19]] datasets
+* [ACES Pandemic Tracker](https://www.kflaphi.ca/aces-pandemic-tracker/)
 
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
@@ -270,6 +273,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [‘Human experts will make the call’: Stanford launches an accelerated test of AI to help care for Covid-19 patients](https://www.statnews.com/2020/04/01/stanford-artificial-intelligence-coronavirus/)
 * [COVID-19 machine learning effort: Preprints are key](https://www.cshl.edu/covid-19-machine-learning-effort-preprints-are-key/)
 * [How Medical Imaging Datasets Can Help AI to Diagnosis the Covid-19 Like Deadly Virus?](https://www.cogitotech.com/blog/how-medical-imaging-datasets-can-help-ai-to-diagnosis-covid-19-virus/)
+* [AI played a part in spotting COVID-19. Now, it’s helping to fight it](https://kainos.com/ai-played-a-part-in-spotting-covid-19-now-its-helping-to-fight-it)
+* [Online pandemic tracker launched to flag surges in COVID-19 cases](https://www.thestar.com/news/gta/2020/04/02/online-pandemic-tracker-launched-to-flag-surges-in-covid-19-cases.html)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
@@ -278,6 +283,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Five Companies Using AI to Fight Coronavirus](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus) by IEEE
 * [thirona](https://thirona.eu/) and [Delft Imaging](https://www.delft.care/) - launched [CAD4COVID](https://www.delft.care/cad4covid/)
 * [CoreASSIST](https://www.emids.com/coreassist/?cn-reloaded=1): Your COVID-19 Partner
+* [COVID-19 Awareness Tool](https://www.tcog.com/news/2020/04/covid-19-awareness-tool/) by TCOG
+* [Startup initiatives in times of Covid-19](https://www.imec-int.com/en/istart/startup-initiatives-covid-19)
 
 ### AI-assisted COVID-19 applications in Korea: 
 * [Vuno](https://covid19.vunomed.com/) offer two solutions - [VUNO Med®-LungQuant™](https://covid19ct.vunomed.com/), [VUNO Med®-Chest X-ray™](https://covid19cxr.vunomed.com/)
