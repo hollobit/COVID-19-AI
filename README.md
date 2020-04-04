@@ -268,6 +268,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [BenevolentAI analyses approved drug as potential Covid-19 treatment](https://www.cambridgeindependent.co.uk/business/benevolentai-analyses-approved-drug-as-potential-covid-19-treatment-9102147/)
 * [AI project aims to diagnose COVID-19 using voice analysis](https://artificialintelligence-news.com/2020/04/01/ai-project-diagnose-covid-19-voice-analysis/)
 * [‘Human experts will make the call’: Stanford launches an accelerated test of AI to help care for Covid-19 patients](https://www.statnews.com/2020/04/01/stanford-artificial-intelligence-coronavirus/)
+* [COVID-19 machine learning effort: Preprints are key](https://www.cshl.edu/covid-19-machine-learning-effort-preprints-are-key/)
+* [How Medical Imaging Datasets Can Help AI to Diagnosis the Covid-19 Like Deadly Virus?](https://www.cogitotech.com/blog/how-medical-imaging-datasets-can-help-ai-to-diagnosis-covid-19-virus/)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
