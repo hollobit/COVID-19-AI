@@ -23,6 +23,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   + [AWS Resources and programs supporting COVID-19 research](#aws-resrouces-and-programs-supporting-covid-19-research)
   + [Google Cloud COVID-19 public dataset program](#google-cloud-covid-19-public-dataset-program)
   + [2019 COVID-19 Data Set in Korean](#2019-covid-19-data-set-in-korean)
+  + [Image datasets](#image-datasets)
   + [Open Datasets](#open-datasets)
   + [APIs](#apis)
   + [Github](#github)
@@ -116,11 +117,15 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ### 2019 COVID-19 Data Set in Korean
 * [한국어 Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
 
-### Open Datasets 
+### Image datasets
+* [Società Italiana di Radiologia Medica e Interventistica](https://www.sirm.org/category/senza-categoria/covid-19/)
 * [Cohen COVID-19 open dataset (X-rays, CTs)](https://github.com/ieee8023/covid-chestxray-dataset)
 * [Cohen COVID-19 crowed-sourcing annotation project](https://towardsdatascience.com/covid-19-imaging-dataset-chest-xray-ct-for-annotation-collaboration-5f6e076f5f22?fbclid=IwAR1U_kov2vIc3C9bjCN6vqqfdR1BIm4HXDIQoZqHLGkGn0DuFnlEFUSbUv0)
 * [UCSD-AI4H COVID-19 open dataset: 275 CT images](https://github.com/UCSD-AI4H/COVID-CT)
 * [100 segmented axial CT slices from ~60 Italian patients](http://medicalsegmentation.com/covid19/)
+* [Radiopaedia](https://radiopaedia.org/articles/covid-19-3)
+
+### Open Datasets 
 * [HIRA COVID-19 opendata](https://covid19data.hira.or.kr)
 * [open source COVID-19 glossary](http://open-source-covid-19.weileizeng.com/world)
 * [C3.ai COVID-19 Data Lake](https://c3.ai/covid/) is a unified, open data image of critical COVID-19 data publicly available at no cost to the global research community beginning on April 13, 2020. C3.ai COVID-19 Data Lake data sets will initially include:
@@ -164,6 +169,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Tracking the growth of COVID-19 Cases worldwide](https://github.com/aatishb/covidtrends) - [website](https://aatishb.com/covidtrends/)
 * [Code for modelling estimated deaths and cases for COVID19](https://github.com/ImperialCollegeLondon/covid19model)
 * API & Webapp to [answer questions about COVID-19](https://github.com/deepset-ai/COVID-QA). Using NLP (Question Answering) and trusted data sources.
+* [Chest X-ray and CT datasets](https://github.com/arthurfigueiredo/covid-dataset)
+* [An image based CT attempt at coronavirus2019 (covid19) diagnosis](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 
 ### Lecture and course 
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
