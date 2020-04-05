@@ -159,6 +159,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ### Github
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
+* [COVID-Net Open Source Initiative](https://github.com/lindawangg/COVID-Net)
+* [PyTorch implementation of COVID-Net](https://github.com/IliasPap/COVIDNet)
 
 ### Lecture and course 
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
@@ -185,6 +187,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2)
 * [월간 데이콘 4 코로나 데이터 시각화 경진대회](https://dacon.io/competitions/official/235590/overview/?fbclid=IwAR12vVjbOYFgvUNKk6o-8Scds_whPw2qcla8uaUbpnVlaRF9D6eAwVjHI6c)
 * Immediate First [Call for Proposals AI Techniques to Mitigate Pandemic](https://c3dti.ai/research/applying-ai-to-mitigate-the-covid-19-pandemic/)
+* Hackathon : [COVID-19 : Forecasting The Corona Outbreak](https://www.machinehack.com/course/covid-19-forecasting-the-corona-outbreak/) by machinehack 
+* Hackathon : [Hack For WuHan](https://community.wuhan2020.org.cn/en-us/hackathon/index.html)
+* [covid-19-hackathon](https://github.com/aiformankind/covid-19-hackathon) @github
 
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
@@ -275,6 +280,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [How Medical Imaging Datasets Can Help AI to Diagnosis the Covid-19 Like Deadly Virus?](https://www.cogitotech.com/blog/how-medical-imaging-datasets-can-help-ai-to-diagnosis-covid-19-virus/)
 * [AI played a part in spotting COVID-19. Now, it’s helping to fight it](https://kainos.com/ai-played-a-part-in-spotting-covid-19-now-its-helping-to-fight-it)
 * [Online pandemic tracker launched to flag surges in COVID-19 cases](https://www.thestar.com/news/gta/2020/04/02/online-pandemic-tracker-launched-to-flag-surges-in-covid-19-cases.html)
+* [TOP HACKATHONS DEDICATED TO FIGHT COVID-19](https://analyticsindiamag.com/top-hackathons-dedicated-to-fight-covid-19/)
+* [Coronavirus: seven ways collective intelligence is tackling the pandemic](http://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
@@ -301,6 +308,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 </p>
 
 ## Miscellaneous
+* [coronastats.co](https://coronastats.co/)
+* [coronavirus.app](https://coronavirus.app/)
 * [Outbreak Info](https://outbreak.info/)
 * [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov) by nextstrain
 * [Coronavirus: A visual guide to the pandemic](https://www.bbc.com/news/world-51235105) by BBC
