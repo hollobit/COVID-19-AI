@@ -161,6 +161,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
 * [COVID-Net Open Source Initiative](https://github.com/lindawangg/COVID-Net)
 * [PyTorch implementation of COVID-Net](https://github.com/IliasPap/COVIDNet)
+* [Tracking the growth of COVID-19 Cases worldwide](https://github.com/aatishb/covidtrends) - [website](https://aatishb.com/covidtrends/)
+* [Code for modelling estimated deaths and cases for COVID19](https://github.com/ImperialCollegeLondon/covid19model)
+* API & Webapp to [answer questions about COVID-19](https://github.com/deepset-ai/COVID-QA). Using NLP (Question Answering) and trusted data sources.
 
 ### Lecture and course 
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
