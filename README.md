@@ -73,6 +73,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ### Consortium
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
 * [Defeat Covid19 #defeatcovid19](https://www.defeatcovid19.org/) - [Introduction to the Group on GitHub](https://github.com/defeatcovid19) and first delivered [Pytorch solution for predictions on X-ray images of Covid-19 patients](https://github.com/defeatcovid19/defeatcovid19-net-pytorch).
+* [The COVID-19 High Performance Computing Consortium](https://covid19-hpc-consortium.org/)
 
 ## International Activity
 ### EU 
@@ -307,6 +308,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Healx to use AI platform Healnet to find COVID-19 treatments](https://www.information-age.com/healx-use-ai-platform-healnet-find-covid-19-treatments-123488827/)
 * [Using AI to Speed Up COVID-19 Diagnosis](https://www.technologynetworks.com/informatics/product-news/using-ai-to-speed-up-covid-19-diagnosis-333075)
 * [Europe seeks to harness power of AI in COVID-19 crisis](https://physicsworld.com/a/europe-seeks-to-harness-power-of-ai-in-covid-19-crisis/)
+* [OpenMed Launches First-Ever AI COVID-19 Triage To Coordinated Testing Platform](https://www.prnewswire.com/news-releases/openmed-launches-first-ever-ai-covid-19-triage-to-coordinated-testing-platform-301035579.html)
+* [NVIDIA Adds GPU and AI Expertise to COVID-19 HPC Consortium](https://insidehpc.com/2020/04/nvidia-adds-gpu-and-ai-expertise-to-covid-19-hpc-consortium/)
+* [Acko General launches AI-based Covid-19 symptom checker](https://yourstory.com/2020/04/acko-general-ai-based-covid-19-symptom-checker)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
