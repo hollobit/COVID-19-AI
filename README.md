@@ -77,7 +77,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ## International Activity
 ### EU 
 * [AI-ROBOTICS](https://ec.europa.eu/digital-single-market/en/news/join-ai-robotics-vs-covid-19-initiative-european-ai-alliance)
-* [EU Imageing AI COVID-19](https://imagingcovid19ai.eu/)
+* A EUROPEAN INITIATIVE [EU Imageing AI COVID-19](https://imagingcovid19ai.eu/) for Automated diagnosis and quantitative analysis of COVID-19 on imaging
 * [AI and control of Covid-19 coronavirus](https://www.coe.int/en/web/artificial-intelligence/ai-and-control-of-covid-19-coronavirus) by Council of Europe
 ### OECD
 * [AI-powered COVID-19 watch](https://oecd.ai/covid)
@@ -200,6 +200,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * Hackathon : [COVID-19 : Forecasting The Corona Outbreak](https://www.machinehack.com/course/covid-19-forecasting-the-corona-outbreak/) by machinehack 
 * Hackathon : [Hack For WuHan](https://community.wuhan2020.org.cn/en-us/hackathon/index.html)
 * [covid-19-hackathon](https://github.com/aiformankind/covid-19-hackathon) @github
+* [Hackathon : CORONAHACK - AI VS. COVID-19](https://www.hackathon.com/event/coronahack---ai-vs-covid-19-99337559314)
 
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
@@ -292,6 +293,20 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Online pandemic tracker launched to flag surges in COVID-19 cases](https://www.thestar.com/news/gta/2020/04/02/online-pandemic-tracker-launched-to-flag-surges-in-covid-19-cases.html)
 * [TOP HACKATHONS DEDICATED TO FIGHT COVID-19](https://analyticsindiamag.com/top-hackathons-dedicated-to-fight-covid-19/)
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](http://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
+* [Tech firms mobilize AI capabilities to fight COVID-19](http://m.theinvestor.co.kr/view.php?ud=20200406000881)
+* [COVID-19: How Korea is using innovative technology and AI to flatten the curve](https://news.itu.int/covid-19-how-korea-is-using-innovative-technology-and-ai-to-flatten-the-curve/)
+* [Vendors debut AI X-ray system for COVID-19, give it away for free](https://www.healthcareitnews.com/news/vendors-debut-ai-x-ray-system-covid-19-give-it-away-free)
+* [THE AI INDUSTRY RESPONSES TO COVID-19](https://medium.com/@arstudioz11/the-ai-industry-responses-to-covid-19-dee4081c1dc2)
+* [Overview of AI Applications Assisting Us In The Fight Against Covid-19](https://hackernoon.com/overview-of-ai-applications-assisting-us-in-the-fight-against-covid-19-9y743yy2)
+* [HEALTHCARE CENTERS ARE TURNING TO AI TO COMBAT COVID-19](https://www.analyticsinsight.net/healthcare-centers-turning-ai-combat-covid-19/)
+* [COVID-19 precaution: Dubai Police using AI to find out if your trip was essential](https://gulfnews.com/uae/covid-19-precaution-dubai-police-using-ai-to-find-out-if-your-trip-was-essential-1.70829268)
+* [Microsoft Offers COVID-19 Chatbot to Help Healthcare Providers Triage Patients](https://voicebot.ai/2020/03/23/microsoft-offers-covid-19-chatbot-to-help-healthcare-providers-triage-patients/)
+* [New AI Technology Partnership To Fight COVID-19](https://blog.singularitynet.io/new-ai-technology-partnership-to-fight-covid-19-37c356d2ea0c)
+* [AI is helping scientists navigate thousands of COVID-19 research papers](https://bdtechtalks.com/2020/04/06/ai-coronavirus-research-papers-cord-19/)
+* [Russia: AI and hi-tech surveillance to fight the Covid-19 epidemic amidst fears of rights violations](https://observatoryihr.org/news/russia-ai-and-hi-tech-surveillance-to-fight-the-covid-19-epidemic-amidst-fears-of-rights-violations/)
+* [Healx to use AI platform Healnet to find COVID-19 treatments](https://www.information-age.com/healx-use-ai-platform-healnet-find-covid-19-treatments-123488827/)
+* [Using AI to Speed Up COVID-19 Diagnosis](https://www.technologynetworks.com/informatics/product-news/using-ai-to-speed-up-covid-19-diagnosis-333075)
+* [Europe seeks to harness power of AI in COVID-19 crisis](https://physicsworld.com/a/europe-seeks-to-harness-power-of-ai-in-covid-19-crisis/)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
