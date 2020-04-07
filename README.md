@@ -191,6 +191,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [outbreak simulation](https://meltingasphalt.com/interactive/outbreak/)
 * Scale-AI will provide [free data-labeling/annotation service for researchers working](https://scale.com/blog/scale-ai-covid-19-research) with [[covid19]] datasets
 * [ACES Pandemic Tracker](https://www.kflaphi.ca/aces-pandemic-tracker/)
+* [Data4Covid19](https://www.data4covid19.com/) is a non-profit project created with the aim of making people aware of the spread of the SARS-CoV-2 virus within many countries through the use of data.
 
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
@@ -313,6 +314,10 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Acko General launches AI-based Covid-19 symptom checker](https://yourstory.com/2020/04/acko-general-ai-based-covid-19-symptom-checker)
 * [Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms](https://venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/)
 * [AI runs smack up against a big data problem in COVID-19 diagnosis](https://www.zdnet.com/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/)
+* [Oxford firm to screen 15,000 drugs in search for coronavirus cure](https://www.theguardian.com/business/2020/mar/31/oxford-firm-to-screen-15000-drugs-in-search-for-coronavirus-treatment)
+* [Seoul city utilizes AI calling system to monitor people in COVID-19 self-quarantine](http://english.seoul.go.kr/seoul-city-utilizes-ai-calling-system-to-monitor-people-in-covid-19-self-quarantine/)
+* [MIT Researchers Turn COVID-19 into a Classical Melody Using AI](https://interestingengineering.com/mit-researchers-turn-covid-19-into-a-classical-melody-using-ai)
+* [Chatbots provide millions with COVID-19 information every day, but they can be improved - here’s how](https://www.weforum.org/agenda/2020/04/chatbots-covid-19-governance-improved-here-s-how/)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
