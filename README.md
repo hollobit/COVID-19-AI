@@ -311,6 +311,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [OpenMed Launches First-Ever AI COVID-19 Triage To Coordinated Testing Platform](https://www.prnewswire.com/news-releases/openmed-launches-first-ever-ai-covid-19-triage-to-coordinated-testing-platform-301035579.html)
 * [NVIDIA Adds GPU and AI Expertise to COVID-19 HPC Consortium](https://insidehpc.com/2020/04/nvidia-adds-gpu-and-ai-expertise-to-covid-19-hpc-consortium/)
 * [Acko General launches AI-based Covid-19 symptom checker](https://yourstory.com/2020/04/acko-general-ai-based-covid-19-symptom-checker)
+* [Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms](https://venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/)
+* [AI runs smack up against a big data problem in COVID-19 diagnosis](https://www.zdnet.com/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
