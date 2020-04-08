@@ -1,5 +1,11 @@
 # Artificial Intelligence to the fight against COVID-19
 
+COVID-19 disease was identified in December 2019 in China and declared a global pandemic by the WHO on 11 March 2020. 
+
+After the declaration of the global pandemic, many AI experts have been tried to find how can be used Artificial Intelligence (AI) as a powerful tool in the fight against the COVID-19 pandemic. 
+
+AI Technology, which includes Machine Learning (ML), Natural Language Processing (NLP), and Computer Vision technologies can be provided the automated intelligent capability as like as pattern recognition, explanation, and prediction. It can be useful to recognize (detect and diagnose) and predict COVID-19 infections
+
 The purpose of this repository is providing the curated resource list of the state-of-the-art works on the field of AI(Aritificial Intelligence)/DL(Deep Learning) to the fight against COVID-19.
 
 Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@gmail.com or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
