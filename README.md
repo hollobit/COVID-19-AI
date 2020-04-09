@@ -383,6 +383,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [COVID19 | Trend Tracker](https://public.tableau.com/profile/jonas.nart#!/vizhome/COVID19_15844962693420/COVID19-TrendTracker)
 * [COVID-19 Projections](https://covid19.healthdata.org/projections) by IHME
 * [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Our World in Data
+  * [Case fatality rate of the ongoing COVID-19 pandemic](https://ourworldindata.org/grapher/coronavirus-cfr?country=ITA+KOR+OWID_WRL+SGP+SWE+ESP+USA+FRA+GBR)
   * [Total confirmed cases of COVID-19](https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case)
   * [COVID-19: Total confirmed cases vs. confirmed deaths](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-confirmed-deaths)
   * [COVID-19: Daily new confirmed deaths - rolling 3-day average](https://ourworldindata.org/grapher/daily-covid-deaths-3-day-average)
