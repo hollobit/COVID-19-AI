@@ -198,6 +198,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * Scale-AI will provide [free data-labeling/annotation service for researchers working](https://scale.com/blog/scale-ai-covid-19-research) with [[covid19]] datasets
 * [ACES Pandemic Tracker](https://www.kflaphi.ca/aces-pandemic-tracker/)
 * [Data4Covid19](https://www.data4covid19.com/) is a non-profit project created with the aim of making people aware of the spread of the SARS-CoV-2 virus within many countries through the use of data.
+* [COVID-19 Sounds App](https://www.covid-19-sounds.org/en/#) - The aim of this research is to collect data to inform the diagnosis of COVID-19 by developing machine learning algorithms, based primarily on sounds of their voice, their breathing and coughing.
 
 ## Challenge
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
@@ -324,6 +325,23 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Seoul city utilizes AI calling system to monitor people in COVID-19 self-quarantine](http://english.seoul.go.kr/seoul-city-utilizes-ai-calling-system-to-monitor-people-in-covid-19-self-quarantine/)
 * [MIT Researchers Turn COVID-19 into a Classical Melody Using AI](https://interestingengineering.com/mit-researchers-turn-covid-19-into-a-classical-melody-using-ai)
 * [Chatbots provide millions with COVID-19 information every day, but they can be improved - here’s how](https://www.weforum.org/agenda/2020/04/chatbots-covid-19-governance-improved-here-s-how/)
+* [Hospitals Deploy AI Tools to Detect COVID-19 on Chest Scans](https://spectrum.ieee.org/the-human-os/biomedical/imaging/hospitals-deploy-ai-tools-detect-covid19-chest-scans)
+* [Software and Genetic Sequencing Track the Coronavirus's Path](https://spectrum.ieee.org/the-human-os/biomedical/devices/genetic-sequencing-and-online-software-tools-track-caronaviruss-path)
+* [Halting COVID-19: The Benefits and Risks of Digital Contact Tracing](https://spectrum.ieee.org/the-human-os/biomedical/ethics/halting-covid19-benefits-risks-digital-contact-tracing)
+* [Responding to COVID-19 with AI and machine learning](https://www.id-hub.com/2020/04/08/responding-to-covid-19-with-ai-and-machine-learning/)
+* [AI APP, PART-FUNDED BY EU, COLLECTS THE SOUNDS OF COVID-19](https://erc.europa.eu/news/ai-app-part-funded-eu-collects-sounds-covid-19)
+* [How AI Is Helping in the Fight Against COVID-19](https://medium.com/pcmag-access/how-ai-is-helping-in-the-fight-against-covid-19-e4c19e0f8ff)
+* [How AI is helping scientists in the fight against COVID-19, from robots to predicting the future](https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/)
+* [Coronavirus: Covid-19 detecting apps face teething problems](https://www.bbc.com/news/technology-52215290) on BBC
+* [How AI And Data Science Are Helping To Understand And Tackle COVID-19](https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/#27cfa7377c84)
+* [Darren Schulte, MD: Leveraging AI During the COVID-19 Pandemic](https://www.mdmag.com/medical-news/darren-schulte-md-leveraging-ai-during-covid-19)
+* [Microsoft exec says coronavirus could spark big shift for AI in health care](https://www.seattletimes.com/business/microsoft-exec-says-coronavirus-could-spark-big-shift-for-ai-in-health-care/)
+* [Artificial Intelligence Platform Helps Find Combination Drug Treatments for COVID-19](https://www.hospimedica.com/covid-19/articles/294781616/artificial-intelligence-platform-helps-find-combination-drug-treatments-for-covid-19.html)
+* [How next-generation information technologies tackled COVID-19 in China](https://www.weforum.org/agenda/2020/04/how-next-generation-information-technologies-tackled-covid-19-in-china/) on World Economic Forum
+* [Helping contact centers respond rapidly to customer concerns about COVID-19](https://cloud.google.com/blog/products/ai-machine-learning/support-for-contact-centers-during-covid-19)
+* [AI tool predicts severe respiratory illness in early COVID-19](https://www.hospitalhealth.com.au/content/clinical-services/news/ai-tool-predicts-severe-respiratory-illness-in-early-covid-19-490891681#axzz6J4QPkkm8)
+* [Combating Covid-19: How voice AI apps can be a lifesaver today](https://www.financialexpress.com/industry/technology/combating-covid-19-how-voice-ai-apps-can-be-a-lifesaver-today/1923006/)
+* [IBM shares AI tools to better understand and treat COVID-19](https://www.engadget.com/ibm-coronavirus-ai-research-tools-162123059.html)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
