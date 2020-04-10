@@ -342,6 +342,13 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [AI tool predicts severe respiratory illness in early COVID-19](https://www.hospitalhealth.com.au/content/clinical-services/news/ai-tool-predicts-severe-respiratory-illness-in-early-covid-19-490891681#axzz6J4QPkkm8)
 * [Combating Covid-19: How voice AI apps can be a lifesaver today](https://www.financialexpress.com/industry/technology/combating-covid-19-how-voice-ai-apps-can-be-a-lifesaver-today/1923006/)
 * [IBM shares AI tools to better understand and treat COVID-19](https://www.engadget.com/ibm-coronavirus-ai-research-tools-162123059.html)
+* [How Alibaba DAMO Academy AI System Detects Coronavirus Cases](https://www.alibabacloud.com/blog/how-alibaba-damo-academy-ai-system-detects-coronavirus-cases_595979)
+* [AI and the coronavirus fight: How artificial intelligence is taking on COVID-19](https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/)
+* [GSK, Vir Use CRISPR, Artificial Intelligence to Find COVID-19 Cure](https://pharmanewsintel.com/news/gsk-vir-use-crispr-artificial-intelligence-to-find-covid-19-cure)
+* [Fight Coronavirus [COVID-19](https://www.alibabacloud.com/campaign/fight-coronavirus-covid-19) by Alibaba cloud
+* [Global AI (Artificial Intelligence) Initiatives to Fight the Deadly Coronavirus](https://www.mygreatlearning.com/blog/coronavirus-can-ai-be-useful-in-a-global-outbreak/)
+* [Open data, data use, and COVID-19](https://opendatawatch.com/what-is-being-said/data-in-the-time-of-covid-19/)
+* [Hospitals scramble to enlist AI in fight against pandemic](https://www.healthcareitnews.com/ai-powered-healthcare/hospitals-scramble-enlist-ai-fight-against-pandemic)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
