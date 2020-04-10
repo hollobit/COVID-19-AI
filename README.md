@@ -354,6 +354,11 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Real Use for AI Tools During COVID-19: Part Two](https://www.diagnosticimaging.com/ct/real-use-ai-tools-during-covid-19-part-two)
 * [Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis](https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/)
 * [Ai used to detect COVID-19 pneumonia](https://www.news-medical.net/news/20200409/Ai-used-to-detect-COVID-19-pneumonia.aspx)
+* [AI and cloud computing used to develop COVID-19 vaccine](https://www.drugtargetreview.com/news/59650/ai-and-cloud-computing-used-to-develop-covid-19-vaccine/)
+* [Coughvid app uses AI to detect COVID-19 from coughing sounds](https://www.slashgear.com/coughvid-app-uses-ai-to-detect-covid-19-from-coughing-sounds-10616214/)
+* [A neural network can help spot Covid-19 in chest x-rays](https://www.technologyreview.com/2020/03/24/950356/coronavirus-neural-network-can-help-spot-covid-19-in-chest-x-ray-pneumonia/)
+* [Spending in Artificial Intelligence to accelerate across the public sector due to automation and social distancing compliance needs in response to COVID-19, says IDC](https://www.telecomtv.com/content/ai-ml/spending-in-artificial-intelligence-to-accelerate-across-the-public-sector-due-to-automation-and-social-distancing-compliance-needs-in-response-to-covid-19-says-idc-38318/)
+* [with tech solutions](https://www.thestar.com.my/news/nation/2020/04/10/huawei-helps-health-ministry-fight-covid-19-with-tech-solutions)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
