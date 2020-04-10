@@ -349,6 +349,11 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Global AI (Artificial Intelligence) Initiatives to Fight the Deadly Coronavirus](https://www.mygreatlearning.com/blog/coronavirus-can-ai-be-useful-in-a-global-outbreak/)
 * [Open data, data use, and COVID-19](https://opendatawatch.com/what-is-being-said/data-in-the-time-of-covid-19/)
 * [Hospitals scramble to enlist AI in fight against pandemic](https://www.healthcareitnews.com/ai-powered-healthcare/hospitals-scramble-enlist-ai-fight-against-pandemic)
+* [Biofourmis’ AI-Powered Tech Being Used in Remote Monitoring of COVID-19 Patients in Hong Kong](https://www.wearable-technologies.com/2020/03/biofourmis-ai-powered-tech-being-used-in-remote-monitoring-of-covid-19-patients-in-hong-kong/)
+* [Care Mentor AI develops Artificial Intelligence for rapid diagnosis of COVID-19](https://www.itnonline.com/content/care-mentor-ai-develops-artificial-intelligence-rapid-diagnosis-covid-19)
+* [Real Use for AI Tools During COVID-19: Part Two](https://www.diagnosticimaging.com/ct/real-use-ai-tools-during-covid-19-part-two)
+* [Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis](https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/)
+* [Ai used to detect COVID-19 pneumonia](https://www.news-medical.net/news/20200409/Ai-used-to-detect-COVID-19-pneumonia.aspx)
 
 ## Company and Product
 * [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
