@@ -261,7 +261,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Coughvid app uses AI to detect COVID-19 from coughing sounds](https://www.slashgear.com/coughvid-app-uses-ai-to-detect-covid-19-from-coughing-sounds-10616214/)
   * [A neural network can help spot Covid-19 in chest x-rays](https://www.technologyreview.com/2020/03/24/950356/coronavirus-neural-network-can-help-spot-covid-19-in-chest-x-ray-pneumonia/)
   * [Spending in Artificial Intelligence to accelerate across the public sector due to automation and social distancing compliance needs in response to COVID-19, says IDC](https://www.telecomtv.com/content/ai-ml/spending-in-artificial-intelligence-to-accelerate-across-the-public-sector-due-to-automation-and-social-distancing-compliance-needs-in-response-to-covid-19-says-idc-38318/)
-  * [with tech solutions](https://www.thestar.com.my/news/nation/2020/04/10/huawei-helps-health-ministry-fight-covid-19-with-tech-solutions)
+  * [Huawei helps Health Ministry fight Covid-19 with tech solutions](https://www.thestar.com.my/news/nation/2020/04/10/huawei-helps-health-ministry-fight-covid-19-with-tech-solutions)
 
 * April 9
   * [Hospitals Deploy AI Tools to Detect COVID-19 on Chest Scans](https://spectrum.ieee.org/the-human-os/biomedical/imaging/hospitals-deploy-ai-tools-detect-covid19-chest-scans)
