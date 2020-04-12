@@ -234,6 +234,11 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 12
+  * [HOW HOSPITALS CAN TAP AI TO MANAGE STAFF BETTER AMID COVID-19 CRISIS](https://analyticsindiamag.com/how-hospitals-can-tap-ai-to-manage-staff-better-amid-covid-19-crisis/)
+  * [THIS SMART RING USES AI TO SPOT COVID-19 — BEFORE SYMPTOMS BEGIN](https://futurism.com/neoscope/smart-ring-ai-spot-covid19-before-symptoms-begin)
+  * [AI CT Scan Analysis for COVID-19 Detection and Patient Monitoring](https://syncedreview.com/2020/03/18/ai-ct-scan-analysis-for-covid-19-detection-and-patient-monitoring/)
+  
 * April 11
   * [4 Ways AI Is Making the World a Safer Place](https://www.entrepreneur.com/article/348909)
   * [AI Weekly: The sudden speed of technological change in a coronavirus world](https://venturebeat.com/2020/04/10/ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world/)
