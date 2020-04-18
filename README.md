@@ -236,6 +236,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * April 18
+  * [30 Israeli medical innovations to fight coronavirus](https://www.israel21c.org/30-israeli-medical-tech-solutions-to-help-fight-coronavirus/)
+  * [Researchers release data set of CT scans from coronavirus patients](https://venturebeat.com/2020/04/01/researchers-release-data-set-of-ct-scans-from-coronavirus-patients/)
+  * [Tech companies are deploying AI to spot COVID-19, unburden overworked healthcare staff](https://www.healthimaging.com/topics/artificial-intelligence/tech-companies-ai-covid-19-unburden-healthcare)
   * [AI Uncovers a Potential Treatment for Covid-19 Patients](https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/)
   * [AI checks CT scans for COVID-19](https://physicsworld.com/a/ai-checks-ct-scans-for-covid-19/)
   * [AI predicts COVID-19 treatments and vaccine will take between 2 to 5 years](http://english.hani.co.kr/arti/english_edition/e_international/937202.html)
@@ -427,6 +430,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [CoreASSIST](https://www.emids.com/coreassist/?cn-reloaded=1): Your COVID-19 Partner
 * [COVID-19 Awareness Tool](https://www.tcog.com/news/2020/04/covid-19-awareness-tool/) by TCOG
 * [Startup initiatives in times of Covid-19](https://www.imec-int.com/en/istart/startup-initiatives-covid-19)
+* [RADlogics](https://www.radlogics.com/coronavirus/)
 
 ### AI-assisted COVID-19 applications in Korea: 
 * [Vuno](https://covid19.vunomed.com/) offer two solutions - [VUNO Med®-LungQuant™](https://covid19ct.vunomed.com/), [VUNO Med®-Chest X-ray™](https://covid19cxr.vunomed.com/)
