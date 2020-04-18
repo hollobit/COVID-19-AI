@@ -210,6 +210,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * Hackathon : [Hack For WuHan](https://community.wuhan2020.org.cn/en-us/hackathon/index.html)
 * [covid-19-hackathon](https://github.com/aiformankind/covid-19-hackathon) @github
 * [Hackathon : CORONAHACK - AI VS. COVID-19](https://www.hackathon.com/event/coronahack---ai-vs-covid-19-99337559314)
+* [COVID-19 global AI hackathon](https://www.innovatorsmag.com/covid-19-global-ai-hackathon/)
 
 ## Paper index
 * [BioMed Sanity](http://biomed-sanity.com/?fbclid=IwAR2VLUMQDtid1r90vW7241eqTx3YMnPt5pCPyha0Rieku6-EaAQtWaLKF9E)
@@ -234,6 +235,35 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 18
+  * [AI Uncovers a Potential Treatment for Covid-19 Patients](https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/)
+  * [AI checks CT scans for COVID-19](https://physicsworld.com/a/ai-checks-ct-scans-for-covid-19/)
+  * [AI predicts COVID-19 treatments and vaccine will take between 2 to 5 years](http://english.hani.co.kr/arti/english_edition/e_international/937202.html)
+  * [AI Can Help Hospitals Triage COVID-19 Patients](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/ai-can-help-hospitals-triage-covid19-patients)
+  * [Don’t expect AI to solve the coronavirus crisis on its own](https://www.vox.com/recode/2020/4/13/21214948/coronavirus-covid-cure-treatment-artificial-intelligence)
+  * [Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic](https://www.cnbc.com/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html)
+  * [AI v Covid-19 - idsia](http://people.idsia.ch/~juergen/ai-covid.html)
+  * [Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy](https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/#4ba9ddc8151d)
+  * [Why Covid-19 only accelerates South Korea’s AI ambitions](https://www.lowyinstitute.org/the-interpreter/why-covid-19-only-accelerates-south-korea-s-ai-ambitions)
+  * [AI-powered solutions play major role in virus fight](https://en.yna.co.kr/view/AEN20200409007500320)
+  * [Coronavirus: AI steps up in battle against Covid-19](https://www.bbc.com/news/technology-52120747)
+  * [COVID-19 will accelerate AI's replacement of humans as factor of production](https://thehill.com/opinion/technology/492492-covid-19-will-accelerate-ais-replacement-of-humans-as-factor-of-production)
+  * [Potential treatment for COVID-19 identified by BenevolentAI using artificial intelligence enters randomised clinical trial](https://benevolent.ai/news/potential-treatment-for-covid-19-identified-by-benevolentai-using-artificial-intelligence-enters-clinical-testing)
+  * [COVID-19 Pandemic Impact: Global R&D Spend For AI in Healthcare and Pharmaceuticals Will Increase US$1.5 Billion By 2025](https://www.abiresearch.com/press/covid-19-pandemic-impact-global-rd-spend-ai-healthcare-and-pharmaceuticals-will-increase-us15-billion-2025/)
+  * [On Guard Against COVID-19: AI Projects That Deserve a Shout-Out](https://hackernoon.com/on-guard-against-covid-19-ai-projects-that-deserve-a-shout-out-3p1m3ykk)
+  * [AI Becomes An Ally In The Fight Against COVID-19](https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/#4d8f14803f5f)
+  * [AI Gets Into The Fight With COVID-19](https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/#9df6d2c20c04)
+  * [COVID-19 might accelerate or change previous AI adoption strategies](https://www.atlanticcouncil.org/blogs/geotech-cues/covid-19-might-accelerate-or-change-previous-ai-adoption-strategies/)
+  * [Fifth edition of the AI Breakfast: "Covid-19: Myths and realities of tracking applications"](https://www.coe.int/en/web/artificial-intelligence/-/ai-breakfasts-5th-edition-covid-19-myths-and-realities-of-tracking-applications-)
+  * [How AI helps scientists find reliable coronavirus research](https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/)
+  * [Why artificial intelligence is so important in the coronavirus era](https://fortune.com/2020/04/14/artificial-intelligence-coronavirus-health-medicine/)
+  * [A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient](https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/)
+  * [Human and AI annotations aim to improve scholarly results in COVID-19 searches](https://news.psu.edu/story/616031/2020/04/17/research/human-and-ai-annotations-aim-improve-scholarly-results-covid-19)
+  * [Chinese startup Rokid pitches COVID-19 detection glasses in US](https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s)
+  * [OSTP, NIST Launch AI Program for Coronavirus Research](https://www.meritalk.com/articles/ostp-nist-launch-ai-program-for-coronavirus-research/)
+  * [Tunisia researchers use AI, X-rays to create online virus scan tool](https://www.dispatchlive.co.za/news/africa/2020-04-17-tunisia-researchers-use-ai-x-rays-to-create-online-virus-scan-tool/)
+  * [Fei-Fei Li Proposes AI-Assisted Elder Care Solution at Stanford-Hosted Virtual Conference on COVID‑19 and AI](https://syncedreview.com/2020/04/01/fei-fei-li-proposes-ai-assisted-elder-care-solution-at-stanford-hosted-virtual-conference-on-covid%E2%80%9119-and-ai/)
+
 * April 12
   * [HOW HOSPITALS CAN TAP AI TO MANAGE STAFF BETTER AMID COVID-19 CRISIS](https://analyticsindiamag.com/how-hospitals-can-tap-ai-to-manage-staff-better-amid-covid-19-crisis/)
   * [THIS SMART RING USES AI TO SPOT COVID-19 — BEFORE SYMPTOMS BEGIN](https://futurism.com/neoscope/smart-ring-ai-spot-covid19-before-symptoms-begin)
