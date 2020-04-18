@@ -236,6 +236,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * April 18
+  * [Mind-blowing: How can AI fight against coronavirus in China?](https://www.youtube.com/watch?v=VhtjdGlAidU)
   * [30 Israeli medical innovations to fight coronavirus](https://www.israel21c.org/30-israeli-medical-tech-solutions-to-help-fight-coronavirus/)
   * [Researchers release data set of CT scans from coronavirus patients](https://venturebeat.com/2020/04/01/researchers-release-data-set-of-ct-scans-from-coronavirus-patients/)
   * [Tech companies are deploying AI to spot COVID-19, unburden overworked healthcare staff](https://www.healthimaging.com/topics/artificial-intelligence/tech-companies-ai-covid-19-unburden-healthcare)
