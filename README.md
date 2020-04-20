@@ -77,6 +77,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
  * [American National Standards Institute](https://www.ansi.org/COVID-19/)
  
 ### Consortium
+* [XPrize Pandemic Alliance](https://www.xprize.org/)- A DATA-POWERED ALLIANCE TO STOP COVID-19
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
 * [Defeat Covid19 #defeatcovid19](https://www.defeatcovid19.org/) - [Introduction to the Group on GitHub](https://github.com/defeatcovid19) and first delivered [Pytorch solution for predictions on X-ray images of Covid-19 patients](https://github.com/defeatcovid19/defeatcovid19-net-pytorch).
 * [The COVID-19 High Performance Computing Consortium](https://covid19-hpc-consortium.org/)
@@ -235,6 +236,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 20
+  * [Using AI to cope in the coronavirus era](https://www.raconteur.net/technology/covid-19-ai-solutions)
+  * [Assistive diagnostic AI tool to tackle COVID-19 in Malaysia](https://www.biospectrumasia.com/news/91/15811/assistive-diagnostic-ai-tool-to-tackle-covid-19-in-malaysia.html)
+  * [IDC: Coronavirus To Accelerate Public Sector AI Spending](https://www.rtinsights.com/coronavirus-ai-spending/)
+  * [Remote monitoring of COVID-19 patients using AI device](https://www.news-medical.net/news/20200419/Remote-monitoring-of-COVID-19-patients-using-AI-device.aspx)
+  * [Coronavirus Trackers Try Out AI Tools as Eyes Turn to Reopening](https://www.wsj.com/articles/coronavirus-trackers-try-out-ai-tools-as-eyes-turn-to-reopening-11587294000)
+  * [MIT’s AI-powered device lets doctors monitor coronavirus patients remotely](https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/)
+
 * April 18
   * [Mind-blowing: How can AI fight against coronavirus in China?](https://www.youtube.com/watch?v=VhtjdGlAidU)
   * [30 Israeli medical innovations to fight coronavirus](https://www.israel21c.org/30-israeli-medical-tech-solutions-to-help-fight-coronavirus/)
