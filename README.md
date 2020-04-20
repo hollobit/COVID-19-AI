@@ -237,6 +237,12 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * April 20
+  * [新一代信息技术为疫情防控攻坚、复工复产按下“快进键”](http://www.xinhuanet.com/tech/2020-03/05/c_1125667595.htm)
+  * [国家卫生健康委员会办公厅关于加强信息化支撑新型冠状病毒感染的肺炎疫情防控工作的通知](http://www.beijing.gov.cn/zhengce/zhengcefagui/202002/t20200205_1625272.html)
+  * [Cal State La Researchers Use Data Visualization, AI in Fight Against COVID-19](https://martechseries.com/analytics/data-visualization/cal-state-la-researchers-use-data-visualization-ai-fight-covid-19/)
+  * [Using artificial intelligence against the spread of COVID-19](https://www.jdsupra.com/legalnews/using-artificial-intelligence-against-23213/)
+  * [COVID-19 | Disruptive tech and SME innovation can boost the fight against the virus](https://www.moneycontrol.com/news/coronavirus/covid-19-disruptive-tech-and-sme-innovation-can-boost-the-fight-against-the-virus-5165341.html)
+  * [The (Sober) State of Artificial Intelligence in the Fight Against COVID-19](https://medicalfuturist.com/the-sober-state-of-artificial-intelligence-in-the-fight-against-covid-19/)
   * [Using AI to cope in the coronavirus era](https://www.raconteur.net/technology/covid-19-ai-solutions)
   * [Assistive diagnostic AI tool to tackle COVID-19 in Malaysia](https://www.biospectrumasia.com/news/91/15811/assistive-diagnostic-ai-tool-to-tackle-covid-19-in-malaysia.html)
   * [IDC: Coronavirus To Accelerate Public Sector AI Spending](https://www.rtinsights.com/coronavirus-ai-spending/)
