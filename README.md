@@ -138,6 +138,19 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ### Open Datasets 
 * [google dataset search](https://datasetsearch.research.google.com/search?query=coronavirus%20covid-19&docid=c7BnT6bakuzvP2kAAAAAAA%3D%3D)
+* [California COVID-19 Hospital Data and Case Statistics](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics)
+* [US COVID-19 Daily Cases with Basemap](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIDLTK) by Harvard
+* [Data on the geographic distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) by European Centre for Disease Prevention and Control
+* [COVID-19 Italy – Situation monitoring](https://github.com/pcm-dpc/COVID-19)
+* [Coronavirus COVID-19 Cases Data for China and the Rest of the World](https://data.humdata.org/dataset/coronavirus-covid-19-cases-data-for-china-and-the-rest-of-the-world)
+* [ACAPS COVID-19: Government Measures Dataset](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
+* [World Bank Indicators of Interest to the COVID-19 Outbreak](https://data.humdata.org/dataset/world-bank-indicators-of-interest-to-the-covid-19-outbreak)
+* [The COVID Tracking Project collects and publishes the most complete testing data available for US states and territories.](https://covidtracking.com/data)
+* [Social Distancing Scoreboard](https://www.unacast.com/covid19/social-distancing-scoreboard) by Unacast
+* [New York City COVID-19 Dataset](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)
+* [Definitive Healthcare Public COVID-19 Data Repository](https://github.com/rsowers-dhc/covid19)
+* [A Public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/)
+* [CAS COVID-19 Antiviral Candidate Compounds Dataset](https://www.cas.org/covid-19-antiviral-compounds-dataset)
 * [HIRA COVID-19 opendata](https://covid19data.hira.or.kr)
 * [open source COVID-19 glossary](http://open-source-covid-19.weileizeng.com/world)
 * [C3.ai COVID-19 Data Lake](https://c3.ai/covid/) is a unified, open data image of critical COVID-19 data publicly available at no cost to the global research community beginning on April 13, 2020. C3.ai COVID-19 Data Lake data sets will initially include:
@@ -182,6 +195,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
  
 ### APIs
 * [ProgrammableWeb's Coronavirus category](https://www.programmableweb.com/category/coronavirus)
+* [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/)
 
 ### Github
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
@@ -442,6 +456,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 
 * [COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19) by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
+* [List of COVID-19 Resources for Machine Learning and Data Science](https://www.marktechpost.com/2020/04/12/list-of-covid-19-resources-for-machine-learning-and-data-science-research/)
 * [Coronavirus: Research, Commentary, and News](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov) by Science
 * [Itonline COVID-19 channel](https://www.itnonline.com/channel/coronavirus-covid-19)
 * [Latest Coronavirus Updates for the Healthcare Community](https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-communit)
