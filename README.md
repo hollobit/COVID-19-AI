@@ -187,6 +187,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) by HAI, April 1, 2020 - [Agenda](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/agenda), [Video Archive](https://youtu.be/z4105Exe23Q) 
 
 ### Tools
+* [Understanding and tracking our progress against COVID-19](https://www.microsoft.com/en-us/ai/ai-for-health-covid-data) by Microsoft 
+* [COVID-19 Prediction in US, CA using Tableau](http://www.calstatela.edu/centers/hipic/covid-19-us-ca-confirmed-prediction)
 * [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
 * DeepMind has [released structure predictions](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19) of several under-studied proteins associated with SARS-CoV-2
 * [Neural Covidex](https://covidex.ai/) applies state-of-the-art neural network models and artificial intelligence (AI) techniques to answer questions using the COVID-19 Open Research Dataset (CORD-19) - ([github source](https://github.com/castorini/covidex))
@@ -236,6 +238,16 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 21
+  * [How to create a trustworthy COVID-19 tracking technology](https://www.weforum.org/agenda/2020/04/covid-19-coronavirus-tracking-technology/) @World Economic Forum
+  * [Leveraging AI to Battle This Pandemic — And The Next One](https://hbr.org/2020/04/leveraging-ai-to-battle-this-pandemic-and-the-next-one) @ Harvard Business Review
+  * [This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus](https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4)
+  * [AI emerged as a key contributor in the fight against coronavirus](https://www.ejinsight.com/eji/article/id/2440239/20200421-AI-emerged-as-a-key-contributor-in-the-fight-against-coronavirus)
+  * [The NHS is using AI to predict coronavirus ventilator and ICU demand](https://thenextweb.com/neural/2020/04/20/the-nhs-is-using-ai-to-predict-coronavirus-ventilator-and-icu-demand/)
+  * [Chinese companies push AI, biometric thermal imaging tech for U.S. deployment amid COVID-19](https://www.biometricupdate.com/202004/chinese-companies-push-ai-biometric-thermal-imaging-tech-for-u-s-deployment-amid-covid-19)
+  * [COVID-19 restart: This start-up offers AI to ensure social-distancing at retail outlets](https://www.cnbctv18.com/retail/covid-19-restart-this-start-up-offers-ai-to-ensure-social-distancing-at-retail-outlets-5737291.htm)
+  * [Landing AI ‘Social Distancing Detector’ Monitors Workplaces](https://medium.com/syncedreview/landing-ai-social-distancing-detector-monitors-workplaces-8ad08f3a143f)
+  
 * April 20
   * [新一代信息技术为疫情防控攻坚、复工复产按下“快进键”](http://www.xinhuanet.com/tech/2020-03/05/c_1125667595.htm)
   * [国家卫生健康委员会办公厅关于加强信息化支撑新型冠状病毒感染的肺炎疫情防控工作的通知](http://www.beijing.gov.cn/zhengce/zhengcefagui/202002/t20200205_1625272.html)
