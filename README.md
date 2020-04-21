@@ -31,6 +31,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   + [2019 COVID-19 Data Set in Korean](#2019-covid-19-data-set-in-korean)
   + [Image datasets](#image-datasets)
   + [Open Datasets](#open-datasets)
+  + [Models](#models)
   + [APIs](#apis)
   + [Github](#github)
   + [Lecture and course](#lecture-and-course)
@@ -58,6 +59,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Resources](https://www.rsna.org/covid-19)
 * [Publications](https://pubs.rsna.org/2019-ncov)
 * [Imaging Data Sharing Survey](http://bit.ly/rsna-covid-data)
+* [Latest articles on COVID-19](https://www.european-radiology.org/highlights/covid-19/) by European Radiology
 
 ### IEEE
 * [coronavirus spectrum](https://spectrum.ieee.org/tag/coronavirus)
@@ -126,14 +128,16 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [한국어 Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
 
 ### Image datasets
+* [RadiologyAi Consortium](https://www.radiologyaiconsortium.org/) - Repository of crowd-sourced CT Scans of COVID-19 patients
 * [Società Italiana di Radiologia Medica e Interventistica](https://www.sirm.org/category/senza-categoria/covid-19/)
 * [Cohen COVID-19 open dataset (X-rays, CTs)](https://github.com/ieee8023/covid-chestxray-dataset)
 * [Cohen COVID-19 crowed-sourcing annotation project](https://towardsdatascience.com/covid-19-imaging-dataset-chest-xray-ct-for-annotation-collaboration-5f6e076f5f22?fbclid=IwAR1U_kov2vIc3C9bjCN6vqqfdR1BIm4HXDIQoZqHLGkGn0DuFnlEFUSbUv0)
-* [UCSD-AI4H COVID-19 open dataset: 275 CT images](https://github.com/UCSD-AI4H/COVID-CT)
+* [UCSD-AI4H COVID-19 open dataset](https://github.com/UCSD-AI4H/COVID-CT) - a COVID-19 CT scan dataset which contains 349 COVID-19 CT images from 216 patients and 397 non-COVID CT images.
 * [100 segmented axial CT slices from ~60 Italian patients](http://medicalsegmentation.com/covid19/)
 * [Radiopaedia](https://radiopaedia.org/articles/covid-19-3)
 
 ### Open Datasets 
+* [google dataset search](https://datasetsearch.research.google.com/search?query=coronavirus%20covid-19&docid=c7BnT6bakuzvP2kAAAAAAA%3D%3D)
 * [HIRA COVID-19 opendata](https://covid19data.hira.or.kr)
 * [open source COVID-19 glossary](http://open-source-covid-19.weileizeng.com/world)
 * [C3.ai COVID-19 Data Lake](https://c3.ai/covid/) is a unified, open data image of critical COVID-19 data publicly available at no cost to the global research community beginning on April 13, 2020. C3.ai COVID-19 Data Lake data sets will initially include:
@@ -166,6 +170,15 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
  * [Auto-updated Dashboards](https://covid19dashboards.com/) built using fastpages and updated using github actions, from above JHU data
  * [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/?utm_source=Nature%20Briefing&utm_campaign=2033dfb840-briefing-dy-20200318&utm_medium=email&utm_term=0_c9dfd39373-2033dfb840-43229289) is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus
  * [100+ million COVID-19 Twitter dataset and pre-processing scripts](https://github.com/thepanacealab/covid19_twitter) @github - [Covid-19 Twitter chatter dataset] for scientific use(http://www.panacealab.org/covid19/)
+
+### Models 
+ * [Alibaba - Trained on data and CT scans from more than 5,000 confirmed cases](https://aimi.stanford.edu/resources/covid19)
+ * [Canon/Vital Images](https://global.medical.canon/products/healthcare_it/clinical_application/ct_lung_analysis) - Lung CT model that Includes detection of ground glass nodules
+ * [Infervision](https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/) - Trained on 5,000 confired cases; deployed at 34 hospitals in China
+ * [RadLogics / Univ of Maryland (Eliot Siegel)](https://arxiv.org/abs/2003.05037) - 2D and 3D deep-learning models for thoracic CT studies; quantifies and tracks disease burden
+ * [Riverain](https://www.riveraintech.com/clearread-ct/) - Lung CT model that Includes detection of ground glass nodules
+ * [Tianjin Medical Univ Cancer Institute and Hospital](https://www.medrxiv.org/content/10.1101/2020.02.14.20023028v3.full.pdf+html) - Model to predict COVID-19 vs. typical viral pneumonia ahead of the pathogenic test
+ * [COVID-Net](https://medium.com/@sheldon.fernandez/covid-net-an-open-source-neural-network-for-covid-19-detection-48b8a55e6d44) by Darwin AI & Univ of Waterloo
  
 ### APIs
 * [ProgrammableWeb's Coronavirus category](https://www.programmableweb.com/category/coronavirus)
@@ -181,12 +194,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [An image based CT attempt at coronavirus2019 (covid19) diagnosis](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 
 ### Lecture and course 
+* [Vaxopedia](https://vaxopedia.org/2020/03/11/covid-19-presentations-and-webinars/) - COVID-19 presentation and webinar links
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
 * [Find my virus: Mobilising AI and big data to fight COVID-19](https://www.bruegel.org/events/find-my-virus-ai-can-help-track-corona-but-are-we-giving-up-privacy/)
 * Online Workshop on [Covid19@ELLIS](https://ellis.eu/covid-19) on April 1st 
 * [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) by HAI, April 1, 2020 - [Agenda](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/agenda), [Video Archive](https://youtu.be/z4105Exe23Q) 
 
 ### Tools
+* [CovidWatcher](https://covidwatcher.dbmi.columbia.edu/) - a research tool built by Columbia University and powered by people around the United States
 * [Understanding and tracking our progress against COVID-19](https://www.microsoft.com/en-us/ai/ai-for-health-covid-data) by Microsoft 
 * [COVID-19 Prediction in US, CA using Tableau](http://www.calstatela.edu/centers/hipic/covid-19-us-ca-confirmed-prediction)
 * [Corona calculator](https://corona-calculator.herokuapp.com/), a tool that helps to visualize the impact of social distancing
@@ -224,6 +239,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Google scholar COVID-19](https://scholar.google.com/scholar?q=COVID-19)
 * [related article archive](https://pages.semanticscholar.org/coronavirus-research)
 * [Coronavirus (Covid-19)](https://www.nejm.org/coronavirus) by NEJM(New England Journal of Medicine)
+* [CARING By Mahajan Imaging](https://caring-research.com/list-of-all-radiology-papers-related-to-coronavirus/) - Resource tracking COVID-19 papers on radiology of COVID-19 with numbers.  Updated frequently!
+* [Doctor Penguin](http://doctorpenguin.com/covid19) - Resource tracking COVID-19 papers, research and publications.  Updated frequently!
 
 ## Call for Papers
 * [Call for Papers - Special Issue on Artificial Intelligence and Information Technologies for COVID-19](http://www.techscience.com/ndetail/covid-19), Computers, Materials & Continua (CMC)
@@ -239,6 +256,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * April 21
+  * [CT is Awful for Diagnosing COVID-19](https://lukeoakdenrayner.wordpress.com/2020/03/23/ct-scanning-is-just-awful-for-diagnosing-covid-19/)
+  * [Can AI diagnose COVID-19 on CT scans? Can humans?](https://thehealthcareblog.com/blog/2020/03/23/can-ai-diagnose-covid-19-on-ct-scans-can-humans/)
+  * [OnScale Launches ‘Digital Twins’ of Lungs to Improve COVID-19 Patients Outcomes](https://hitconsultant.net/2020/04/15/onscale-launches-digital-twins-of-lungs-to-improve-covid-19-patients-outcomes/#.Xp6ROqszb5U)
+  * [AI-Powered CT Imaging System Shown to Detect COVID-19](https://www.mddionline.com/ai-powered-ct-imaging-system-shown-detect-covid-19)
+  * [Radiologists sharing CT scans, X-rays in global effort to prevent COVID-19 deaths](https://www.abc.net.au/news/2020-04-18/radiologists-doctors-sharing-ct-images-of-coronavirus/12155560) @ABC news
+  * [Chest CT Scans Don’t Advance COVID-19 Detection in Areas with Low Infection](https://www.diagnosticimaging.com/covid-19/chest-ct-scans-dont-advance-covid-19-detection-areas-low-infection)
+  * [Covid-19 testing issues could sink plans to re-open the country. Might CT scans help?](https://www.statnews.com/2020/04/16/ct-scans-alternative-to-inaccurate-coronavirus-tests/)
+  * [AI-assisted screening for COVID-19 using CT images](https://www.microcontrollertips.com/ai-assisted-screening-covid-19-using-ct-images/)
   * [How to create a trustworthy COVID-19 tracking technology](https://www.weforum.org/agenda/2020/04/covid-19-coronavirus-tracking-technology/) @World Economic Forum
   * [Leveraging AI to Battle This Pandemic — And The Next One](https://hbr.org/2020/04/leveraging-ai-to-battle-this-pandemic-and-the-next-one) @ Harvard Business Review
   * [This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus](https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4)
@@ -416,6 +441,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Insights on Artificial intelligence Studies on COVID-19](https://www.techiexpert.com/insights-on-artificial-intelligence-studies-on-covid-19/)
   * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 
+* [COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19) by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
 * [Coronavirus: Research, Commentary, and News](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov) by Science
 * [Itonline COVID-19 channel](https://www.itnonline.com/channel/coronavirus-covid-19)
 * [Latest Coronavirus Updates for the Healthcare Community](https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-communit)
@@ -450,7 +476,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 
 ## Company and Product
-* [Siemens Healthineers](https://www.corporate.siemens-healthineers.com/covid-19)
+* [COVID-19: Resources & Update](https://www.corporate.siemens-healthineers.com/covid-19/covid-19-resources)by Siemens Healthineers
 * [H2O.ai](https://www.h2o.ai/covid-19/)
 * [behold.ai](https://www.behold.ai/)
 * [Five Companies Using AI to Fight Coronavirus](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus) by IEEE
