@@ -235,6 +235,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 Sounds App](https://www.covid-19-sounds.org/en/#) - The aim of this research is to collect data to inform the diagnosis of COVID-19 by developing machine learning algorithms, based primarily on sounds of their voice, their breathing and coughing.
 
 ## Challenge
+* [UNCOVER COVID-19 Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover)
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
 * [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1) - closed
 * [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2)
@@ -272,6 +273,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * April 22
+  * [Artificial intelligence could aid in fight against COVID-19](https://newsstand.clemson.edu/artificial-intelligence-could-aid-in-fight-against-covid-19/)
   * [Governments must build trust in AI to fight COVID-19 – Here’s how they can do it](https://www.weforum.org/agenda/2020/04/governments-must-build-trust-in-ai-to-fight-covid-19-here-s-how-they-can-do-it/) by World Economic Forum
   * [Thirona unveils AI software for COVID-19 analysis](https://www.auntminnie.com/index.aspx?sec=ser&sub=def&pag=dis&ItemID=128778)
   * [COVID-19 and artificial intelligence: protecting health-care workers and curbing the spread](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30054-6/fulltext)
