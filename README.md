@@ -209,6 +209,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [An image based CT attempt at coronavirus2019 (covid19) diagnosis](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 
 ### Lecture and course 
+* [AI for Healthcare in the Time of COVID-19](https://www.udacity.com/ai_in_healthcare/virtual_conference) @ Udacity - May 12 ~ 13
 * [Vaxopedia](https://vaxopedia.org/2020/03/11/covid-19-presentations-and-webinars/) - COVID-19 presentation and webinar links
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
 * [Find my virus: Mobilising AI and big data to fight COVID-19](https://www.bruegel.org/events/find-my-virus-ai-can-help-track-corona-but-are-we-giving-up-privacy/)
@@ -270,6 +271,26 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 22
+  * [Governments must build trust in AI to fight COVID-19 – Here’s how they can do it](https://www.weforum.org/agenda/2020/04/governments-must-build-trust-in-ai-to-fight-covid-19-here-s-how-they-can-do-it/) by World Economic Forum
+  * [Thirona unveils AI software for COVID-19 analysis](https://www.auntminnie.com/index.aspx?sec=ser&sub=def&pag=dis&ItemID=128778)
+  * [COVID-19 and artificial intelligence: protecting health-care workers and curbing the spread](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30054-6/fulltext)
+  * [Startups and tech players on the frontline against Covid-19 in Africa](https://www.geospatialworld.net/blogs/startups-covid-africa/)
+  * [Needed to fight COVID-19: A program for data on social determinants of health](https://www.fedscoop.com/needed-fight-covid-19-program-data-social-determinants-health/)
+  * [Healx trains AI to find Covid-19 combination therapies](https://www.cambridgeindependent.co.uk/business/healx-trains-ai-to-find-covid-19-combination-therapies-9106885/)
+  * [COVID-19 and privacy: artificial intelligence and contact tracing in combatting the pandemic](https://www.mccarthy.ca/en/insights/blogs/techlex/covid-19-and-privacy-artificial-intelligence-and-contact-tracing-combatting-pandemic)
+  * [AI indicates which symptoms might be leading indicators of COVID-19](https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/)
+  * [IBM CEO: Coronavirus Pandemic Accelerating Shift To Hybrid Cloud, AI](https://www.crn.com/news/cloud/ibm-ceo-coronavirus-pandemic-accelerating-shift-to-hybrid-cloud-ai)
+  * [Fascinating AI/ML fight against COVID-19](https://medium.com/@baijayanta.roy/fascinating-ai-ml-fight-against-covid-19-67d91afcbfee)
+  * [Putting AI to work against COVID-19](https://www.phgfoundation.org/blog/Putting-AI-to-work-against-COVID-19)
+  * [AI use cases in the enterprise undergoing rapid change](https://searchenterpriseai.techtarget.com/feature/AI-use-cases-in-the-enterprise-undergoing-rapid-change)
+  * [This AI tool helps hospitals predict COVID-19 bed and ventilator demand](https://www.zdnet.com/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/)
+  * [AI VIVO identifies list of 31 drugs that show potential for Covid-19 treatment](https://www.cambridgeindependent.co.uk/business/ai-vivo-identifies-list-of-31-drugs-that-show-potential-for-covid-19-treatment-9107179/)
+  * [COVID-19 Has Revealed Change To Be A Matter Of Mindset. What Could This Mean For AI In The Future?](https://www.forbes.com/sites/kasiaborowska/2020/04/21/covid-19-has-revealed-change-to-be-a-matter-of-mindset-what-could-this-mean-for-ai-in-the-future/#181ac3e86d63)
+  * [RADLogics Expands Deployment of Its AI-Powered Solution to Support Chest Imaging for COVID-19 Patients](https://www.aithority.com/technology/life-sciences/radlogics-expands-deployment-of-its-ai-powered-solution-to-support-chest-imaging-for-covid-19-patients/)
+  * [HAS AI FAILED US DURING THIS CRISIS?](https://analyticsindiamag.com/has-ai-failed-us-during-this-crisis/)
+  * [Who will be the winners in a post-pandemic economy?](https://www.weforum.org/agenda/2020/04/post-pandemic-economy-favour-fastest-movers/)
+  
 * April 21
   * [CT is Awful for Diagnosing COVID-19](https://lukeoakdenrayner.wordpress.com/2020/03/23/ct-scanning-is-just-awful-for-diagnosing-covid-19/)
   * [Can AI diagnose COVID-19 on CT scans? Can humans?](https://thehealthcareblog.com/blog/2020/03/23/can-ai-diagnose-covid-19-on-ct-scans-can-humans/)
