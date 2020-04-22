@@ -198,6 +198,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/)
 
 ### Github
+* [public repositories matching COVID-19 topic @ Github](https://github.com/topics/covid-19)
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
 * [COVID-Net Open Source Initiative](https://github.com/lindawangg/COVID-Net)
 * [PyTorch implementation of COVID-Net](https://github.com/IliasPap/COVIDNet)
