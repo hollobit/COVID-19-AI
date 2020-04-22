@@ -135,8 +135,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [UCSD-AI4H COVID-19 open dataset](https://github.com/UCSD-AI4H/COVID-CT) - a COVID-19 CT scan dataset which contains 349 COVID-19 CT images from 216 patients and 397 non-COVID CT images.
 * [100 segmented axial CT slices from ~60 Italian patients](http://medicalsegmentation.com/covid19/)
 * [Radiopaedia](https://radiopaedia.org/articles/covid-19-3)
+* [X-Rays images of ~30k unique patients having pulmonary diseases](https://www.kaggle.com/nih-chest-xrays/data)
+* [X-Rays images of pneumonia affected pediatric patients](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray)
+* [X-Rays images of pneumonia affected patients](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+* [X-Rays and CT scan images of patients affected by different kind of pneumonias (including COVID)(https://radiopaedia.org/search?lang=us&q=pneumonia&scope=cases)
+* [AI system for the automatic diagnosis of COVID-19 pneumonia from ultrasound images](https://www.disi.unitn.it/iclus) by University of Turin
 
 ### Open Datasets 
+* [the collection of datasets from various clinical studies](http://www.covidanalytics.io/dataset) by The Operation Research and Analytics Lab from MIT
 * [google dataset search](https://datasetsearch.research.google.com/search?query=coronavirus%20covid-19&docid=c7BnT6bakuzvP2kAAAAAAA%3D%3D)
 * [California COVID-19 Hospital Data and Case Statistics](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics)
 * [US COVID-19 Daily Cases with Basemap](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIDLTK) by Harvard
@@ -273,6 +279,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * April 22
+  * [Diagnosing COVID-19 using AI-based medical image analyses](https://www.quantib.com/blog/diagnosing-covid-19-using-ai-based-medical-image-analyses)
   * [Artificial intelligence could aid in fight against COVID-19](https://newsstand.clemson.edu/artificial-intelligence-could-aid-in-fight-against-covid-19/)
   * [Governments must build trust in AI to fight COVID-19 – Here’s how they can do it](https://www.weforum.org/agenda/2020/04/governments-must-build-trust-in-ai-to-fight-covid-19-here-s-how-they-can-do-it/) by World Economic Forum
   * [Thirona unveils AI software for COVID-19 analysis](https://www.auntminnie.com/index.aspx?sec=ser&sub=def&pag=dis&ItemID=128778)
@@ -479,6 +486,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Insights on Artificial intelligence Studies on COVID-19](https://www.techiexpert.com/insights-on-artificial-intelligence-studies-on-covid-19/)
   * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 
+* [Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
+* [Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)
 * [COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19) by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
 * [List of COVID-19 Resources for Machine Learning and Data Science](https://www.marktechpost.com/2020/04/12/list-of-covid-19-resources-for-machine-learning-and-data-science-research/)
 * [Coronavirus: Research, Commentary, and News](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov) by Science
