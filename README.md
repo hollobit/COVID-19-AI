@@ -278,6 +278,21 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 24
+ * [Mapping the landscape of artificial intelligence applications against COVID-19](https://www.unglobalpulse.org/2020/03/mapping-the-landscape-of-artificial-intelligence-applications-against-covid-19/)
+ * [Doctors are using AI to triage covid-19 patients. The tools may be here to stay](https://www.technologyreview.com/2020/04/23/1000410/ai-triage-covid-19-patients-health-care/)
+ * [AI And Robots Are Saving Lives Amid COVID-19](https://www.intelligentliving.co/ai-robots-saving-lives-covid-19/)
+ * [Vonage Enables AI Chatbot for Spanish Government to Provide Accurate, Updated COVID-19 Information](https://www.morningstar.com/news/pr-newswire/20200423ny86660/vonage-enables-ai-chatbot-for-spanish-government-to-provide-accurate-updated-covid-19-information)
+ * [AI and big data won’t work miracles in the fight against coronavirus](https://techcrunch.com/2020/03/26/ai-and-big-data-wont-work-miracles-in-the-fight-against-coronavirus/)
+ * [Putting AI to work against COVID-19](https://www.cambridgenetwork.co.uk/news/putting-ai-work-against-covid-19)
+ * [Maccabi to deploy AI that identifies patients at risk of developing COVID-19 complications](https://venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/)
+ * [The Surge of Sensationalist COVID-19 AI Research](https://www.news-medical.net/health/The-Surge-of-Sensationalist-COVID-19-AI-Research.aspx)
+ * [In Vitro Confirmation of COVID-19 Drug Candidates Done Using AI-based Screening Technology](https://www.hospimedica.com/covid-19/articles/294781919/in-vitro-confirmation-of-covid-19-drug-candidates-done-using-ai-based-screening-technology.html)
+ * [Why advances in AI are vital in the fight against Covid-19](https://govinsider.asia/connected-gov/why-advances-in-ai-are-vital-in-the-fight-against-covid-19/)
+ * [Ping An’s COVID-19 Smart Image Reading System speeds up diagnoses and treatment](https://www.mobihealthnews.com/news/asia-pacific/ping-s-covid-19-smart-image-reading-system-speeds-diagnoses-and-treatment)
+ * [Bolton NHS partners with Qure.ai for monitoring of COVID-19 patients](https://www.mobihealthnews.com/news/bolton-nhs-partners-qureai-monitoring-covid-19-patients)
+ * [Software tools for mining COVID-19 research studies go viral among scientists](https://www.geekwire.com/2020/software-tools-mining-covid-19-research-studies-go-viral-among-scientists/)
+ 
 * April 22
   * [Diagnosing COVID-19 using AI-based medical image analyses](https://www.quantib.com/blog/diagnosing-covid-19-using-ai-based-medical-image-analyses)
   * [Artificial intelligence could aid in fight against COVID-19](https://newsstand.clemson.edu/artificial-intelligence-could-aid-in-fight-against-covid-19/)
