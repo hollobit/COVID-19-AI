@@ -279,6 +279,19 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * April 25
+  * [COVID-19 AI Challenge: How Are Lockdowns Affecting the Most Vulnerable?](https://spectrum.ieee.org/the-human-os/biomedical/ethics/covid19-ai-challenge-how-are-lockdowns-affecting-the-most-vulnerable) @ IEEE Spectrum 
+  * **[HL7 International and Audacious Inquiry Collaborate to Support COVID-19 Response](https://www.heraldmailmedia.com/news/state/hl7-international-and-audacious-inquiry-collaborate-to-support-covid-19-response/article_613a86c7-febd-5f19-a553-e7d8776bae18.html)**
+  * [Israel is using AI to flag high-risk covid-19 patients](https://www.technologyreview.com/2020/04/24/1000543/israel-ai-prediction-medical-testing-data-high-risk-covid-19-patients/)
+  * [Upload your Chest X-Ray, check if you have COVID-19 in one second: Chennai college develops new AI-driven software](https://www.edexlive.com/news/2020/apr/24/upload-your-chest-x-ray-check-if-you-have-covid-19-in-one-second-chennai-college-develops-new-ai-d-11532.html)
+  * [Hospitals are using AI to predict the decline of Covid-19 patients — before knowing it works](https://www.statnews.com/2020/04/24/coronavirus-hospitals-use-ai-to-predict-patient-decline-before-knowing-it-works/)
+  * [Could COVID-19 Help Refine AI, Data Analytics in Healthcare?](
+  https://healthitanalytics.com/features/could-covid-19-help-refine-ai-data-analytics-in-healthcare)
+  * [False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence​](https://www.reuters.com/article/uk-factcheck-covid-name-abbreviation/false-claim-covid-19-stands-for-certification-of-vaccination-identification-by-artificial-intelligence-idUSKCN2262AS)
+  * **[Using AI to Find Peptide Therapeutics for COVID-19](https://www.biospace.com/article/using-ai-to-find-peptide-therapeutics-for-covid-19/)**
+  * [NEW RESEARCH CLAIMS THAT AI CAN ZERO IN ON COVID-19 SYMPTOMS](https://analyticsindiamag.com/new-research-claims-that-ai-can-zero-in-on-covid-19-symptoms/)
+  * [ONE SUPERCOMPUTER’S HPC AND AI BATTLE AGAINST THE CORONAVIRUS](https://www.nextplatform.com/2020/04/24/one-supercomputers-hpc-and-ai-battle-against-the-coronavirus/)
+  * [How it feels like to have Covid-19! AI analysis on 350+ Covid-19 survivors](https://www.northeasttoday.in/2020/04/24/how-it-feels-like-to-have-covid-19-ai-analysis-on-350-covid-19-survivors/)
+  * **[HOW TECH GIANTS ARE ENHANCING THEIR CONVERSATIONAL AI PLATFORMS TO FIGHT COVID-19](https://analyticsindiamag.com/how-tech-giants-are-enhancing-their-conversational-ai-platforms-to-fight-covid-19/)**
   
 * April 24
   * **[Mapping the landscape of artificial intelligence applications against COVID-19](https://www.unglobalpulse.org/2020/03/mapping-the-landscape-of-artificial-intelligence-applications-against-covid-19/)**
@@ -412,7 +425,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Ai used to detect COVID-19 pneumonia](https://www.news-medical.net/news/20200409/Ai-used-to-detect-COVID-19-pneumonia.aspx)
   * [AI and cloud computing used to develop COVID-19 vaccine](https://www.drugtargetreview.com/news/59650/ai-and-cloud-computing-used-to-develop-covid-19-vaccine/)
   * [Coughvid app uses AI to detect COVID-19 from coughing sounds](https://www.slashgear.com/coughvid-app-uses-ai-to-detect-covid-19-from-coughing-sounds-10616214/)
-  * [A neural network can help spot Covid-19 in chest x-rays](https://www.technologyreview.com/2020/03/24/950356/coronavirus-neural-network-can-help-spot-covid-19-in-chest-x-ray-pneumonia/)
+  * **[A neural network can help spot Covid-19 in chest x-rays](https://www.technologyreview.com/2020/03/24/950356/coronavirus-neural-network-can-help-spot-covid-19-in-chest-x-ray-pneumonia/)**
   * [Spending in Artificial Intelligence to accelerate across the public sector due to automation and social distancing compliance needs in response to COVID-19, says IDC](https://www.telecomtv.com/content/ai-ml/spending-in-artificial-intelligence-to-accelerate-across-the-public-sector-due-to-automation-and-social-distancing-compliance-needs-in-response-to-covid-19-says-idc-38318/)
   * [Huawei helps Health Ministry fight Covid-19 with tech solutions](https://www.thestar.com.my/news/nation/2020/04/10/huawei-helps-health-ministry-fight-covid-19-with-tech-solutions)
 
