@@ -23,6 +23,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   + [EU](#eu)
   + [OECD](#oecd)
   + [Canada](#canada)
+* [Standardization](#standardization)
 * [Open Research and dataset](#open-research-and-dataset)
   + [CORD-19 Open Research Dataset](#cord-19-open-research-dataset)
   + [CORD-19 Related dataset](#cord-19-related-dataset)
@@ -96,6 +97,26 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ### WHO
 * [Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 
+## Standardization
+### HL7 FHIR
+* SANER project - enable the secure and rapid transfer of information about hospital bed capacity and availability of critical resources during public health emergencies. 
+   * [HL7 International and Audacious Inquiry Collaborate to Support COVID-19 Response](https://www.heraldmailmedia.com/news/state/hl7-international-and-audacious-inquiry-collaborate-to-support-covid-19-response/article_613a86c7-febd-5f19-a553-e7d8776bae18.html)
+   * [Interview With Audacious Inquiry on SANER Project, PULSE-COVID Edition](https://www.hcinnovationgroup.com/interoperability-hie/fast-healthcare-interoperability-resources-fhir/article/21135564/interview-with-audacious-inquiry-on-saner-project-pulsecovid-edition)
+   * Project summary - [Situation Awareness for Novel Epidemic Response (SANER) FHIR IG (PSS in Confluence)](https://www.hl7.org/special/Committees/projman/searchableProjectIndex.cfm?action=edit&ProjectNumber=1617)
+   * [HL7/fhir-saner](https://github.com/HL7/fhir-saner) @ github
+   * [Implementation Guide](http://build.fhir.org/ig/HL7/fhir-saner/overview.html) of Situational Awareness for Novel Epidemic Response
+   
+* COVID-19 project 
+   * [COVID 19 FHIR IG (PSS in Confluence)](https://www.hl7.org/special/Committees/projman/searchableProjectIndex.cfm?action=edit&ProjectNumber=1620)
+   * [Logica Implementation Guide: Covid-19)(https://confluence.hl7.org/display/CR/COVID-19+Response+Home)
+### HealthIT.gov
+* [Interoperability for COVID-19 Novel Coronavirus Pandemic](https://www.healthit.gov/isa/covid-19)
+   * [CDC - New ICD-10-CM code for the 2019 Novel Coronavirus (COVID-19)](https://www.cdc.gov/nchs/data/icd/Announcement-New-ICD-code-for-coronavirus-2-20-2020.pdf)
+   * [CDC Coding Guidance for 2019 Novel Coronavirus (COVID-19)](https://www.cdc.gov/nchs/data/icd/Announcement-New-ICD-code-for-coronavirus-3-18-2020.pdf) - changing effective date for reporting to April 1, 2020
+   * [HL7 COVID-19 Response Home](https://confluence.hl7.org/display/CR/COVID-19+Response+Home) - including link to COVID-19 FHIR v4 IG
+   * [SNOMED CT Coronavirus new and existing codes](https://confluence.ihtsdotools.org/display/snomed/SNOMED%2BCT%2BCoronavirus%2BContent)
+   * [PHIN VADS COVID-19 Informatics Resources](https://phinvads.cdc.gov/vads/SearchVocab.action)
+   
 ## Open Research and dataset
 
 ### CORD-19 Open Research Dataset
