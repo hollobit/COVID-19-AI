@@ -299,6 +299,18 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 27
+  * [Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic](https://www.cnbc.com/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html)
+  * [Chinese ‘Frontline’ COVID-19 Research Firm Reported Hacked: Data Now On Dark Web](https://www.forbes.com/sites/zakdoffman/2020/04/26/chinese-covid-19-detection-firm-just-got-hacked-data-for-sale-on-dark-web-new-report/#3a2c190f5dec)
+  * [After coronavirus, AI could be central to our new normal](https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/)
+  * [Claims that AI detects coronavirus in X-rays aren’t convincing medical experts](https://thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/)
+  * **[Open-source AI tool aims to help identify coronavirus infections](https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/)**
+  * [Coronavirus: The role of AI in the ‘war’ against epidemics and pandemics](https://www.computerweekly.com/feature/Coronavirus-the-role-of-AI-in-the-war-against-epidemics-and-pandemics)
+  * [How AI is finding drugs to treat coronavirus](https://sifted.eu/articles/ai-coronavirus-drugs/)
+  * [Potential new treatment for COVID-19 uncovered by BenevolentAI enters trials](https://techcrunch.com/2020/04/14/potential-new-treatment-for-covid-19-uncovered-by-benevolentai-enters-trials/)
+  * [Is A.I. better at diagnosing illnesses than doctors? Don’t believe all the hype](https://fortune.com/2020/04/22/coronavirus-test-diagnosis-ai-doctors-illnesses-covid-19-research-artificial-intelligence/)
+  * [Coronavirus crisis gives an opportunity for AI to shine](https://www.techrepublic.com/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/)
+  
 * April 25
   * [COVID-19 AI Challenge: How Are Lockdowns Affecting the Most Vulnerable?](https://spectrum.ieee.org/the-human-os/biomedical/ethics/covid19-ai-challenge-how-are-lockdowns-affecting-the-most-vulnerable) @ IEEE Spectrum 
   * **[HL7 International and Audacious Inquiry Collaborate to Support COVID-19 Response](https://www.heraldmailmedia.com/news/state/hl7-international-and-audacious-inquiry-collaborate-to-support-covid-19-response/article_613a86c7-febd-5f19-a553-e7d8776bae18.html)**
@@ -379,7 +391,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Using AI to cope in the coronavirus era](https://www.raconteur.net/technology/covid-19-ai-solutions)
   * [Assistive diagnostic AI tool to tackle COVID-19 in Malaysia](https://www.biospectrumasia.com/news/91/15811/assistive-diagnostic-ai-tool-to-tackle-covid-19-in-malaysia.html)
   * [IDC: Coronavirus To Accelerate Public Sector AI Spending](https://www.rtinsights.com/coronavirus-ai-spending/)
-  * [Remote monitoring of COVID-19 patients using AI device](https://www.news-medical.net/news/20200419/Remote-monitoring-of-COVID-19-patients-using-AI-device.aspx)
+  * **[Remote monitoring of COVID-19 patients using AI device](https://www.news-medical.net/news/20200419/Remote-monitoring-of-COVID-19-patients-using-AI-device.aspx)**
   * [Coronavirus Trackers Try Out AI Tools as Eyes Turn to Reopening](https://www.wsj.com/articles/coronavirus-trackers-try-out-ai-tools-as-eyes-turn-to-reopening-11587294000)
   * [MIT’s AI-powered device lets doctors monitor coronavirus patients remotely](https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/)
 
@@ -487,7 +499,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [OpenMed Launches First-Ever AI COVID-19 Triage To Coordinated Testing Platform](https://www.prnewswire.com/news-releases/openmed-launches-first-ever-ai-covid-19-triage-to-coordinated-testing-platform-301035579.html)
   * [NVIDIA Adds GPU and AI Expertise to COVID-19 HPC Consortium](https://insidehpc.com/2020/04/nvidia-adds-gpu-and-ai-expertise-to-covid-19-hpc-consortium/)
   * [Acko General launches AI-based Covid-19 symptom checker](https://yourstory.com/2020/04/acko-general-ai-based-covid-19-symptom-checker)
-  * [Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms](https://venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/)
+  * **[Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms](https://venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/)**
   * [AI runs smack up against a big data problem in COVID-19 diagnosis](https://www.zdnet.com/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/)
   * [Oxford firm to screen 15,000 drugs in search for coronavirus cure](https://www.theguardian.com/business/2020/mar/31/oxford-firm-to-screen-15000-drugs-in-search-for-coronavirus-treatment)
   * [Seoul city utilizes AI calling system to monitor people in COVID-19 self-quarantine](http://english.seoul.go.kr/seoul-city-utilizes-ai-calling-system-to-monitor-people-in-covid-19-self-quarantine/)
