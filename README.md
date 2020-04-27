@@ -549,7 +549,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Insights on Artificial intelligence Studies on COVID-19](https://www.techiexpert.com/insights-on-artificial-intelligence-studies-on-covid-19/)
   * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 
-* [Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
+* [Awesome Coronavirus - Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)
 * [COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19) by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
 * [List of COVID-19 Resources for Machine Learning and Data Science](https://www.marktechpost.com/2020/04/12/list-of-covid-19-resources-for-machine-learning-and-data-science-research/)
