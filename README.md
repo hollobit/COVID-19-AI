@@ -299,6 +299,12 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* April 29
+  * [Fighting Coronavirus With AI, Part 1: Improving Testing with Deep Learning and Computer Vision](https://blog.paperspace.com/fighting-corona-virus-with-ai-medical-imaging-testing/)
+  * [Is A.I. better at diagnosing illnesses than doctors? Don’t believe all the hype](https://fortune.com/2020/04/22/coronavirus-test-diagnosis-ai-doctors-illnesses-covid-19-research-artificial-intelligence/)
+  * [Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis – HospiMedica](https://mc.ai/artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis-hospimedica/)
+  * [AI-based IVD rises to challenge of novel coronavirus](https://www.labpulse.com/index.aspx?sec=sup&sub=pth&pag=dis&ItemID=801043)
+  
 * April 27
   * [Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic](https://www.cnbc.com/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html)
   * [Chinese ‘Frontline’ COVID-19 Research Firm Reported Hacked: Data Now On Dark Web](https://www.forbes.com/sites/zakdoffman/2020/04/26/chinese-covid-19-detection-firm-just-got-hacked-data-for-sale-on-dark-web-new-report/#3a2c190f5dec)
