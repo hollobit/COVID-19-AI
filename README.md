@@ -301,6 +301,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * May 1
+  * **[Fighting COVID-19 with Emerging Technologies](https://blogs.idc.com/2020/05/01/fighting-covid-19-with-emerging-technologies/)** by IDC
   * **[The AI and data solutions helping to fight the coronavirus](https://www.ericsson.com/en/blog/2020/4/ai-data-solutions-helping-fight-coronavirus)**
   * [How can AI and data science help to fight the coronavirus?](https://www.ericsson.com/en/blog/2020/4/ai-and-data-science-to-fight-coronavirus)
   * [Is AI trustworthy enough to help us fight COVID-19?](https://www.weforum.org/agenda/2020/05/covid19-coronavirus-artificial-intelligence-ai-response/)
