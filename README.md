@@ -149,6 +149,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [한국어 Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
 
 ### Image datasets
+* [RxRx19](https://www.rxrx.ai/rxrx19): The First Morphological Imaging Dataset on SARS-CoV-2 Virus
 * [RadiologyAi Consortium](https://www.radiologyaiconsortium.org/) - Repository of crowd-sourced CT Scans of COVID-19 patients
 * [Società Italiana di Radiologia Medica e Interventistica](https://www.sirm.org/category/senza-categoria/covid-19/)
 * [Cohen COVID-19 open dataset (X-rays, CTs)](https://github.com/ieee8023/covid-chestxray-dataset)
@@ -299,6 +300,32 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* May 1
+  * [Is AI trustworthy enough to help us fight COVID-19?](https://www.weforum.org/agenda/2020/05/covid19-coronavirus-artificial-intelligence-ai-response/)
+  * [Covid-19 and the workforce: Critical workers, productivity, and the future of AI](https://www.technologyreview.com/2020/04/30/1000888/covid-19-and-the-workforce-critical-workers-productivity-and-the-future-of-ai/)
+  * [How can AI help with the COVID-19 vaccine search?](https://towardsdatascience.com/how-can-ai-help-with-the-covid-19-vaccine-search-a68d40fc0cb0)
+  * [Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk.](https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4)
+  * [Global AI (Artificial Intelligence) initiatives to fight the Deadly Coronavirus
+](https://www.mygreatlearning.com/blog/coronavirus-can-ai-be-useful-in-a-global-outbreak/)
+  * [Accelerating vaccine research for COVID-19 with HPC and AI](https://insidehpc.com/2020/05/accelerating-vaccine-research-for-covid-19-with-hpc-and-ai/)
+  * [Enlisting AI in the push to combat Covid-19](https://www.upstreamonline.com/focus/enlisting-ai-in-the-push-to-combat-covid-19/2-1-797246)
+  * [Tapping AI to battle Covid-19](https://www.straitstimes.com/tech/tapping-ai-to-battle-covid-19)
+  * [FDA-cleared AI-based medical triage tool goes free for customers to help busy radiology diagnostics departments](https://techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/)
+  * [AI model predicts the coronavirus pandemic will end in December](https://thenextweb.com/neural/2020/04/29/ai-model-predicts-the-coronavirus-pandemic-will-end-in-december/)
+  * [Why was top Google artificial intelligence expert at meeting of government's secretive Sage scientific advisers?](https://www.dailymail.co.uk/news/article-8274333/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html)
+  * [rug discovery might be the best use of AI to tackle the pandemic](https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/)
+  * **[LEVERAGING AI TO HUNT FOR POTENTIAL TREATMENTS: A COVID-19 EXAMPLE](https://bioteam.net/2020/04/leveraging-ai-to-hunt-for-potential-treatments-a-covid-19-example/)**
+  * [Microsoft CEO Satya Nadella: 10 Thoughts on the Post-COVID-19 World](https://cloudwars.co/microsoft/microsoft-ceo-satya-nadella-10-thoughts-on-the-post-covid-19-world/)
+  * [Researchers Crack COVID-19 Genetic Signature Using AI, Identify Origin](https://scitechdaily.com/researchers-crack-covid-19-genetic-signature-using-ai-identify-origin/)
+  * [Google’s medical AI was super accurate in a lab. Real life was a different story.](https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/)
+  * [AI Platform Aims To Accelerate Drug Development for COVID-19](https://www.technologynetworks.com/informatics/news/ai-platform-aims-to-accelerate-drug-development-for-covid-19-333999)
+  * **[Open-Source AI-derived drug discovery data to help combat COVID-19](http://www.labnews.co.uk/article/2030549/open-source-ai-derived-drug-discovery-data-to-help-combat-covid-19)**
+  * [Machine Learning Tool Could Provide Unexpected Scientific Insights into COVID-19](https://newscenter.lbl.gov/2020/04/28/machine-learning-tool-could-provide-unexpected-scientific-insights-into-covid-19/)
+  * [France Launches Telephone Voice Assistant for Coronavirus Questionnaire](https://voicebot.ai/2020/04/28/france-launches-telephone-voice-assistant-for-coronavirus-questionnaire/)
+  * [Coronavirus in context: Scite.ai tracks positive and negative citations for COVID-19 literature](https://www.nature.com/articles/d41586-020-01324-6)
+  * [G-20 to Utilize AI for Coronavirus Drug Development](https://www.nippon.com/en/news/yjj2020043000963/)
+  * **[Virtual 2020 G20 Digital Ministers Summit on COVID-19](https://www.oecd.org/about/secretary-general/virtual-2020-g20-digital-ministers-summit-on-covid19-april-2020.htm)**
+  
 * April 29
   * [Fighting Coronavirus With AI, Part 1: Improving Testing with Deep Learning and Computer Vision](https://blog.paperspace.com/fighting-corona-virus-with-ai-medical-imaging-testing/)
   * [Is A.I. better at diagnosing illnesses than doctors? Don’t believe all the hype](https://fortune.com/2020/04/22/coronavirus-test-diagnosis-ai-doctors-illnesses-covid-19-research-artificial-intelligence/)
