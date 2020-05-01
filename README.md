@@ -301,6 +301,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News and Resources
 * May 1
+  * **[The AI and data solutions helping to fight the coronavirus](https://www.ericsson.com/en/blog/2020/4/ai-data-solutions-helping-fight-coronavirus)**
+  * [How can AI and data science help to fight the coronavirus?](https://www.ericsson.com/en/blog/2020/4/ai-and-data-science-to-fight-coronavirus)
   * [Is AI trustworthy enough to help us fight COVID-19?](https://www.weforum.org/agenda/2020/05/covid19-coronavirus-artificial-intelligence-ai-response/)
   * [Covid-19 and the workforce: Critical workers, productivity, and the future of AI](https://www.technologyreview.com/2020/04/30/1000888/covid-19-and-the-workforce-critical-workers-productivity-and-the-future-of-ai/)
   * [How can AI help with the COVID-19 vaccine search?](https://towardsdatascience.com/how-can-ai-help-with-the-covid-19-vaccine-search-a68d40fc0cb0)
