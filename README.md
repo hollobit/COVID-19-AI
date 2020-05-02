@@ -302,6 +302,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* May 2
+  * [How A.I. Steered Doctors Toward a Possible Coronavirus Treatment](https://www.nytimes.com/2020/04/30/technology/coronavirus-treatment-benevolentai-baricitinib.html)
+  
 * May 1
   * **[Fighting COVID-19 with Emerging Technologies](https://blogs.idc.com/2020/05/01/fighting-covid-19-with-emerging-technologies/)** by IDC
   * **[The AI and data solutions helping to fight the coronavirus](https://www.ericsson.com/en/blog/2020/4/ai-data-solutions-helping-fight-coronavirus)**
