@@ -138,6 +138,18 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [CORD-19 on FHIR](https://github.com/fhircat/CORD-19-on-FHIR)
 * [Covid-19 Semantic Browser](https://github.com/gsarti/covid-papers-browser): Browse Covid-19 & SARS-CoV-2 Scientific Papers with Transformers
 
+### CORD-19 Related tools
+* [Neural Covidex](https://covidex.ai/): AI-based ranking of biomedical studies.
+* [CovidScholar](https://www.covidscholar.com/): Adaptation of MatScholar optimized for COVID-19.
+* [COVID-19 Explorer](http://covidexplorer.in/): Search filter developed by Indian researchers.
+* [COVID-19 Search](https://covid19search.azurewebsites.net/): Powered by Microsoft’s Azure Cognitive Search.
+* [Covid Graph](https://covidgraph.org/): Knowledge graph created by a German-based team.
+* [CoViz](https://coviz.apps.allenai.org/): Visualization tool developed at AI2.
+* [CovidAsk](https://covidask.korea.ac.kr/): Question-answering tool created in South Korea.
+* [Vespa](https://cord19.vespa.ai/): Verizon Media’s search engine, optimized for CORD-19.
+* [ASReview](https://github.com/asreview/asreview-covid19): CORD-19 plugin for ASReview software.
+* [CORD-19 Demos and Resources](https://discourse.cord-19.semanticscholar.org/t/cord-19-demos-and-resources/132): Semantic Scholar’s list of tools.
+
 ### AWS Resources and programs supporting COVID-19 research:
 * [AWS Diagnostic Development Initiative Web Portal](https://aws.amazon.com/government-education/nonprofits/disaster-response/diagnostic-dev-initiative/)
 * [Registry of Open Data on AWS, COVID-19 Open Research Dataset (CORD-19)](https://registry.opendata.aws/cord-19/)
