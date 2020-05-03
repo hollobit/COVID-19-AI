@@ -277,6 +277,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 Sounds App](https://www.covid-19-sounds.org/en/#) - The aim of this research is to collect data to inform the diagnosis of COVID-19 by developing machine learning algorithms, based primarily on sounds of their voice, their breathing and coughing.
 
 ## Challenge
+* [COVID-19 HACKATHONS](https://www.bigdive.eu/covid19-hackathons/)
+* [COVID-19 Online Hack](https://www.teensinai.com/hackathons/covid-19-hackathon/) #youthvsCOVID #TeensInAI #AIForGood
+* [AI Rapid Response to the Coronavirus Pandemic](https://lumiatacovid19.devpost.com/) - LUMIATA COVID-19 GLOBAL AI HACKATHON
+* *[India’s COVID-19 Online Hackathon](http://coronathon.in), from March 22 – April (on-going)*
+* *[#EUvsVirus](https://euvsvirus.org), April 24-26*
+* [CLAIRE Taskforce on COVID19](https://covid19.claire-ai.org/initiatives) (on-going) 
+* [COVID-19: Forecasting The Corona Outbreak](http://machinehack.com/course/covid-19-forecasting-the-corona-outbreak/Rules) (open) 
+* [Hack the crisis in India](http://hackacause.in) (open) 
 * [UNCOVER COVID-19 Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover)
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR1d_P_F42k-SJFZQk1LlHkN5m9vyB3WV8R3qt0nRb7TAwpvrBLNlc2R5do)
 * [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1) - closed
@@ -314,6 +322,11 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* May 3
+  * [How Well Can Algorithms Recognize Your Masked Face?](https://www.wired.com/story/algorithms-recognize-masked-face/)
+  * [Oxford University Spin-out Begins Search for 10,000 X-rays to Help Predict Outcome for COVID-19](https://www.itnonline.com/content/oxford-university-spin-out-begins-search-10000-x-rays-help-predict-outcome-covid-19)
+  * [Researchers release data set to evaluate COVID-19 chatbots and search engine](https://venturebeat.com/2020/04/27/researchers-release-data-set-to-evaluate-covid-19-chatbots-and-search-engines/?fbclid=IwAR0C7QGH5WI0NYpiocJG8C5PzBNtOhRmhfcFn1LNCz07GFIUUR-VNmNgH3U)
+
 * May 2
   * [How A.I. Steered Doctors Toward a Possible Coronavirus Treatment](https://www.nytimes.com/2020/04/30/technology/coronavirus-treatment-benevolentai-baricitinib.html)
   
@@ -654,6 +667,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Vuno](https://covid19.vunomed.com/) offer two solutions - [VUNO Med®-LungQuant™](https://covid19ct.vunomed.com/), [VUNO Med®-Chest X-ray™](https://covid19cxr.vunomed.com/)
 * [Lunit](https://lunit.io/ko/covid19) INSIGHT CXR in Coronavirus Response
 * Medical IP's [MEDIP COVID19](http://medicalip.com/mobile/shop/covid19.php) - 1st Free Software for AI-driven Automatic CT Analysis of COVID19 Pneumonia
+* [The Innovative Korean Companies with solution for COVID-19](https://www.born2global.com/usermediaview.do?media_no=960&media_type=-1&image_yn=All&fbclid=IwAR07_a4zAl2PCaTGtn1sYbcYVjrSQN1RNWGK7H3KmE_3jZt9PifT-bMXANk) by born2global
 
 ### China
 * [The following list summarizes the known AI-assisted radiological applications in China:](https://www.itnonline.com/article/artificial-intelligence-assisted-radiology-technologies-aid-covid-19-fight-china)
