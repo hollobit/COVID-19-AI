@@ -322,6 +322,43 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* May 5
+  * [The groundbreaking way to search lungs for signs of Covid-19](https://www.bbc.com/news/business-52483082)
+  * [How Artificial Intelligence can help fight COVID-19](https://www.bbva.com/en/how-artificial-intelligence-can-help-fight-covid-19/)
+  * [AI tool speeds up search for COVID-19 treatments and vaccines](https://medicalxpress.com/news/2020-05-ai-tool-covid-treatments-vaccines.html)
+  * **[5 Areas Where AI Can Help Healthcare CIOs during COVID-19](https://www.cxotoday.com/news-analysis/5-areas-where-ai-can-help-healthcare-cios-during-covid-19/)**
+  * **[COVID effect: Medical AI takes prominence in Asia Pacific](https://www.geospatialworld.net/blogs/covid-effect-medical-ai-takes-prominence-in-asia-pacific/)**
+  * [Can AI provide 'nowcasts' for COVID-19 on chest x-rays?](https://www.auntminnie.com/index.aspx?sec=ser&sub=def&pag=dis&ItemID=128869)
+  * [AI Can Analyze COVID-19 Lungs in 10 secs, Identify High-Risk Patients](https://www.techtimes.com/articles/249383/20200505/ai-can-analyze-covid-19-lungs-in-10-secs-identify-high-risk-patients.htm)
+  * [Flexible Throat Sensor Powered by AI to Track COVID-19 Symptoms](https://www.medgadget.com/2020/05/flexible-throat-sensor-powered-by-ai-to-track-covid-19.html)
+  * [AI Hub Singapore creates COVID-19 monitoring app](https://asia.businesschief.com/technology/1869/AI-Hub-Singapore-creates-COVID-19-monitoring-app)
+  * [5 Conversational AI Companies Tackling COVID-19](https://readwrite.com/2020/05/01/5-conversational-ai-companies-tackling-covid-19/)
+  * [CeADAR offers AI projects under free licence to speed up Covid-19 solutions](https://www.siliconrepublic.com/machines/ceadar-ai-projects-free-licence-covid-19-solutions)
+  * [AI Software Gets Mixed Reviews for Tackling Coronavirus](https://www.wsj.com/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013?mod=tech_lead_pos1)
+  * [Peter Staar, IBM Scientist, COVID-19 Open Research Dataset – Interview Series](https://www.unite.ai/peter-staar-ibm-scientist-covid-19-open-research-dataset-interview-series/)
+  * [Cities are especially vulnerable to COVID-19. These organizations are leading the urban response.](https://www.weforum.org/agenda/2020/05/cities-urbanization-urban-living-coronavirus-covid19-pandemic-design/)
+  * [AI and fact-checking: How Facebook deals with misinformation amid COVID-19](https://technology.inquirer.net/99070/ai-and-fact-checking-how-facebook-deals-with-misinformation-amid-covid-19)
+  * [Hackers have stolen Covid-19 medical data from a Beijing-based AI firm](https://technode.com/2020/04/28/hackers-have-stolen-covid-19-medical-data-from-a-beijing-based-ai-firm/)
+  * [Introducing the AI Economist: Why Salesforce Researchers are Applying Machine Learning to Economics](https://www.salesforce.com/company/news-press/stories/2020/4/salesforce-ai-economist/)
+  * [Algorithmic economics might help recovery from Covid-19](https://www.ft.com/content/87f3d396-8de1-11ea-9e12-0d4655dbd44f)
+  * **[Power of AI has limits in fight against Covid-19, experts caution](https://www.thenational.ae/business/technology/power-of-ai-has-limits-in-fight-against-covid-19-experts-caution-1.1014214)**
+  * **[An NLU-Powered Tool to Explore COVID-19 Scientific Literature](https://ai.googleblog.com/2020/05/an-nlu-powered-tool-to-explore-covid-19.html)** by Google AI blog
+  * [Universal Basic Income in the Age of COVID-19](https://www.unite.ai/universal-basic-income-in-the-age-of-covid-19/)
+  * **[How AI is fighting COVID-19: the companies using intelligent tech to find new drugs](https://pharmaphorum.com/views-analysis-digital/how-ai-is-fighting-covid-19-the-companies-using-intelligent-tech-to-find-new-drugs/)**
+  * **[Scale AI funds 8 projects for $3.4M amid COVID-19 crisis](https://www.canadianmanufacturing.com/technology/scale-ai-funds-8-projects-to-help-canada-amid-covid-19-crisis-252730/)**
+  * [Cloud-based Supercomputer Accelerates COVID-19 Drug Discovery](https://www.hpcwire.com/2020/05/05/cloud-based-supercomputer-accelerates-covid-19-drug-discovery/)
+  * [Current Health and Mayo Clinic Collaborate Using AI Against COVID-19](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20238/Current-Health-and-Mayo-Clinic-Collaborate-Using-AI-Against-COVID-19.aspx)
+  * [An AI can simulate an economy millions of times to create fairer tax policy](https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/)
+  * [Singapore firm unveils AI-driven contact tracing to help curb COVID-19](https://backendnews.net/2020/05/05/singapore-firm-unveils-ai-driven-contact-tracing-to-help-curb-covid-19/)
+  * [AI study launched to monitor cardiac safety of COVID-19 patients receiving hydroxychloroquine](https://cardiacrhythmnews.com/ai-study-launched-to-monitor-cardiac-safety-of-covid-19-patients-receiving-hydroxychloroquine/)
+  * **[AI firm asks for COVID-19 x-rays to develop new machine learning model](https://www.med-technews.com/news/ai-firm-asks-for-covid-19-x-rays-to-develop-new-machine-lear/)**
+  * [Medidata analysis shows COVID-19 impact on trials](https://www.outsourcing-pharma.com/Article/2020/05/05/Medidata-shows-COVID-19-impact-on-clinical-trials)
+  * **[California prediction: AI-driven model tracks coronavirus infections, deaths](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/)**
+  * [A.I. engineers should spend time training not just algorithms, but also the humans who use them](https://fortune.com/2020/05/05/a-i-engineers-should-spend-time-training-not-just-algorithms-but-also-the-humans-who-use-them/)
+  * [Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda](https://thenextweb.com/neural/2020/05/04/democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda/)
+  * **[Gartner Identifies Five Areas Where AI Can Improve Decision Making for Government and Healthcare CIOs During the Coronavirus Pandemic](https://prwire.com.au/pr/89522/gartner-identifies-five-areas-where-ai-can-improve-decision-making-for-government-and-healthcare-cios-during-the-coronavirus-pandemic)**
+  * [Pandemic: How A.I. and WAN acceleration can help to find a cure](https://www.itproportal.com/features/pandemic-how-ai-and-wan-acceleration-can-help-to-find-a-cure/)
+  
 * May 3
   * [How Well Can Algorithms Recognize Your Masked Face?](https://www.wired.com/story/algorithms-recognize-masked-face/)
   * [Oxford University Spin-out Begins Search for 10,000 X-rays to Help Predict Outcome for COVID-19](https://www.itnonline.com/content/oxford-university-spin-out-begins-search-10000-x-rays-help-predict-outcome-covid-19)
@@ -484,7 +521,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [AI Becomes An Ally In The Fight Against COVID-19](https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/#4d8f14803f5f)
   * [AI Gets Into The Fight With COVID-19](https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/#9df6d2c20c04)
   * [COVID-19 might accelerate or change previous AI adoption strategies](https://www.atlanticcouncil.org/blogs/geotech-cues/covid-19-might-accelerate-or-change-previous-ai-adoption-strategies/)
-  * [Fifth edition of the AI Breakfast: "Covid-19: Myths and realities of tracking applications"](https://www.coe.int/en/web/artificial-intelligence/-/ai-breakfasts-5th-edition-covid-19-myths-and-realities-of-tracking-applications-)
+  * **[Fifth edition of the AI Breakfast: "Covid-19: Myths and realities of tracking applications"](https://www.coe.int/en/web/artificial-intelligence/-/ai-breakfasts-5th-edition-covid-19-myths-and-realities-of-tracking-applications-)**
   * [How AI helps scientists find reliable coronavirus research](https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/)
   * [Why artificial intelligence is so important in the coronavirus era](https://fortune.com/2020/04/14/artificial-intelligence-coronavirus-health-medicine/)
   * [A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient](https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/)
