@@ -322,6 +322,17 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* May 6
+  * **[Epitopes.world taps AI to predict COVID-19 vaccine success](https://venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/)**
+  * [An AI Assist for Spotting COVID-19 in X Rays](https://physics.aps.org/articles/v13/73)
+  * [Tackling COVID-19 requires better governance of AI and other frontier technologies – here’s why](https://www.weforum.org/agenda/2020/05/success-in-emerging-covid-19-crisis-requires-better-governance-of-ai-and-other-frontier-technologies-here-s-why/)
+  * [How AI and data analytics do their part in the COVID-19 crisis](https://www.zmescience.com/science/ai-healthcare-analytics-covid-19-050532/)
+  * [Gartner: Top five areas CIOs can use AI to combat COVID-19](https://itbrief.co.nz/story/gartner-top-five-areas-cios-can-use-ai-to-combat-covid-19) 
+  * [X-ray database could be key to virus fight](http://www.chinadaily.com.cn/a/202004/28/WS5ea78633a310a8b2411522da.html)
+  * [THIS SIMPLE AI COULD SPEED UP THE COVID-19 CURE](https://www.inverse.com/innovation/machine-learning-replication-crisis)
+  * [AI Used to Identify Drugs to Help Improve COVID-19 Survival Rates](https://techround.co.uk/news/ai-identify-drugs-improve-covid-19-survival-rates/)
+  * **[RECENTLY RELEASED DATASETS FOR RESEARCHERS TO FIGHT COVID-19](https://analyticsindiamag.com/recently-released-datasets-for-researchers-to-fight-covid-19/)**
+  
 * May 5
   * [The groundbreaking way to search lungs for signs of Covid-19](https://www.bbc.com/news/business-52483082)
   * [How Artificial Intelligence can help fight COVID-19](https://www.bbva.com/en/how-artificial-intelligence-can-help-fight-covid-19/)
@@ -371,7 +382,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * **[Fighting COVID-19 with Emerging Technologies](https://blogs.idc.com/2020/05/01/fighting-covid-19-with-emerging-technologies/)** by IDC
   * **[The AI and data solutions helping to fight the coronavirus](https://www.ericsson.com/en/blog/2020/4/ai-data-solutions-helping-fight-coronavirus)**
   * [How can AI and data science help to fight the coronavirus?](https://www.ericsson.com/en/blog/2020/4/ai-and-data-science-to-fight-coronavirus)
-  * [Is AI trustworthy enough to help us fight COVID-19?](https://www.weforum.org/agenda/2020/05/covid19-coronavirus-artificial-intelligence-ai-response/)
+  * **[Is AI trustworthy enough to help us fight COVID-19?](https://www.weforum.org/agenda/2020/05/covid19-coronavirus-artificial-intelligence-ai-response/)**
   * [Covid-19 and the workforce: Critical workers, productivity, and the future of AI](https://www.technologyreview.com/2020/04/30/1000888/covid-19-and-the-workforce-critical-workers-productivity-and-the-future-of-ai/)
   * [How can AI help with the COVID-19 vaccine search?](https://towardsdatascience.com/how-can-ai-help-with-the-covid-19-vaccine-search-a68d40fc0cb0)
   * [Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk.](https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4)
