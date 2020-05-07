@@ -10,6 +10,8 @@ The purpose of this repository is providing the curated resource list of the sta
 
 Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@gmail.com or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
 
+![AI application examples identified during the epidemic response phase](https://github.com/hollobit/COVID-19-AI/blob/master/AI%20to%20fight%20against%20COVID-19.png)
+
 ----
 ## Contents
 * [Advice and guidance](#advice-and-guidance)
