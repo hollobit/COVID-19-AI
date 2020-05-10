@@ -100,6 +100,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 
 ## Standardization
+### ITU-T/WHO FG-AI4H
+* Proposed ad-hoc working group on AI for COVID-19 
+
 ### HL7 FHIR
 * SANER project - enable the secure and rapid transfer of information about hospital bed capacity and availability of critical resources during public health emergencies. 
    * [HL7 International and Audacious Inquiry Collaborate to Support COVID-19 Response](https://www.heraldmailmedia.com/news/state/hl7-international-and-audacious-inquiry-collaborate-to-support-covid-19-response/article_613a86c7-febd-5f19-a553-e7d8776bae18.html)
@@ -163,6 +166,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [한국어 Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
 
 ### Image datasets
+* [MosMedData: COVID19_1000 Dataset:](https://mosmed.ai/en/) Chest CT Scans with COVID-19 Related Findings
 * [RxRx19](https://www.rxrx.ai/rxrx19): The First Morphological Imaging Dataset on SARS-CoV-2 Virus
 * [RadiologyAi Consortium](https://www.radiologyaiconsortium.org/) - Repository of crowd-sourced CT Scans of COVID-19 patients
 * [Società Italiana di Radiologia Medica e Interventistica](https://www.sirm.org/category/senza-categoria/covid-19/)
@@ -324,6 +328,30 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* May 10
+  * [How AI use cases are evolving in the time of COVID-19](https://www.healthcareitnews.com/news/how-ai-use-cases-are-evolving-time-covid-19)
+  * [Could AI solve the COVID-19 crisis?](https://jaxenter.com/could-ai-solve-the-covid-19-crisis-171471.html)
+  * **[FDA permits use of Aidoc’s AI to detect ‘incidental findings’ associated with COVID-19](https://venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/)**
+  * [AI researchers seeking COVID-19 answers face hurdles](https://www.rollcall.com/2020/04/28/ai-researchers-seeking-covid-19-answers-face-hurdles/)
+  * [Drug research turns to artificial intelligence in COVID-19 fight](https://biv.com/article/2020/05/drug-research-turns-artificial-intelligence-covid-19-fight)
+  * [AI precision medicine mining finds 13 human COVID-19 risk genes](https://www.healtheuropa.eu/ai-precision-medicine-mining-finds-13-human-covid-19-risk-genes/99851/)
+  * [AI Is Screening Billions of Molecules for Coronavirus Treatments](https://www.the-scientist.com/news-opinion/ai-is-screening-billions-of-molecules-for-coronavirus-treatments-67520)
+  * [AI Predicts New COVID-19 Drugs, New Commercial COVID-19 Command Center](http://www.bio-itworld.com/2020/05/ai-predicts-new-covid-19-drugs-new-commercial-command-center.aspx)
+  * [How AI Is Accelerating Drug Development for COVID-19](https://www.datanami.com/2020/05/08/how-ai-is-accelerating-drug-development-for-covid-19/)
+  * [Medical AI Startup Quickly Shifts Strategy to Fight COVID-19 Pandemic](https://www.aithority.com/technology/life-sciences/medical-ai-startup-quickly-shifts-strategy-to-fight-covid-19-pandemic/)
+  * [The Touch-Free World: New Voice Business Opportunities Post-Coronavirus](https://voicebot.ai/2020/05/09/the-touch-free-world-new-voice-business-opportunities-post-coronavirus/)
+  * [AI Flags High-Risk COVID-19 Patients](https://aidaily.co.uk/articles/ai-flags-high-risk-covid-19-patients)
+  * [AI in the times of corona: Robots can reduce human contact, transmission of Covid-19](https://economictimes.indiatimes.com/magazines/panache/ai-in-the-times-of-corona-robots-can-reduce-human-contact-transmission-of-covid-19/articleshow/75645277.cms)
+  * [AI models suggest masking policy more cost-effective than lockdown](https://news.cgtn.com/news/2020-05-09/AI-modeling-shows-mask-effective-in-COVID-19-prevention-QmaVnIJYaI/index.html)
+  * [AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go](https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/)
+  * [Vivace’s AI Solution Offers Effective Early Warning System for COVID-19 Patients; Hospitals Offered Free Trial Amid Outbreak](https://www.aithority.com/machine-learning/vivaces-ai-solution-offers-effective-early-warning-system-for-covid-19-patients-hospitals-offered-free-trial-amid-outbreak/)
+  * **[CT scan database of 1000 sets was created for teaching AI to diagnose COVID-19](https://www.eurekalert.org/pub_releases/2020-05/mrap-csd050820.php)** - MosMed.ai 
+  * [COVID-19 Is Accelerating AI in Health Care. Are Federal Agencies Ready?](https://www.nextgov.com/ideas/2020/05/covid-19-accelerating-ai-health-care-are-federal-agencies-ready/165159/)
+  * [France is using AI to check whether people are wearing masks on public transport](https://www.theverge.com/2020/5/7/21250357/france-masks-public-transport-mandatory-ai-surveillance-camera-software)
+  * [Combating COVID-19: Telangana Police set to roll out AI-based system to track those not wearing masks at public places](https://www.aninews.in/news/national/general-news/combating-covid-19-telangana-police-set-to-roll-out-ai-based-system-to-track-those-not-wearing-masks-at-public-places20200509170302/)
+  * [Imaginea Launches a Digital Framework to Battle COVID-19 at the Workplace](https://www.aithority.com/technology/analytics/imaginea-launches-a-digital-framework-to-battle-covid-19-at-the-workplace/)
+  * **[COVID Moonshot: Can AI Algorithms and Volunteer Chemists Design a Knockout Antiviral?](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/covid-moonshot-can-ai-algorithms-and-volunteer-chemists-design-a-knockout-antiviral)** by IEEE spectrum
+  
 * May 6
   * **[Epitopes.world taps AI to predict COVID-19 vaccine success](https://venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/)**
   * [An AI Assist for Spotting COVID-19 in X Rays](https://physics.aps.org/articles/v13/73)
