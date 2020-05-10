@@ -751,9 +751,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [The following list summarizes the known AI-assisted radiological applications in China:](https://www.itnonline.com/article/artificial-intelligence-assisted-radiology-technologies-aid-covid-19-fight-china)
 
 <p align="center">
-    <img src="https://www.itnonline.com/sites/itnonline/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19.jpg" \>
-    <img src="https://www.itnonline.com/sites/itnonline/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19%202.jpg" \>
-    <img src="https://www.itnonline.com/sites/itnonline/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19%203.jpg" \>
+    <img src="https://www.itnonline.com/sites/default/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19.jpg" \>
+    <img src="https://www.itnonline.com/sites/default/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19%202.jpg" \>
+    <img src="https://www.itnonline.com/sites/default/files/imce-users/ud236/2020-03/AI%20chart%20for%20Chinese%20Companies%20and%20COVID-19%203.jpg" \>
 </p>
 
 ## Miscellaneous
