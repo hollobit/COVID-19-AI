@@ -351,6 +351,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Combating COVID-19: Telangana Police set to roll out AI-based system to track those not wearing masks at public places](https://www.aninews.in/news/national/general-news/combating-covid-19-telangana-police-set-to-roll-out-ai-based-system-to-track-those-not-wearing-masks-at-public-places20200509170302/)
   * [Imaginea Launches a Digital Framework to Battle COVID-19 at the Workplace](https://www.aithority.com/technology/analytics/imaginea-launches-a-digital-framework-to-battle-covid-19-at-the-workplace/)
   * **[COVID Moonshot: Can AI Algorithms and Volunteer Chemists Design a Knockout Antiviral?](https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/covid-moonshot-can-ai-algorithms-and-volunteer-chemists-design-a-knockout-antiviral)** by IEEE spectrum
+  * **[How Well Can Algorithms Recognize Your Masked Face?](https://www.wired.com/story/algorithms-recognize-masked-face/)**
+  * [AI models suggest that masks can ‘significantly’ reduce spread of coronavirus](https://venturebeat.com/2020/04/29/ai-models-suggest-that-masks-can-significantly-reduce-spread-of-coronavirus/)
+  * [Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool](https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/)
+  * [AbCellera and Lilly Slash Antibody Selection Time for COVID-19 With AI/Machine Learning](https://www.biospace.com/article/abcellera-and-lilly-slash-antibody-selection-time-for-covid-19-with-ai-machine-learning/)
+  * **[FDA’s support of AI in telemedicine](https://www.mobihealthnews.com/news/fda-s-support-ai-telemedicine)**
+  * [AI researchers set sights on detecting COVID-19 in imaging results](https://www.aiin.healthcare/topics/medical-imaging/ai-covid-19-imaging-results-x-ray-ct-scan)
+  * ['Novel cloud-based web interface detects COVID-19 from CT scans'](https://health.economictimes.indiatimes.com/news/medical-devices/novel-cloud-based-web-interface-detects-covid-19-from-ct-scans/75626551)
+  * **[China promotes local AI pilot zones](http://www.xinhuanet.com/english/2020-05/09/c_139043630.htm)**
   
 * May 6
   * **[Epitopes.world taps AI to predict COVID-19 vaccine success](https://venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/)**
