@@ -339,6 +339,20 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News and Resources
+* May 12
+  * [Could AI predict COVID-19 without testing?](https://www.medicaldesignandoutsourcing.com/could-ai-predict-covid-19-without-testing/)
+  * **[This AI tool predicts who’s got COVID-19 without testing](https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/)**
+  * [3 ways Google AI is helping combat COVID-19 disruptions](https://techwireasia.com/2020/05/3-ways-google-cloud-ai-is-helping-combat-covid-19-disruptions/)
+  * [New coronavirus ‘knowledgebase’ uses AI to accelerate COVID-19 research](https://www.sciencefocus.com/news/new-coronavirus-knowledgebase-uses-ai-to-accelerate-covid-19-research/)
+  * **[Our weird behavior during the pandemic is screwing with AI models](https://www.technologyreview.com/2020/05/11/1001563/covid-pandemic-broken-ai-machine-learning-amazon-retail-fraud-humans-in-the-loop/)**
+  * [Why COVID-19 Is Accelerating The Adoption Of AI And Research Tech](https://www.forbes.com/sites/steveking/2020/05/11/why-covid-19-is-accelerating-the-adoption-of-ai-and-research-tech/#4603482b2140)
+  * [AI Can Help To Inform Coronavirus Policy](https://www.forbes.com/sites/cognitiveworld/2020/05/11/ai-can-help-to-inform-pandemic-policy/#fc41f673b5f6)
+  * **[Artificial Intelligence for Pandemic Response and Outbreak Tracking](https://emerj.com/ai-sector-overviews/ai-for-pandemic-response/)**
+  * [Mayo Clinic in Yet Another Collaboration Using AI to Fight COVID-19](https://www.mddionline.com/mayo-clinic-yet-another-collaboration-using-ai-fight-covid-19)
+  * [Through Community Support, The HPC-AI Advisory Council Continues Its Worldwide HPC and AI Education and Training During the COVID-19 Pandemic](https://www.hpcwire.com/2020/05/11/through-community-support-the-hpc-ai-advisory-council-continues-its-worldwide-hpc-and-ai-education-and-training-during-the-covid-19-pandemic/)
+  * **[China: COVID-19 and AI healthcare response](https://www.innovationaus.com/china-covid-19-and-ai-healthcare-response/)**
+  * [Predicto AI wants to detect infections like coronavirus using a phone’s camera](https://www.contxto.com/en/colombia/predicto-ai-develops-algorithm-detects-signs-coronavirus/)
+  
 * May 10
   * [How AI use cases are evolving in the time of COVID-19](https://www.healthcareitnews.com/news/how-ai-use-cases-are-evolving-time-covid-19)
   * [Could AI solve the COVID-19 crisis?](https://jaxenter.com/could-ai-solve-the-covid-19-crisis-171471.html)
@@ -495,7 +509,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [AI And Robots Are Saving Lives Amid COVID-19](https://www.intelligentliving.co/ai-robots-saving-lives-covid-19/)
   * [Vonage Enables AI Chatbot for Spanish Government to Provide Accurate, Updated COVID-19 Information](https://www.morningstar.com/news/pr-newswire/20200423ny86660/vonage-enables-ai-chatbot-for-spanish-government-to-provide-accurate-updated-covid-19-information)
   * [AI and big data won’t work miracles in the fight against coronavirus](https://techcrunch.com/2020/03/26/ai-and-big-data-wont-work-miracles-in-the-fight-against-coronavirus/)
-  * [Putting AI to work against COVID-19](https://www.cambridgenetwork.co.uk/news/putting-ai-work-against-covid-19)
+  * **[Putting AI to work against COVID-19](https://www.cambridgenetwork.co.uk/news/putting-ai-work-against-covid-19)**
   * [Maccabi to deploy AI that identifies patients at risk of developing COVID-19 complications](https://venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/)
   * **[The Surge of Sensationalist COVID-19 AI Research](https://www.news-medical.net/health/The-Surge-of-Sensationalist-COVID-19-AI-Research.aspx)**
   * [In Vitro Confirmation of COVID-19 Drug Candidates Done Using AI-based Screening Technology](https://www.hospimedica.com/covid-19/articles/294781919/in-vitro-confirmation-of-covid-19-drug-candidates-done-using-ai-based-screening-technology.html)
@@ -536,7 +550,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Covid-19 testing issues could sink plans to re-open the country. Might CT scans help?](https://www.statnews.com/2020/04/16/ct-scans-alternative-to-inaccurate-coronavirus-tests/)
   * [AI-assisted screening for COVID-19 using CT images](https://www.microcontrollertips.com/ai-assisted-screening-covid-19-using-ct-images/)
   * [How to create a trustworthy COVID-19 tracking technology](https://www.weforum.org/agenda/2020/04/covid-19-coronavirus-tracking-technology/) @World Economic Forum
-  * [Leveraging AI to Battle This Pandemic — And The Next One](https://hbr.org/2020/04/leveraging-ai-to-battle-this-pandemic-and-the-next-one) @ Harvard Business Review
+  * **[Leveraging AI to Battle This Pandemic — And The Next One](https://hbr.org/2020/04/leveraging-ai-to-battle-this-pandemic-and-the-next-one)** @ Harvard Business Review
   * [This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus](https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4)
   * [AI emerged as a key contributor in the fight against coronavirus](https://www.ejinsight.com/eji/article/id/2440239/20200421-AI-emerged-as-a-key-contributor-in-the-fight-against-coronavirus)
   * [The NHS is using AI to predict coronavirus ventilator and ICU demand](https://thenextweb.com/neural/2020/04/20/the-nhs-is-using-ai-to-predict-coronavirus-ventilator-and-icu-demand/)
@@ -551,7 +565,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Using artificial intelligence against the spread of COVID-19](https://www.jdsupra.com/legalnews/using-artificial-intelligence-against-23213/)
   * [COVID-19 | Disruptive tech and SME innovation can boost the fight against the virus](https://www.moneycontrol.com/news/coronavirus/covid-19-disruptive-tech-and-sme-innovation-can-boost-the-fight-against-the-virus-5165341.html)
   * [The (Sober) State of Artificial Intelligence in the Fight Against COVID-19](https://medicalfuturist.com/the-sober-state-of-artificial-intelligence-in-the-fight-against-covid-19/)
-  * [Using AI to cope in the coronavirus era](https://www.raconteur.net/technology/covid-19-ai-solutions)
+  * **[Using AI to cope in the coronavirus era](https://www.raconteur.net/technology/covid-19-ai-solutions)**
   * [Assistive diagnostic AI tool to tackle COVID-19 in Malaysia](https://www.biospectrumasia.com/news/91/15811/assistive-diagnostic-ai-tool-to-tackle-covid-19-in-malaysia.html)
   * [IDC: Coronavirus To Accelerate Public Sector AI Spending](https://www.rtinsights.com/coronavirus-ai-spending/)
   * **[Remote monitoring of COVID-19 patients using AI device](https://www.news-medical.net/news/20200419/Remote-monitoring-of-COVID-19-patients-using-AI-device.aspx)**
@@ -712,6 +726,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Insights on Artificial intelligence Studies on COVID-19](https://www.techiexpert.com/insights-on-artificial-intelligence-studies-on-covid-19/)
   * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 
+* [Resources for COVID-19 and related imaging research](https://www.eurobioimaging.eu/content/Covid19)
 * [Awesome Coronavirus - Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)
 * [COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19) by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
