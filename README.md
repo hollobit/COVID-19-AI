@@ -25,6 +25,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   + [EU](#eu)
   + [OECD](#oecd)
   + [Canada](#canada)
+  + [Korea](#korea)
+  + [Uganda](#uganda)
+  + [China](#china)
 * [Standardization](#standardization)
 * [Open Research and dataset](#open-research-and-dataset)
   + [CORD-19 Open Research Dataset](#cord-19-open-research-dataset)
@@ -96,6 +99,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [AI-powered COVID-19 watch](https://oecd.ai/covid)
 ### Canada
 * [AI Against COVID-19 Canada](https://ai-against-covid.ca/)
+### Korea 
+* [COVID-19: How Korea is using innovative technology and AI to flatten the curve](https://news.itu.int/covid-19-how-korea-is-using-innovative-technology-and-ai-to-flatten-the-curve/)
+* [Flattening the curve on COVID-19](http://www.undp.org/content/seoul_policy_center/en/home/presscenter/articles/2019/flattening-the-curve-on-covid-19.html)
+* [The Innovative Korean Companies with solution for COVID-19](https://www.born2global.com/usermediaview.do?media_no=960&media_type=-1&image_yn=All&fbclid=IwAR07_a4zAl2PCaTGtn1sYbcYVjrSQN1RNWGK7H3KmE_3jZt9PifT-bMXANk) by born2global
+### Uganda
+* [NextGenCoviAI](https://nextgencoviai.ug/about.php) - next generation COVID-19 AI Empowered Management Platforms for Resource Constrained Areas
+### China 
+* [人工智能支撑新冠肺炎疫情防控信息平台](http://ky.aiiaorg.cn/)
 ### WHO
 * [Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 
