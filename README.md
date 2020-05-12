@@ -45,7 +45,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Challenge](#challenge)
 * [Paper index](#paper-index)
 * [Review Paper and Report](#review-paper-and-report)
-* [News and Resources](#news-and-resource)
+* [News](#news)
+* [Resource Directory](#resource-directory)
 * [Company and Product](#company-and-product)
   + [AI-assisted COVID-19 applications in Korea](#ai-assisted-covid-19-applications-in-korea)
   + [China](#china)
@@ -243,7 +244,8 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
  * [100+ million COVID-19 Twitter dataset and pre-processing scripts](https://github.com/thepanacealab/covid19_twitter) @github - [Covid-19 Twitter chatter dataset] for scientific use(http://www.panacealab.org/covid19/)
 
 ### Models 
- * [Alibaba - Trained on data and CT scans from more than 5,000 confirmed cases](https://aimi.stanford.edu/resources/covid19)
+ * [COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19)
+ * [Trained on data and CT scans from more than 5,000 confirmed cases](https://www.alizila.com/how-damo-academys-ai-system-detects-coronavirus-cases/)
  * [Canon/Vital Images](https://global.medical.canon/products/healthcare_it/clinical_application/ct_lung_analysis) - Lung CT model that Includes detection of ground glass nodules
  * [Infervision](https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/) - Trained on 5,000 confired cases; deployed at 34 hospitals in China
  * [RadLogics / Univ of Maryland (Eliot Siegel)](https://arxiv.org/abs/2003.05037) - 2D and 3D deep-learning models for thoracic CT studies; quantifies and tracks disease burden
@@ -329,12 +331,13 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Coronavirus (Covid-19)](https://www.nejm.org/coronavirus) by NEJM(New England Journal of Medicine)
 * [CARING By Mahajan Imaging](https://caring-research.com/list-of-all-radiology-papers-related-to-coronavirus/) - Resource tracking COVID-19 papers on radiology of COVID-19 with numbers.  Updated frequently!
 * [Doctor Penguin](http://doctorpenguin.com/covid19) - Resource tracking COVID-19 papers, research and publications.  Updated frequently!
-* [COVID-19 Imaging-based AI Research Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)
 
 ## Call for Papers
 * [Call for Papers - Special Issue on Artificial Intelligence and Information Technologies for COVID-19](http://www.techscience.com/ndetail/covid-19), Computers, Materials & Continua (CMC)
 
 ## Review Paper and Report
+* [Fighting COVID-19 with Data and AI: A Review of Active Research Groups and Datasets](https://blog.paperspace.com/fighting-covid-19-using-artificial-intelligence-and-data/)
+* [COVID-19 Imaging-based AI Research Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)
 * [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
 * [Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China under public health interventions](http://jtd.amegroups.com/article/view/36385/pdf)
 * [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
@@ -343,7 +346,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Towards an Artificial Intelligence Framework for Data-Driven Prediction of Coronavirus Clinical Severity](https://www.techscience.com/cmc/v63n1/38464)
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
-## News and Resources
+## News
 * May 12
   * [Could AI predict COVID-19 without testing?](https://www.medicaldesignandoutsourcing.com/could-ai-predict-covid-19-without-testing/)
   * **[This AI tool predicts who’s got COVID-19 without testing](https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/)**
@@ -740,7 +743,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)
   * [Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
  
- 
+## Resource Directory
 * [Resources for COVID-19 and related imaging research](https://www.eurobioimaging.eu/content/Covid19)
 * [Awesome Coronavirus - Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)
