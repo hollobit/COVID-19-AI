@@ -177,6 +177,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [한국어 Dataset](https://www.kaggle.com/yjunwoo14/2019-covid19-ncov19-data-set-in-korean?fbclid=IwAR2PblMtQSDR25QS_xLO7KqucZVdU2qo2cWgYR_k3thvrvHV9D5Sdx8VEfE)
 
 ### Image datasets
+* [COVID-19 CT segmentation dataset](http://medicalsegmentation.com/covid19/)
 * [MosMedData: COVID19_1000 Dataset:](https://mosmed.ai/en/) Chest CT Scans with COVID-19 Related Findings
 * [RxRx19](https://www.rxrx.ai/rxrx19): The First Morphological Imaging Dataset on SARS-CoV-2 Virus
 * [RadiologyAi Consortium](https://www.radiologyaiconsortium.org/) - Repository of crowd-sourced CT Scans of COVID-19 patients
@@ -276,6 +277,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) by HAI, April 1, 2020 - [Agenda](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/agenda), [Video Archive](https://youtu.be/z4105Exe23Q) 
 
 ### Tools
+* [Global Coronavirus COVID-19 Clinical Trial Tracker](https://www.covid-trials.org/)
+* [COVID-19-review - A collaborative review of the emerging COVID-19 literature](https://github.com/greenelab/covid19-review)
+* [Coronavirus Tech Handbook - Scientce Infrastructure](https://coronavirustechhandbook.com/science)
 * [CovidWatcher](https://covidwatcher.dbmi.columbia.edu/) - a research tool built by Columbia University and powered by people around the United States
 * [Understanding and tracking our progress against COVID-19](https://www.microsoft.com/en-us/ai/ai-for-health-covid-data) by Microsoft 
 * [COVID-19 Prediction in US, CA using Tableau](http://www.calstatela.edu/centers/hipic/covid-19-us-ca-confirmed-prediction)
@@ -325,6 +329,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Coronavirus (Covid-19)](https://www.nejm.org/coronavirus) by NEJM(New England Journal of Medicine)
 * [CARING By Mahajan Imaging](https://caring-research.com/list-of-all-radiology-papers-related-to-coronavirus/) - Resource tracking COVID-19 papers on radiology of COVID-19 with numbers.  Updated frequently!
 * [Doctor Penguin](http://doctorpenguin.com/covid19) - Resource tracking COVID-19 papers, research and publications.  Updated frequently!
+* [COVID-19 Imaging-based AI Research Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)
 
 ## Call for Papers
 * [Call for Papers - Special Issue on Artificial Intelligence and Information Technologies for COVID-19](http://www.techscience.com/ndetail/covid-19), Computers, Materials & Continua (CMC)
@@ -352,6 +357,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Through Community Support, The HPC-AI Advisory Council Continues Its Worldwide HPC and AI Education and Training During the COVID-19 Pandemic](https://www.hpcwire.com/2020/05/11/through-community-support-the-hpc-ai-advisory-council-continues-its-worldwide-hpc-and-ai-education-and-training-during-the-covid-19-pandemic/)
   * **[China: COVID-19 and AI healthcare response](https://www.innovationaus.com/china-covid-19-and-ai-healthcare-response/)**
   * [Predicto AI wants to detect infections like coronavirus using a phone’s camera](https://www.contxto.com/en/colombia/predicto-ai-develops-algorithm-detects-signs-coronavirus/)
+  * [A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)](https://www.medrxiv.org/content/10.1101/2020.02.14.20023028v5) @ medrXiv 
+  * [Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis](https://arxiv.org/abs/2003.05037v1) @ arXiv
+  * **[Artificial Intelligence and the COVID-19 Pandemic](https://fpf.org/2020/05/07/artificial-intelligence-and-the-covid-19-pandemic/)**
   
 * May 10
   * [How AI use cases are evolving in the time of COVID-19](https://www.healthcareitnews.com/news/how-ai-use-cases-are-evolving-time-covid-19)
@@ -726,6 +734,13 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Insights on Artificial intelligence Studies on COVID-19](https://www.techiexpert.com/insights-on-artificial-intelligence-studies-on-covid-19/)
   * [An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot](https://www.biorxiv.org/content/10.1101/2020.03.25.008805v2.full)
 
+* Before April
+  * [Chinese Hospitals Deploy AI to Help Diagnose Covid-19](https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/)
+  * [Tech for Good | Alibaba develops AI system for Covid-19 diagnosis](https://technode.com/2020/02/28/tech-for-good-alibaba-develops-ai-system-for-covid-19-diagnosis/)
+  * [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)
+  * [Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
+ 
+ 
 * [Resources for COVID-19 and related imaging research](https://www.eurobioimaging.eu/content/Covid19)
 * [Awesome Coronavirus - Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)
@@ -756,7 +771,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [How AI Is Helping Us With The Coronavirus Pandemic](https://medium.com/reality-engines/how-ai-is-helping-us-with-the-coronavirus-pandemic-d3c555209323)
 * [COVID-Net: an open source neural network for COVID-19 detection](https://medium.com/@sheldon.fernandez/covid-net-an-open-source-neural-network-for-covid-19-detection-48b8a55e6d44)
 * [COVID-19 Archive](https://www.covid19-archive.com/) is a collection of selected COVID-19 related news articles, categorized by date.
-* [DarwinAI Open-Sources COVID-Net as Medical Imaging in COVID-19 Diagnosis Debate Continues](https://medium.com/syncedreview/darwinai-open-sources-covid-net-as-medical-imaging-in-covid-19-diagnosis-debate-continues-99d1d5491c13)
+* **[DarwinAI Open-Sources COVID-Net as Medical Imaging in COVID-19 Diagnosis Debate Continues](https://medium.com/syncedreview/darwinai-open-sources-covid-net-as-medical-imaging-in-covid-19-diagnosis-debate-continues-99d1d5491c13)**
 * ACR [COVID-19 Clinical Resources for Radiologists](https://www.acr.org/Clinical-Resources/COVID-19-Radiology-Resources)
 * [COVID-19 Resource Centre](https://www.thelancet.com/coronavirus) - The Lancet 
 * [COVID-19 free images](https://www.shutterstock.com/search/covid-19) by shutterstock 
