@@ -334,6 +334,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## Call for Papers
 * [Call for Papers - Special Issue on Artificial Intelligence and Information Technologies for COVID-19](http://www.techscience.com/ndetail/covid-19), Computers, Materials & Continua (CMC)
+* [Call for Papers: Special Issue on AI for COVID-19](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-ai-for-covid-19)
 
 ## Review Paper and Report
 * [Fighting COVID-19 with Data and AI: A Review of Active Research Groups and Datasets](https://blog.paperspace.com/fighting-covid-19-using-artificial-intelligence-and-data/)
@@ -348,6 +349,12 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## News
 * May 12
+  * **[AI Speeds Drug Discovery to fight COVID-19](https://towardsdatascience.com/ai-speeds-drug-discovery-to-fight-covid-19-b853a3f93e82)**
+  * [Addressing COVID-19 Drug Development with Artificial Intelligence](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202000070)
+  * [Digital Health and AI in the Time of COVID-19](https://www.ie.edu/building-resilience/knowledge/digital-health-ai-time-covid-19/)
+  * [AI platform developed to rapidly identify treatment regimens for infections, including COVID-19](https://www.drugtargetreview.com/news/60999/ai-platform-developed-to-rapidly-identify-treatment-regimens-for-infections-including-covid-19/)
+  * **[Vanquishing the Virus: 160+ COVID-19 Drug and Vaccine Candidates in Development](https://www.genengnews.com/a-lists/vanquishing-the-virus-160-covid-19-drug-and-vaccine-candidates-in-development/)**
+  * [Global consortium accelerates drug development for COVID-19](https://www.biospectrumasia.com/news/83/15804/global-consortium-accelerates-drug-development-for-covid-19.html)
   * [Could AI predict COVID-19 without testing?](https://www.medicaldesignandoutsourcing.com/could-ai-predict-covid-19-without-testing/)
   * **[This AI tool predicts who’s got COVID-19 without testing](https://thenextweb.com/neural/2020/05/11/this-ai-tool-predicts-whos-got-covid-19-without-testing/)**
   * [3 ways Google AI is helping combat COVID-19 disruptions](https://techwireasia.com/2020/05/3-ways-google-cloud-ai-is-helping-combat-covid-19-disruptions/)
@@ -493,7 +500,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [After coronavirus, AI could be central to our new normal](https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/)
   * [Claims that AI detects coronavirus in X-rays aren’t convincing medical experts](https://thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/)
   * **[Open-source AI tool aims to help identify coronavirus infections](https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/)**
-  * [Coronavirus: The role of AI in the ‘war’ against epidemics and pandemics](https://www.computerweekly.com/feature/Coronavirus-the-role-of-AI-in-the-war-against-epidemics-and-pandemics)
+  * **[Coronavirus: The role of AI in the ‘war’ against epidemics and pandemics](https://www.computerweekly.com/feature/Coronavirus-the-role-of-AI-in-the-war-against-epidemics-and-pandemics)**
   * [How AI is finding drugs to treat coronavirus](https://sifted.eu/articles/ai-coronavirus-drugs/)
   * [Potential new treatment for COVID-19 uncovered by BenevolentAI enters trials](https://techcrunch.com/2020/04/14/potential-new-treatment-for-covid-19-uncovered-by-benevolentai-enters-trials/)
   * [Is A.I. better at diagnosing illnesses than doctors? Don’t believe all the hype](https://fortune.com/2020/04/22/coronavirus-test-diagnosis-ai-doctors-illnesses-covid-19-research-artificial-intelligence/)
@@ -654,7 +661,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Hospitals Deploy AI Tools to Detect COVID-19 on Chest Scans](https://spectrum.ieee.org/the-human-os/biomedical/imaging/hospitals-deploy-ai-tools-detect-covid19-chest-scans)
   * [Software and Genetic Sequencing Track the Coronavirus's Path](https://spectrum.ieee.org/the-human-os/biomedical/devices/genetic-sequencing-and-online-software-tools-track-caronaviruss-path)
   * [Halting COVID-19: The Benefits and Risks of Digital Contact Tracing](https://spectrum.ieee.org/the-human-os/biomedical/ethics/halting-covid19-benefits-risks-digital-contact-tracing)
-  * [Responding to COVID-19 with AI and machine learning](https://www.id-hub.com/2020/04/08/responding-to-covid-19-with-ai-and-machine-learning/)
+  * **[Responding to COVID-19 with AI and machine learning](https://www.id-hub.com/2020/04/08/responding-to-covid-19-with-ai-and-machine-learning/)**
   * [AI APP, PART-FUNDED BY EU, COLLECTS THE SOUNDS OF COVID-19](https://erc.europa.eu/news/ai-app-part-funded-eu-collects-sounds-covid-19)
   * [How AI Is Helping in the Fight Against COVID-19](https://medium.com/pcmag-access/how-ai-is-helping-in-the-fight-against-covid-19-e4c19e0f8ff)
   * [How AI is helping scientists in the fight against COVID-19, from robots to predicting the future](https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/)
@@ -710,7 +717,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Analysis: Applying AI in the Fight Against The Coronavirus](https://hitconsultant.net/2020/04/01/analysis-applying-ai-in-the-fight-against-the-coronavirus/#.Xofeaogzb-h)
   * [Vuno offers free AI solution for reading COVID-19 lung images](http://www.koreabiomed.com/news/articleView.html?idxno=7919)
   * [Using Artificial Intelligence to detect COVID-19](https://becominghuman.ai/using-artificial-intelligence-to-detect-covid-19-6fcd9857b93f)
-  * [How Hospitals Are Using AI to Battle Covid-19](https://hbr.org/2020/04/how-hospitals-are-using-ai-to-battle-covid-19)
+  * **[How Hospitals Are Using AI to Battle Covid-19](https://hbr.org/2020/04/how-hospitals-are-using-ai-to-battle-covid-19)**
   * [Covid-19: Focus on what China did right, not wrong](https://asiatimes.com/2020/04/covid-19-focus-on-what-china-did-right-not-wrong/)
   * [Tech News: Data and Artificial Intelligence in the Covid-19 crisis](https://www.iol.co.za/business-report/tech-news-data-and-artificial-intelligence-in-the-covid-19-crisis-45991847)
   * [Collaboration Aims to Fast-track AI Solution for Rapid COVID-19 Diagnosis Using Chest X-rays](https://thejournalofmhealth.com/collaboration-aims-to-fast-track-ai-solution-for-rapid-covid-19-diagnosis-using-chest-x-rays/)
@@ -742,13 +749,18 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [Tech for Good | Alibaba develops AI system for Covid-19 diagnosis](https://technode.com/2020/02/28/tech-for-good-alibaba-develops-ai-system-for-covid-19-diagnosis/)
   * [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)
   * [Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
+  * [AI could help with the next pandemic—but not with this one](https://www.technologyreview.com/2020/03/12/905352/ai-could-help-with-the-next-pandemicbut-not-with-this-one/)
+  * **[A Call To Action To AI Experts: Join The Fight Against The Coronavirus](https://www.forbes.com/sites/kashyapkompella/2020/03/19/a-call-to-action-to-ai-experts-join-the-fight-against-the-coronavirus/#5f3bb830ce5e)**
  
 ## Resource Directory
-* [Resources for COVID-19 and related imaging research](https://www.eurobioimaging.eu/content/Covid19)
-* [Awesome Coronavirus - Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
-* [Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)
-* [COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19) by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
-* [List of COVID-19 Resources for Machine Learning and Data Science](https://www.marktechpost.com/2020/04/12/list-of-covid-19-resources-for-machine-learning-and-data-science-research/)
+* **[LIVE BLOG: R&D response to COVID-19 pandemic](https://sciencebusiness.net/coronavirus-rd-gateway/news/live-blog-rd-response-covid-19-pandemic)
+* **[COVID-19 Vaccine and drug development](https://www.neweurope.eu/article/covid-19-latest-news-on-the-vaccine-and-drug-treatment-regular-updates/)**
+* **[Resources for COVID-19 and related imaging research](https://www.eurobioimaging.eu/content/Covid19)**
+* **[Awesome Coronavirus - Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)**
+* **[Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)**
+* **[COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19)** by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
+* **[List of COVID-19 Resources for Machine Learning and Data Science](https://www.marktechpost.com/2020/04/12/list-of-covid-19-resources-for-machine-learning-and-data-science-research/)**
+* **[COVID-19 resource page for AI researchers](https://aihub.org/2020/03/24/covid-19-resource-page-for-ai-researchers/)
 * [Coronavirus: Research, Commentary, and News](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov) by Science
 * [Itonline COVID-19 channel](https://www.itnonline.com/channel/coronavirus-covid-19)
 * [Latest Coronavirus Updates for the Healthcare Community](https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-communit)
