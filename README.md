@@ -271,6 +271,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [An image based CT attempt at coronavirus2019 (covid19) diagnosis](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 
 ### Lecture and course 
+* [Using Artificial Intelligence to Tackle Epidemics: The Covid-19 Model](http://trendsresearch.org/event/using-artificial-intelligence-to-tackle-epidemics-the-covid-19-model/)
 * [AI for Healthcare in the Time of COVID-19](https://www.udacity.com/ai_in_healthcare/virtual_conference) @ Udacity - May 12 ~ 13
 * [Vaxopedia](https://vaxopedia.org/2020/03/11/covid-19-presentations-and-webinars/) - COVID-19 presentation and webinar links
 * [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0) - Standford
@@ -348,6 +349,19 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News
+* May 13
+  * **[Grading COVID-19 Severity with CT: CAD and AI](https://healthmanagement.org/c/hospital/issuearticle/grading-covid-19-severity-with-ct-cad-and-ai)**
+  * [COVID-19: AI tool speeds up scientific review process](https://www.medicalnewstoday.com/articles/covid-19-ai-tool-speeds-up-scientific-review-process)
+  * **[How Facebook is using AI to combat COVID-19 misinformation and detect ‘hateful memes’](https://www.theverge.com/2020/5/12/21254960/facebook-ai-moderation-covid-19-coronavirus-hateful-memes-hate-speech)**
+  * **[Artificial intelligence systems aim to sniff out signs of COVID-19 outbreaks](https://www.sciencemag.org/news/2020/05/artificial-intelligence-systems-aim-sniff-out-signs-covid-19-outbreaks)**
+  * [FDA Expedites Clearance for AI Ultrasound Solution to Fight COVID-19](https://hitconsultant.net/2020/05/12/fda-expedites-clearance-for-ai-ultrasound-solution-to-fight-covid-19/#.Xrs6Umgzb-g)
+  * [AI, Robots, and Ethics in the Age of COVID-19](https://sloanreview.mit.edu/article/ai-robots-and-ethics-in-the-age-of-covid-19/)
+  * [AI company seeks pharma partners to progress Covid-19 drugs](https://www.epmmagazine.com/news/ai-company-se/)
+  * [Extreme personalisation: could AI get us out of lockdown?](https://sifted.eu/articles/ai-personalisation-covid-19/)
+  * [FDA permits use of icometrix's AI-based quantification for chest CT in COVID-19](https://www.biospace.com/article/releases/fda-permits-use-of-icometrix-s-ai-based-quantification-for-chest-ct-in-covid-19/)
+  * [It could take 5 years for 2 leading COVID-19 vaccines to debut, AI analysis finds](https://www.fiercepharma.com/pharma/don-t-count-a-covid-19-vaccine-for-at-least-five-years-says-ai-based-forecast)
+  * [How AI Is Speeding Up the Search for a COVID-19 Cure](https://www.sixthtone.com/news/1005566/how-ai-is-speeding-up-the-search-for-a-covid-19-cure)
+  
 * May 12
   * **[AI Speeds Drug Discovery to fight COVID-19](https://towardsdatascience.com/ai-speeds-drug-discovery-to-fight-covid-19-b853a3f93e82)**
   * [Addressing COVID-19 Drug Development with Artificial Intelligence](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202000070)
@@ -753,14 +767,14 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * **[A Call To Action To AI Experts: Join The Fight Against The Coronavirus](https://www.forbes.com/sites/kashyapkompella/2020/03/19/a-call-to-action-to-ai-experts-join-the-fight-against-the-coronavirus/#5f3bb830ce5e)**
  
 ## Resource Directory
-* **[LIVE BLOG: R&D response to COVID-19 pandemic](https://sciencebusiness.net/coronavirus-rd-gateway/news/live-blog-rd-response-covid-19-pandemic)
+* **[LIVE BLOG: R&D response to COVID-19 pandemic](https://sciencebusiness.net/coronavirus-rd-gateway/news/live-blog-rd-response-covid-19-pandemic)**
 * **[COVID-19 Vaccine and drug development](https://www.neweurope.eu/article/covid-19-latest-news-on-the-vaccine-and-drug-treatment-regular-updates/)**
 * **[Resources for COVID-19 and related imaging research](https://www.eurobioimaging.eu/content/Covid19)**
 * **[Awesome Coronavirus - Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)**
 * **[Artificial Intelligence against COVID-19](https://www.revelis.eu/en/artificial-intelligence-against-covid19/)**
 * **[COVID-19 + Imaging AI Resources](https://aimi.stanford.edu/resources/covid19)** by Center for Artificial Intelligence in Medicine & Imaging, Standford Univ. 
 * **[List of COVID-19 Resources for Machine Learning and Data Science](https://www.marktechpost.com/2020/04/12/list-of-covid-19-resources-for-machine-learning-and-data-science-research/)**
-* **[COVID-19 resource page for AI researchers](https://aihub.org/2020/03/24/covid-19-resource-page-for-ai-researchers/)
+* **[COVID-19 resource page for AI researchers](https://aihub.org/2020/03/24/covid-19-resource-page-for-ai-researchers/)**
 * [Coronavirus: Research, Commentary, and News](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov) by Science
 * [Itonline COVID-19 channel](https://www.itnonline.com/channel/coronavirus-covid-19)
 * [Latest Coronavirus Updates for the Healthcare Community](https://patientengagementhit.com/news/latest-coronavirus-updates-for-the-healthcare-communit)
