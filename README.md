@@ -1,4 +1,4 @@
-# Artificial Intelligence to the fight against Coronavirus (COVID-19)
+# AI Technology to fight against Coronavirus (COVID-19)
 
 COVID-19 disease was identified in December 2019 in China and declared a global pandemic by the WHO on 11 March 2020. 
 
