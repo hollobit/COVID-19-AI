@@ -86,6 +86,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
  * [American National Standards Institute](https://www.ansi.org/COVID-19/)
  
 ### Consortium
+* [International Consortium for COVID-19 Imaging AI (ICOVAI)](https://www.icovai.org/)
 * [XPrize Pandemic Alliance](https://www.xprize.org/)- A DATA-POWERED ALLIANCE TO STOP COVID-19
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
 * [Defeat Covid19 #defeatcovid19](https://www.defeatcovid19.org/) - [Introduction to the Group on GitHub](https://github.com/defeatcovid19) and first delivered [Pytorch solution for predictions on X-ray images of Covid-19 patients](https://github.com/defeatcovid19/defeatcovid19-net-pytorch).
@@ -339,7 +340,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 
 ## Review Paper and Report
 * [Fighting COVID-19 with Data and AI: A Review of Active Research Groups and Datasets](https://blog.paperspace.com/fighting-covid-19-using-artificial-intelligence-and-data/)
-* [COVID-19 Imaging-based AI Research Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)
+* **[COVID-19 Imaging-based AI Research Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)**
 * [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
 * [Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China under public health interventions](http://jtd.amegroups.com/article/view/36385/pdf)
 * [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
@@ -349,6 +350,19 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News
+* May 14
+  * **[Owkin Launches the Collaborative COVID-19 Open AI Consortium (COAI)](https://www.unite.ai/covid-19-open-ai-consortium/)**
+  * [Patentablity of COVID19 Software Inventions: Artificial Intelligence (AI), Data Storage & Blockchain](https://www.natlawreview.com/article/patentablity-covid19-software-inventions-artificial-intelligence-ai-data-storage)
+  * [Using ‘personalized AI’ to end coronavirus lockdown is a stupid, cruel idea](https://thenextweb.com/neural/2020/05/13/using-personalized-ai-to-end-coronavirus-lockdown-is-a-stupid-cruel-idea/)
+  * [COVID-19 Puts Spotlight on Artificial Intelligence](https://www.genengnews.com/gen-edge/covid-19-puts-spotlight-on-artificial-intelligence/)
+  * **[An AI Tool Detected Health Anomalies in Wuhan Before the Pandemic. Now It Helps Detect and Track its Spread Worldwide.](https://washingtonexec.com/2020/05/hyperion-geospark-analytics-abnormal-data-covid-19/#.XryTfmgzb-g)**
+  * [To screen COVID-19 patients for heart problems, FDA clears several ultrasound, AI devices from Philips, Eko, Caption Health
+](https://www.fiercebiotech.com/medtech/to-screen-covid-19-patients-for-heart-problems-fda-clears-several-ultrasound-ai-devices)
+  * [FDA Grants Eko Emergency Use Authorization for Low Ejection Fraction AI](https://hitconsultant.net/2020/05/13/fda-grants-eko-emergency-use-authorization-for-low-ejection-fraction-ai/#.XryUTmgzb-g)
+  * [The DNA Company Acquires AI Digital Therapeutics App for $30M to Form My Next Health](https://hitconsultant.net/2020/05/13/the-dna-company-acquires-ai-digital-therapeutics-app/#.XryUjGgzb-g)
+  * [Lifetrack using AI to accelerate COVID-19 detection](https://www.bworldonline.com/lifetrack-using-ai-to-accelerate-covid-19-detection/)
+  * [The roadmap to a safe and sustainable AI medical solution, during and beyond COVID-19](https://medium.com/@AidenceVeye/the-roadmap-to-a-safe-and-sustainable-ai-medical-solution-during-and-beyond-covid-19-7dfbe05266bc)
+  
 * May 13
   * **[Grading COVID-19 Severity with CT: CAD and AI](https://healthmanagement.org/c/hospital/issuearticle/grading-covid-19-severity-with-ct-cad-and-ai)**
   * [COVID-19: AI tool speeds up scientific review process](https://www.medicalnewstoday.com/articles/covid-19-ai-tool-speeds-up-scientific-review-process)
