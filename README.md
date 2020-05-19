@@ -102,8 +102,9 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 ### Canada
 * [AI Against COVID-19 Canada](https://ai-against-covid.ca/)
 ### Korea 
+* **[Korean ICT services against Covid-19 pandemic(한국의 코로나19 대응 ICT사례집)](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=22151&parentSeq=22151)**
 * [COVID-19: How Korea is using innovative technology and AI to flatten the curve](https://news.itu.int/covid-19-how-korea-is-using-innovative-technology-and-ai-to-flatten-the-curve/)
-* [Flattening the curve on COVID-19](http://www.undp.org/content/seoul_policy_center/en/home/presscenter/articles/2019/flattening-the-curve-on-covid-19.html)
+* [Flattening the curve on COVID-19](http://www.undp.org/content/seoul_policy_center/en/home/presscenter/articles/2019/flattening-the-curve-on-covid-19.html)https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=22151&parentSeq=22151
 * [The Innovative Korean Companies with solution for COVID-19](https://www.born2global.com/usermediaview.do?media_no=960&media_type=-1&image_yn=All&fbclid=IwAR07_a4zAl2PCaTGtn1sYbcYVjrSQN1RNWGK7H3KmE_3jZt9PifT-bMXANk) by born2global
 ### Uganda
 * [NextGenCoviAI](https://nextgencoviai.ug/about.php) - next generation COVID-19 AI Empowered Management Platforms for Resource Constrained Areas
@@ -350,6 +351,38 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News
+* May 19
+  * [Why Didn't Artificial Intelligence Save Us From Covid-19?](https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/)
+  * [Researchers Find New Potential in Coronavirus Chatbots](https://voicebot.ai/2020/05/18/researchers-find-new-potential-in-coronavirus-chatbots/)
+  * [AI-based Hunt for Compounds Against SARS-CoV-2](https://www.technologynetworks.com/tn/news/ai-based-hunt-for-compounds-against-sars-cov-2-334956)
+  * [Behold.ai Partners with Apollo Hospitals Group for Rapid COVID-19 Diagnosis](https://www.itnonline.com/content/beholdai-partners-apollo-hospitals-group-rapid-covid-19-diagnosis)
+  * [Scientists using AI to help predict heart damage in COVID-19 patients](https://www.deccanherald.com/international/scientists-using-ai-to-help-predict-heart-damage-in-covid-19-patients-838966.html)
+  * [New Artificial Intelligence Diagnostic Can Predict COVID-19 Without Testing](https://scitechdaily.com/new-artificial-intelligence-diagnostic-can-predict-covid-19-without-testing/)
+  * [AI-Powered Biotech Can Help Deploy a Vaccine In Record Time](https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/)
+  * [NYU researchers built an AI tool to predict severe cases of COVID-19](https://www.fastcompany.com/90505134/nyu-researchers-built-an-ai-tool-to-predict-severe-cases-of-covid-19)
+  * [AI Models Struggle To Predict People’s Irregular Behavior During Covid-19 Pandemic](https://www.unite.ai/ai-models-struggle-to-predict-peoples-irregular-behavior-during-covid-19-pandemic/)
+  * [How AI Is Being Used To Tackle Covid-19](http://thecorner.eu/world-economy/how-ai-is-being-used-to-tackle-covid-19/86225/)
+  * [How AI can help governments in a post Covid-19 world](https://www.wamda.com/2020/05/ai-help-governments-post-covid-19-world)
+  * **[Biotechs harness AI in battle against Covid-19](https://www.ft.com/content/877b8752-6847-11ea-a6ac-9122541af204)**
+  * [SIGNIFICANCE OF AI-BASED MENTAL HEALTHCARE SYSTEMS AMID SOCIAL DISTANCING MEASURES](https://analyticsindiamag.com/significance-of-ai-based-mental-healthcare-systems-amid-social-distancing-measures/)
+  * **[Can a computer help us find a treatment for COVID-19?](https://www.drugtargetreview.com/article/61581/can-a-computer-help-us-find-a-treatment-for-covid-19/)**
+  * [COVID effect: Medical AI takes prominence in Asia Pacific](https://www.geospatialworld.net/blogs/covid-effect-medical-ai-takes-prominence-in-asia-pacific/)
+  * [Coronavirus contact tracing app ready for rollout, says Montreal AI institute](https://globalnews.ca/news/6951846/coronavirus-contact-tracing-app/)
+  * [HOW CORONAVIRUS SET THE STAGE FOR ROBOTS AND A.I.](https://www.inverse.com/culture/how-coronavirus-set-the-stage-for-robots-and-ai)
+  * [How data analysis, AI, and IoT will shape the post-coronavirus ‘new normal’](https://www.infoworld.com/article/3543770/how-data-analysis-ai-and-iot-will-shape-the-post-coronavirus-new-normal.html)
+  * [Covid-19: Artificial Intelligence Fighting The Pandemic Terror](https://yourstory.com/mystory/covid-19-ai-fighting-pandemic-terror)
+  * [Fujifilm Eyes AI Analysis of Coronavirus-Caused Pneumonia](https://www.nippon.com/en/news/yjj2020051900830/fujifilm-eyes-ai-analysis-of-coronavirus-caused-pneumonia.html)
+  * **[Mount Sinai First in U.S. to Use AI to Analyze Coronavirus Patients](https://www.itnonline.com/content/mount-sinai-first-us-use-ai-analyze-coronavirus-patients)**
+  * **[Coronavirus: Commission boosts urgently needed research and innovation with additional €122 million](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_887)**
+  * [We designed an experimental AI tool to predict which COVID-19 patients are going to get the sickest](https://theconversation.com/we-designed-an-experimental-ai-tool-to-predict-which-covid-19-patients-are-going-to-get-the-sickest-136125)
+  * [Research investigates COVID-19 virus origin using artificial intelligence (AI)](https://www.news-medical.net/news/20200515/Research-investigates-COVID-19-virus-origin-using-artificial-intelligence-(AI).aspx)
+  * [Technology In A Time Of Crisis: How DARPA And AI Are Shaping The Future](https://www.forbes.com/sites/forbestechcouncil/2020/05/18/technology-in-a-time-of-crisis-how-darpa-and-ai-are-shaping-the-future/#792df2cf4e47)
+  * [NVIDIA's newest AI supercomputer joins the fight against COVID-19](https://www.engadget.com/nvidia-gtc-2020-ai-health-covid-19-130031390.html)
+  * **[Clinical AI Leader Sensyne Health Launches CVm-Health™ ‘Good Neighbor’ App in the United States With Support From Microsoft and Cognizant](https://www.wfmz.com/clinical-ai-leader-sensyne-health-launches-cvm-health-good-neighbor-app-in-the-united-states/article_617cf069-67d1-54d9-93d6-32af9903d570.html)**
+  * [The role of AI and IoT technologies in the Covid-19 situation](https://www.ciol.com/role-ai-iot-technologies-covid-19-situation/)
+  * [Machine learning can help get COVID-19 aid to those who need it most](https://www.nature.com/articles/d41586-020-01393-7)
+  * [4 rules to stop governments misusing COVID-19 tech after the crisis](https://www.weforum.org/agenda/2020/05/covid-19-tech-data-usage-privacy/)
+  
 * May 14
   * **[Owkin Launches the Collaborative COVID-19 Open AI Consortium (COAI)](https://www.unite.ai/covid-19-open-ai-consortium/)**
   * [Patentablity of COVID19 Software Inventions: Artificial Intelligence (AI), Data Storage & Blockchain](https://www.natlawreview.com/article/patentablity-covid19-software-inventions-artificial-intelligence-ai-data-storage)
