@@ -273,6 +273,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [An image based CT attempt at coronavirus2019 (covid19) diagnosis](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 
 ### Lecture and course 
+* [COVID + AI: The Road Ahead](https://hai.stanford.edu/events/covid-ai-road-ahead) June 01, 2020 - 09:15am–12:30pm, by HAI
 * [Using Artificial Intelligence to Tackle Epidemics: The Covid-19 Model](http://trendsresearch.org/event/using-artificial-intelligence-to-tackle-epidemics-the-covid-19-model/)
 * [AI for Healthcare in the Time of COVID-19](https://www.udacity.com/ai_in_healthcare/virtual_conference) @ Udacity - May 12 ~ 13
 * [Vaxopedia](https://vaxopedia.org/2020/03/11/covid-19-presentations-and-webinars/) - COVID-19 presentation and webinar links
@@ -340,9 +341,21 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [Call for Papers: Special Issue on AI for COVID-19](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-ai-for-covid-19)
 
 ## Review Paper and Report
+* [Artificial intelligence and the future of global health](http://dx.doi.org/10.1016/S0140-6736(20)30226-9), The Lancet, 2020; 395 (10236): 1579 DOI: 10.1016/S0140-6736(20)30226-9
+* [Artifcial intelligence vs COVID‑19: limitations, constraints and pitfalls](https://link.springer.com/article/10.1007/s00146-020-00978-0), Wim Naudé, AI & SOCIETY (2020), 28 April 2020. https://doi.org/10.1007/s00146-020-00978-0
+* ["Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19."](https://doi.org/10.1109/RBME.2020.2987975) IEEE Reviews in Biomedical Engineering, 2020. doi: https://doi.org/10.1109/RBME.2020.2987975
+* ["The role of imaging in the detection and management of COVID-19: a review."](https://doi.org/10.1109/RBME.2020.2990959) IEEE Reviews in Biomedical Engineering, 2020. doi: https://doi.org/10.1109/RBME.2020.2990959
+* ["Digital technology and COVID-19."](https://doi.org/10.1038/s41591-020-0824-5) Nature Medicine, 2020. doi: https://doi.org/10.1038/s41591-020-0824-5
+* ["A British Society of Thoracic Imaging statement: considerations in designing local imaging diagnostic algorithms for the COVID-19 pandemic."](https://doi.org/10.1016/j.crad.2020.03.008) Clinical Radiology, Volume 75, Issue 5, May 2020, Pages 329-334 doi: https://doi.org/10.1016/j.crad.2020.03.008
+* ["Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review."](https://arxiv.org/abs/2004.05436) arXiv, 2020.  
+* ["Curbing the AI-induced enthusiasm in diagnosing COVID-19 on chest X-Rays: the present and the near-future."](https://doi.org/10.1101/2020.04.28.20082776) medRxiv 2020.04.28.20082776, 2020. doi: https://doi.org/10.1101/2020.04.28.20082776
+* ["Computer Vision For COVID-19 Control: A Survey."](https://arxiv.org/abs/2004.09420) arXiv, 2020.
+* ["Artificial Intelligence against COVID-19: An Early Review."](http://ftp.iza.org/dp13110.pdf) IZA Discussion Papers 13110, Institute of Labor Economics (IZA), 2020.
+* ["Systematic review and critical appraisal of prediction models for diagnosis and prognosis of COVID-19 infection."](https://doi.org/10.1101/2020.03.24.20041020) medRvix 2020.03.24.20041020, 2020. doi: https://doi.org/10.1101/2020.03.24.20041020
+* ["Zero-Shot Learning and its Applications from Autonomous Vehicles to COVID-19 Diagnosis: A Review."](https://arxiv.org/abs/2004.14143) arXiv, 2020.
 * [Fighting COVID-19 with Data and AI: A Review of Active Research Groups and Datasets](https://blog.paperspace.com/fighting-covid-19-using-artificial-intelligence-and-data/)
 * **[COVID-19 Imaging-based AI Research Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)**
-* [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
+* **[Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)** arXiv, 2020.
 * [Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China under public health interventions](http://jtd.amegroups.com/article/view/36385/pdf)
 * [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 * [Digital technology and COVID-19](https://www.nature.com/articles/s41591-020-0824-5)
@@ -351,6 +364,26 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * RSNA Publishes [Expert Consensus on COVID-19 Reporting](https://pubs.rsna.org/doi/10.1148/ryct.2020200152)
 
 ## News
+* May 21 
+  * **[Marshaling artificial intelligence in the fight against Covid-19](http://news.mit.edu/2020/mit-marshaling-artificial-intelligence-fight-against-covid-19-0519)**
+  * [SK Telecom deploys AI system to assist with COVID-19 quarantine](https://www.zdnet.com/article/sk-telecom-deploys-ai-voice-call-to-assist-covid-19-quarantine/)
+  * [Mount Sinai Researchers Develops AI Algorithm to Detect COVID-19 from CT Scans](https://hitconsultant.net/2020/05/20/mount-sinai-researchers-ai-algorithm-detect-covid-19-ct-scans/#.XsXFkjozb-g)
+  * [Doctors enlist artificial intelligence to help them defeat the coronavirus](https://www.latimes.com/science/story/2020-05-20/coronavirus-tests-the-value-of-artificial-intelligence-in-medicine)
+  * **[Stanford virtual conference will focus on ways AI can aid COVID-19 recovery](https://news.stanford.edu/2020/05/20/role-ai-covid-19-recovery/)**
+  * [London, Ont. researchers examining use of A.I. to diagnose COVID-19 through lung ultrasounds](https://globalnews.ca/news/6964876/london-ont-researchers-ai-coronavirus/)
+  * [AI-Powered Fever Detection Camera Offers Solution to Mitigate the Spread of COVID-19](https://feedleader.com/ai-powered-fever-detection-camera-offers-solution-to-mitigate-the-spread-of-covid-19/)
+  * [Using Artificial Intelligence to Help Diagnose COVID-19](https://now.tufts.edu/articles/using-artificial-intelligence-help-diagnose-covid-19)
+  * [AI and Clinical Data Can Help CT Diagnose COVID-19](https://www.diagnosticimaging.com/ct/ai-and-clinical-data-can-help-ct-diagnose-covid-19)
+  * [MIT-IBM Watson AI Lab is Funding 10 Research Projects Addressing the Health, Economic Consequences of the Pandemic](https://www.hpcwire.com/off-the-wire/mit-ibm-watson-ai-lab-is-funding-10-research-projects-addressing-the-health-economic-consequences-of-the-pandemic/)
+  * [DiDi utilises AI to control COVID-19 in South America](https://asia.businesschief.com/leadership/1884/DiDi-utilises-AI-to-control-COVID-19-in-South-America)
+  * [Coronavirus: DRDO developing AI-based face recognition system for marking attendance](https://www.tribuneindia.com/news/nation/coronavirus-drdo-developing-ai-based-face-recognition-system-for-marking-attendance-87420)
+  * **[AI and Surveillance in the Age of Coronavirus](https://venturebeat.com/vb-special-issue-ai-surveillance-during-coronavirus/)** - VB special issue
+  * [Latest AI tech may soon identify lung lesions caused by Covid-19 in minutes](https://www.siliconrepublic.com/machines/ai-ct-scans-covid-19)
+  * [Facial Recognition, Thermal Scanners, and AI: Technology Development Board Approves Projects to Fight COVID-19](https://gadgets.ndtv.com/science/news/technology-development-board-covid-19-coronavirus-tech-projects-approval-facial-recognition-2232056)
+  * [COVID-19 Open AI Consortium – Interview with Principal Investigator Prof. Folkert Asselbergs](https://www.unite.ai/covid-19-open-ai-consortium-interview-with-principal-investigator-prof-folkert-asselbergs/)
+  * [Eko Launches AI-Powered Telehealth Platform for Virtual Pulmonary and Cardiac Exam](https://hitconsultant.net/2020/05/20/eko-ai-powered-telehealth-platform-virtual-pulmonary-cardiac-exam/#.XsXOtDozb-g)
+  * [Vancouver doctors developing a new AI tool to predict COVID-19 infection](https://www.ubyssey.ca/science/ai-covid-prediciton/)
+  
 * May 19
   * [Why Didn't Artificial Intelligence Save Us From Covid-19?](https://www.wired.com/story/artificial-intelligence-couldnt-save-us-from-covid-19/)
   * [Researchers Find New Potential in Coronavirus Chatbots](https://voicebot.ai/2020/05/18/researchers-find-new-potential-in-coronavirus-chatbots/)
@@ -756,7 +789,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
   * [NVIDIA Adds GPU and AI Expertise to COVID-19 HPC Consortium](https://insidehpc.com/2020/04/nvidia-adds-gpu-and-ai-expertise-to-covid-19-hpc-consortium/)
   * [Acko General launches AI-based Covid-19 symptom checker](https://yourstory.com/2020/04/acko-general-ai-based-covid-19-symptom-checker)
   * **[Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms](https://venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/)**
-  * [AI runs smack up against a big data problem in COVID-19 diagnosis](https://www.zdnet.com/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/)
+  * **[AI runs smack up against a big data problem in COVID-19 diagnosis](https://www.zdnet.com/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/)**
   * [Oxford firm to screen 15,000 drugs in search for coronavirus cure](https://www.theguardian.com/business/2020/mar/31/oxford-firm-to-screen-15000-drugs-in-search-for-coronavirus-treatment)
   * [Seoul city utilizes AI calling system to monitor people in COVID-19 self-quarantine](http://english.seoul.go.kr/seoul-city-utilizes-ai-calling-system-to-monitor-people-in-covid-19-self-quarantine/)
   * [MIT Researchers Turn COVID-19 into a Classical Melody Using AI](https://interestingengineering.com/mit-researchers-turn-covid-19-into-a-classical-melody-using-ai)
