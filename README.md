@@ -91,7 +91,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr / astaria82@
 * [C3.ai Digital Transformation Institute](https://c3dti.ai/)
 * [Defeat Covid19 #defeatcovid19](https://www.defeatcovid19.org/) - [Introduction to the Group on GitHub](https://github.com/defeatcovid19) and first delivered [Pytorch solution for predictions on X-ray images of Covid-19 patients](https://github.com/defeatcovid19/defeatcovid19-net-pytorch).
 * [The COVID-19 High Performance Computing Consortium](https://covid19-hpc-consortium.org/)
-* [COVID-19 OPEN AI CONSORTIUM] (https://owkin.com/covid-19/)
+* [COVID-19 OPEN AI CONSORTIUM](https://owkin.com/covid-19/)
 
 ## International Activity
 ### EU 
